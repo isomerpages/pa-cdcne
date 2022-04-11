@@ -46,4 +46,9 @@ sections:
       button: FIND OUT MORE
       url: /Permalink
       alt: Image alt text
+  - infobar:
+      title: Join Us as a CDC Volunteer!
+      description: Join Us as a CDC Volunteer
+      button: Be A Volunteer
+      url: /Permalink
 ---
