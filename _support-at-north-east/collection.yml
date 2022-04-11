@@ -1,4 +1,5 @@
 collections:
   support-at-north-east:
     output: true
-    order: []
+    order:
+      - Financial Assistance/.keep
