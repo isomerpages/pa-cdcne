@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Collabrations.md
       - Volunteers.md
       - EDM Subscription.md
       - Contact Us.md
