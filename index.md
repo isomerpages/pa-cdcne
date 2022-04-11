@@ -22,19 +22,28 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      subtitle: Financial Support @ North East
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Financial Support @ North East
       description: Infopic description
       button: Find Out More
       url: /permalink
+      alt: Image alt text
+  - infopic:
+      title: Support @ North East
+      description: Infopic description
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
+  - infopic:
+      title: Employment Support  @ North East
+      description: Infopic description
+      button: FIND OUT MORE
+      url: /Permalink
+      alt: Image alt text
+  - infopic:
+      title: Job Placement Centers
+      description: Infopic description
+      button: FIND OUT MORE
+      url: /Permalink
       alt: Image alt text
 ---
