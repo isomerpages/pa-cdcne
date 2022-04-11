@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Collabrations.md
-      - Volunteers.md
-      - EDM Subscription.md
-      - Contact Us.md
-      - Mayor's Message.md
       - About NE CDC.md
+      - Mayor's Message.md
+      - Contact Us.md
+      - EDM Subscription.md
+      - Volunteers.md
+      - Collabrations.md
