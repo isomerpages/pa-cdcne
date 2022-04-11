@@ -2,6 +2,7 @@ collections:
   programmes-and-schemes:
     output: true
     order:
+      - HEART at North East.md
       - Programmes/.keep
       - Programmes/Job Placement Centres.md
       - Programmes/Living Graciously Leaving Triumphantly.md
