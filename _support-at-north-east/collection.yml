@@ -2,8 +2,8 @@ collections:
   support-at-north-east:
     output: true
     order:
-      - Financial Assistance/WeCare @ North East.md
-      - Financial Assistance/School Transport Subsidy .md
-      - Financial Assistance/North East Growth Fund .md
-      - Financial Assistance/Support Programmes @ North East .md
       - Financial Assistance/.keep
+      - Financial Assistance/Support Programmes @ North East .md
+      - Financial Assistance/North East Growth Fund .md
+      - Financial Assistance/School Transport Subsidy .md
+      - Financial Assistance/WeCare @ North East.md
