@@ -2,5 +2,6 @@ collections:
   programmes-and-schemes:
     output: true
     order:
+      - Programmes/Job Placement Centres.md
       - Programmes /Job Placement Centres.md
       - Programmes /.keep
