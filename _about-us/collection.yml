@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - EDM Subscription.md
       - Contact Us.md
       - Mayor's Message.md
       - About NE CDC.md
