@@ -1,0 +1,4 @@
+collections:
+  support-at-north-east:
+    output: true
+    order: []
