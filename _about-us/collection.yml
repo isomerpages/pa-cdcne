@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Mayor's Message.md
       - About NE CDC.md
