@@ -2,6 +2,7 @@ collections:
   support-at-north-east:
     output: true
     order:
+      - Financial Assistance/School Transport Subsidy .md
       - Financial Assistance/North East Growth Fund .md
       - Financial Assistance/Support Programmes @ North East .md
       - Financial Assistance/.keep
