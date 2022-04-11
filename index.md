@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: North Eats CDC
+title: North East CDC
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -52,3 +52,4 @@ sections:
       button: Be A Volunteer
       url: /Permalink
 ---
+
