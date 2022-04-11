@@ -2,8 +2,8 @@ collections:
   programmes-and-schemes:
     output: true
     order:
-      - Upcoming Events .md
-      - Flagship Events .md
-      - HEART at North East.md
-      - Programmes /Job Placement Centres.md
       - Programmes /.keep
+      - Programmes /Job Placement Centres.md
+      - HEART at North East.md
+      - Flagship Events .md
+      - Upcoming Events .md
