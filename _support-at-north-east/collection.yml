@@ -2,4 +2,5 @@ collections:
   support-at-north-east:
     output: true
     order:
+      - Financial Assistance/Support Programmes @ North East .md
       - Financial Assistance/.keep
