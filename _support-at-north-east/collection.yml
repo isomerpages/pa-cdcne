@@ -2,6 +2,7 @@ collections:
   support-at-north-east:
     output: true
     order:
+      - Employment Assistance/SkillsFuture ELearning Courses.md
       - Employment Assistance/SkillsFuture Advice Workshops.md
       - Employment Assistance/Job Placement Centres.md
       - Employment Assistance/Career Discovery @ North East.md
