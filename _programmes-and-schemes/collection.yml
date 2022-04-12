@@ -2,10 +2,10 @@ collections:
   programmes-and-schemes:
     output: true
     order:
-      - Programmes/Living Graciously Leaving Triumphantly.md
-      - Programmes/G!Nnovation Challenge.md
       - Programmes/.keep
+      - Programmes/G!Nnovation Challenge.md
       - Programmes/Job Placement Centres.md
+      - Programmes/Living Graciously Leaving Triumphantly.md
       - HEART at North East.md
       - Flagship Events.md
       - Upcoming Events.md
