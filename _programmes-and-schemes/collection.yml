@@ -2,7 +2,6 @@ collections:
   programmes-and-schemes:
     output: true
     order:
-      - Programmes/Living Graciously Leaving Triumphantly.md
       - Programmes /G!Nnovation Challenge.md
       - Programmes /Upcoming Events .md
       - Programmes /.keep
