@@ -2,6 +2,7 @@ collections:
   programmes-and-schemes:
     output: true
     order:
+      - Programmes /G!Nnovation Challenge.md
       - Programmes /Upcoming Events .md
       - Programmes /.keep
       - Programmes /Job Placement Centres.md
