@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programmes/.keep
-      - Programmes/Programmes.md
       - Programmes/Job Placement Centres.md
       - Programmes/Living Graciously Leaving Triumphantly.md
       - Programmes/G!Nnovation Challenge.md
