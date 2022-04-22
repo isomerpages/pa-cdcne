@@ -1,5 +1,0 @@
-collections:
-  covid-19-relief-fund:
-    output: true
-    order:
-      - COVID 19 Relief Fund.md
