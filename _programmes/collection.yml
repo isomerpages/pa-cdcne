@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Upcoming.md
       - Mental Wellness/.keep
       - Sustainability/.keep
       - Community Inclusion/.keep
