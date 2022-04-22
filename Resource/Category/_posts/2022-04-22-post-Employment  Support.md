@@ -5,5 +5,4 @@ permalink: /Resource/Category/Employment-Support
 date: 2022-04-22
 description: ""
 ---
-
-Lorem ipsum sit amet
+![Employment Support @ North East](/images/HomePage/Employment%20Support.png)
