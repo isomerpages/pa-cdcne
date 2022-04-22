@@ -2,4 +2,5 @@ collections:
   giving-back:
     output: true
     order:
+      - Donate.md
       - Volunteer.md
