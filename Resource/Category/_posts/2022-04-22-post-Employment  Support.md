@@ -7,4 +7,4 @@ description: ""
 ---
 Employment Support at North East CDC
 
-<img src="/images/HomePage/Employment%20Support.png" width="100"     height="100" />
+<img src="/images/HomePage/Employment%20Support.png" width="50"     height="50" />
