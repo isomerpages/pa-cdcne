@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Employment & Lifelong Learning/.keep
       - Financial & Social Assistance/.keep
       - Programmes/.keep
       - Programmes/Job Placement Centres.md
