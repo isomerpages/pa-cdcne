@@ -1,5 +1,5 @@
 collections:
-  programmes-and-schemes:
+  programmes:
     output: true
     order:
       - Programmes/.keep
