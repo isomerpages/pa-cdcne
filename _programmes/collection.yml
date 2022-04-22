@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mental Wellness/.keep
       - Sustainability/.keep
       - Community Inclusion/.keep
       - Home Improvement/.keep
