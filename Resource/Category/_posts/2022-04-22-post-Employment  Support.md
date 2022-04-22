@@ -5,4 +5,7 @@ permalink: /Resource/Category/Employment-Support
 date: 2022-04-22
 description: ""
 ---
-![Employment Support @ North East](/images/HomePage/Employment%20Support.png)
+
+Employment Support at North East CDC
+
+<img src="/images/HomePage/Employment%20Support.png" width="300"     height="300" />
