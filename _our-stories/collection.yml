@@ -2,5 +2,4 @@ collections:
   our-stories:
     output: true
     order:
-      - Heartbeat Magazine.md
       - Annual Report.md
