@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Financial & Social Assistance/.keep
       - Programmes/.keep
       - Programmes/Job Placement Centres.md
       - Programmes/Living Graciously Leaving Triumphantly.md
