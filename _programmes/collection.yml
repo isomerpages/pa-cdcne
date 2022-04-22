@@ -2,10 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Programmes/.keep
-      - Programmes/Job Placement Centres.md
-      - Programmes/Living Graciously Leaving Triumphantly.md
-      - Programmes/G!Nnovation Challenge.md
       - Financial & Social Assistance/.keep
       - Financial & Social Assistance/WeCare @ North East.md
       - Financial & Social Assistance/Growth Fund.md
