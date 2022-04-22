@@ -19,6 +19,8 @@ sections:
         - title: Job Placet centers
           description: ""
           url: ""
+  - resources:
+      button: FIND OUT MORE
   - infopic:
       title: Financial Support @ North East
       description: Infopic description
