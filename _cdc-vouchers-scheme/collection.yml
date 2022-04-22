@@ -1,5 +1,0 @@
-collections:
-  cdc-vouchers-scheme:
-    output: true
-    order:
-      - CDC Vouchers Scheme.md
