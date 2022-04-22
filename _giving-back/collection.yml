@@ -2,6 +2,6 @@ collections:
   giving-back:
     output: true
     order:
-      - Corporate Social Responsibility.md
-      - Donate.md
       - Volunteer.md
+      - Donate.md
+      - Corporate Social Responsibility.md
