@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Home Improvement/.keep
       - Employment & Lifelong Learning/.keep
       - Financial & Social Assistance/.keep
       - Programmes/.keep
