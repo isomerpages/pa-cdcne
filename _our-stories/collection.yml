@@ -2,4 +2,5 @@ collections:
   our-stories:
     output: true
     order:
+      - Heartbeat @ North East.md
       - Annual Report.md
