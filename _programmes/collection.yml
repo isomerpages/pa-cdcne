@@ -2,14 +2,14 @@ collections:
   programmes:
     output: true
     order:
-      - Upcoming.md
-      - Mental Wellness/.keep
-      - Sustainability/.keep
-      - Community Inclusion/.keep
-      - Home Improvement/.keep
-      - Employment & Lifelong Learning/.keep
-      - Financial & Social Assistance/.keep
       - Programmes/.keep
       - Programmes/Job Placement Centres.md
       - Programmes/Living Graciously Leaving Triumphantly.md
       - Programmes/G!Nnovation Challenge.md
+      - Financial & Social Assistance/.keep
+      - Employment & Lifelong Learning/.keep
+      - Home Improvement/.keep
+      - Community Inclusion/.keep
+      - Sustainability/.keep
+      - Mental Wellness/.keep
+      - Upcoming.md
