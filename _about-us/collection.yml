@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our District.md
       - About NE CDC.md
       - Mayor's Message.md
       - Contact Us.md
