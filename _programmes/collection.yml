@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Financial & Social Assistance/Example Title.md
       - Financial & Social Assistance/.keep
       - Financial & Social Assistance/WeCare @ North East.md
       - Financial & Social Assistance/Growth Fund.md
