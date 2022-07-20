@@ -21,7 +21,7 @@ Our schemes include financial assistance and support for families with young c
 *   Singaporean / PR with at least 1 Singaporean Family member in the household
 *   Per Capita Income (PCI) $800 & below
 
-**Application**
+**Application Instructions**
 
 To apply, kindly either
 
