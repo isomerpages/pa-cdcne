@@ -37,13 +37,13 @@ sections:
       button: Find out more
       url: /Permalink
       alt: Job Placement Centres
+  - resources:
+      button: FIND OUT MORE
+      subtitle: This is a subtitle
+      title: This is a title
   - infobar:
       title: Join Us as a CDC Volunteer!
       description: Join Us as a CDC Volunteer
       button: Be A Volunteer
       url: /Permalink
-  - resources:
-      button: FIND OUT MORE
-      subtitle: This is a subtitle
-      title: This is a title
 ---
