@@ -16,7 +16,7 @@ sections:
         - title: Employment Support
           description: ""
           url: ""
-        - title: Job Placet centers
+        - title: Job Placement Centres
           description: ""
           url: ""
       title: This is a title
