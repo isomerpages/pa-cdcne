@@ -1,7 +1,7 @@
 logo: /images/necdclogo.png
 links:
   - title: Home
-    url: /https://pa-cdcne-staging.netlify.app/
+    url: /
   - title: About Us
     collection: about-us
   - title: Programmes
