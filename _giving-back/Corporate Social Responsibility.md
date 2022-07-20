@@ -12,3 +12,5 @@ Aztech Global Ltd sponsored 100 pieces of their house brand kettles, as well as 
 Peh Clan Association packed and distributed grocery care packs to 100 families, who were referred by Pasir Ris Senior Activity Centre (SAC) and Family Service Centre (FSC). This was completed on 18 June 2022. 
 
 Jabil Singapore packed and distributed grocery care packs in an ongoing initiative, which benefitted over 1,000 families this year.
+
+![](/images/CSR%20Photo_Jabil.jpg)
