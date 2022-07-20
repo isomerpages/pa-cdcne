@@ -9,5 +9,3 @@ A programme to support home-based business owners, Fresh Start Market provides p
 ![](/images/Programmes/Fresh%20Start%20Market%20(1).jpg)
 
 ![](/images/Programmes/Fresh%20Start%20Market%20(6).jpg)
-
-![](/images/Programmes/Fresh%20Start%20Market%20(4).jpg)![](/images/Programmes/Fresh%20Start%20Market%20(8).jpg)
