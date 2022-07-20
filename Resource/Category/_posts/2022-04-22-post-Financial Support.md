@@ -27,7 +27,7 @@ To apply, kindly either
 
 | Method 1 | Column 2 |
 | -------- | -------- |
-| kindly email your application form and supporting documents to Northeast_CDC@pa.gov.sg.    | kindly complete the online form and upload relevant supporting documents. You may submit additional documents to Northeast_CDC@pa.gov.sg.      |
+| kindly email your application form and supporting documents to [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).    | kindly complete the online form and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg)      |
 
 
 
