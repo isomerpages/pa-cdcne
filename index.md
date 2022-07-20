@@ -21,37 +21,28 @@ sections:
           url: ""
       title: This is a title
       subtitle: This is a subtitle
-  - resources:
-      button: FIND OUT MORE
-      subtitle: This is a subtitle
-      title: This is a title
   - infopic:
       title: Financial Support @ North East
-      description: Infopic description
-      button: Find Out More
+      button: Find out more
       url: /permalink
-      alt: Image alt text
+      alt: Financial Support
   - infopic:
-      title: Support @ North East
-      description: Infopic description
-      button: FIND OUT MORE
+      title: Employment Support @ North East
+      button: Find out more
       url: /Permalink
-      alt: Image alt text
+      alt: Employment Support
   - infopic:
-      title: Employment Support  @ North East
-      description: Infopic description
-      button: FIND OUT MORE
+      title: Job Placement Centres
+      button: Find out more
       url: /Permalink
-      alt: Image alt text
-  - infopic:
-      title: Job Placement Centers
-      description: Infopic description
-      button: FIND OUT MORE
-      url: /Permalink
-      alt: Image alt text
+      alt: Job Placement Centres
   - infobar:
       title: Join Us as a CDC Volunteer!
       description: Join Us as a CDC Volunteer
       button: Be A Volunteer
       url: /Permalink
+  - resources:
+      button: FIND OUT MORE
+      subtitle: This is a subtitle
+      title: This is a title
 ---
