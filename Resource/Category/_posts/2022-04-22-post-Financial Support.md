@@ -31,7 +31,7 @@ OR
 
 * Email your application form and supporting documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
-If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).
+If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
 If you are not a North East resident, click [here](https://supportgowhere.life.gov.sg/) for more information on the national schemes available. 
 
