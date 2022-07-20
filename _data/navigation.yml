@@ -1,7 +1,5 @@
 logo: /images/necdclogo.png
 links:
-  - title: Home
-    url: /
   - title: About Us
     collection: about-us
   - title: Programmes
