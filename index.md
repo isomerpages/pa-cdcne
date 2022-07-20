@@ -19,6 +19,8 @@ sections:
         - title: Job Placet centers
           description: ""
           url: ""
+      title: This is a title
+      subtitle: This is a subtitle
   - resources:
       button: FIND OUT MORE
       subtitle: This is a subtitle
