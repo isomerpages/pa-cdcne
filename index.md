@@ -26,6 +26,7 @@ sections:
       button: Find out more
       url: /permalink
       alt: Financial Support
+      image: /images/HomePage/Financia_Support_img.png
   - infopic:
       title: Employment Support @ North East
       button: Find out more
