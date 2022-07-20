@@ -2,7 +2,7 @@ title: North East CDC
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#000000"
+  primary-color: "#fa4616"
   secondary-color: "#fa4616"
   media-colors:
     - title: media-color-one
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://pa-cdcne-staging.netlify.app
 prod: https://pa-cdcne-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
