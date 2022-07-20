@@ -10,4 +10,6 @@ The Heart Bakers @ North East programme equips under-privileged stay-home mother
 
 When enrolled in Heart Bakers, participants attend a baking masterclass conducted by a celebrity chef, where they will learn how to bake cookies using a specially handcrafted recipe. They will also participate in a social media and e-marketing course that equips them with skills to start a home business.
 
+![](/images/Heart%20Bakers%20Photo_3.jpg)
+
 Using the recipe they learned from the celebrity chef, participants will bake the Heart Bakers cookies for sale and earn an income to support their families.
