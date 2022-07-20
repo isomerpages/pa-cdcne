@@ -42,9 +42,8 @@ sections:
       subtitle: This is a subtitle
       title: This is a title
   - infobar:
-      title: Join Us as a CDC Volunteer!
-      description: Join Us as a CDC Volunteer
-      button: Be A Volunteer
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
       url: /Permalink
 ---
-
