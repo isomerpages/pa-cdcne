@@ -4,7 +4,7 @@ title: North East CDC
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: NE CDC has a fresh new look! Check out our brand new website!
+notification: Check out NE CDC's brand new website!
 sections:
   - hero:
       background: /images/hero-banner.png
