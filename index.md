@@ -21,6 +21,8 @@ sections:
           url: ""
   - resources:
       button: FIND OUT MORE
+      subtitle: This is a subtitle
+      title: This is a title
   - infopic:
       title: Financial Support @ North East
       description: Infopic description
