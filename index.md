@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: North East CDC
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: Check out NE CDC's brand new website!
@@ -47,3 +47,4 @@ sections:
       button: Be A Volunteer
       url: /Permalink
 ---
+
