@@ -23,19 +23,12 @@ Our schemes include financial assistance and support for families with young c
 
 **Application Instructions**
 
-To apply, kindly either
+To apply, kindly do one of the two methods below:
 
 | Method 1 | Column 2 |
 | -------- | -------- |
-| kindly email your application form and supporting documents to [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).    | kindly complete the online form and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg)      |
+| Kindly email your application form and supporting documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).    | Kindly complete the [online form](https://form.gov.sg/#!/5e994b5f5dad670011b1d2ed) and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg)      |
 
-
-
-* Complete the [online application form](https://form.gov.sg/#!/5e994b5f5dad670011b1d2ed) and upload relevant supporting documents
-
-OR
-
-* Email your application form and supporting documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
 If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
