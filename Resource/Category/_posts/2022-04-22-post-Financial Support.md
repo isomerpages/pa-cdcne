@@ -25,6 +25,10 @@ Our schemes include financial assistance and support for families with young c
 
 To apply, kindly either
 
+| Method 1 | Column 2 |
+| -------- | -------- |
+| kindly email your application form and supporting documents to Northeast_CDC@pa.gov.sg.    | Doe      |
+
 * Complete the [online application form](https://form.gov.sg/#!/5e994b5f5dad670011b1d2ed) and upload relevant supporting documents
 
 OR
