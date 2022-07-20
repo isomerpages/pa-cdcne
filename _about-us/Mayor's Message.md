@@ -16,5 +16,5 @@ We have put in great efforts to develop targeted programmes such as Project Refr
 There is much more we can do when we come together to uplift our community, and I would like to invite you to join us in this journey to co-create, collaborate and contribute to a better North East. If you have an idea or something to contribute, do not hesitate to write to us at [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).
  
 Yours sincerely,
-Desmond Choo
-Mayor, North East District
+
+Desmond Choo, Mayor of North East District
