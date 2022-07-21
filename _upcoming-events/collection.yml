@@ -1,0 +1,4 @@
+collections:
+  upcoming-events:
+    output: true
+    order: []
