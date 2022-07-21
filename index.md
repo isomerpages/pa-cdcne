@@ -28,7 +28,7 @@ sections:
         the "Green" economy and participate in workshops and webinars on skills
         upgrading.
       button: Find out more
-      url: /permalink
+      url: /SkillsFuture-Festival-2022
   - infopic:
       title: Financial Support @ North East
       button: Find out more
