@@ -22,13 +22,13 @@ sections:
       title: This is a title
       subtitle: This is a subtitle
   - infobar:
-      title: SkillsFuture Festival 2022
+      title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
       description: On 30 & 31 July, residents can glean insights on jobs and skills in
         the "Green" economy and participate in workshops and webinars on skills
         upgrading.
       button: Find out more
-      url: /SkillsFuture-Festival-2022
+      url: /SkillsFuture-Festival-North-East-2022
   - infopic:
       title: Financial Support @ North East
       button: Find out more
