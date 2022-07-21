@@ -23,7 +23,7 @@ sections:
       subtitle: This is a subtitle
   - infobar:
       title: SkillsFuture Festival 2022
-      subtitle: Upcoming Programme
+      subtitle: Upcoming Event
       description: On 30 & 31 July, residents can glean insights on jobs and skills in
         the "Green" economy and participate in workshops and webinars on skills
         upgrading.
