@@ -1,4 +1,5 @@
 collections:
   upcoming-events:
     output: true
-    order: []
+    order:
+      - SkillsFuture Festival 2022.md
