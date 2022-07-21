@@ -46,4 +46,12 @@ sections:
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: /Permalink
+  - infobar:
+      title: SkillsFuture Festival 2022
+      subtitle: Upcoming Programme
+      description: From 22 July to 14 August, residents can glean insights on jobs and
+        skills in the "Green" economy and participate in workshops and webinars
+        on skills upgrading.
+      button: Find out more
+      url: /permalink
 ---
