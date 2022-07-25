@@ -1,4 +1,5 @@
 collections:
   our-support:
     output: true
-    order: []
+    order:
+      - Financial Support.md
