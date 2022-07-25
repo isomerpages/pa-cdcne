@@ -8,7 +8,7 @@ notification: Check out NE CDC's brand new website!
 sections:
   - hero:
       background: /images/hero-banner.png
-      title: Bridging Communities in the North East
+      title: Welcome to the North East
       subtitle: Building a caring and cohesive community
       dropdown:
         title: What are you looking for?
