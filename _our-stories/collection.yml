@@ -2,5 +2,5 @@ collections:
   our-stories:
     output: true
     order:
-      - Heartbeat @ North East.md
+      - Heartbeat Magazine.md
       - Annual Report.md
