@@ -7,7 +7,7 @@ permalink: /
 notification: Check out NE CDC's brand new website!
 sections:
   - hero:
-      background: /images/Take a Photo in Our Green Spaces.jpg
+      background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
         - title: Financial Support
@@ -19,6 +19,8 @@ sections:
         - title: Job Placement Centres
           description: ""
           url: ""
+      title: Title
+      subtitle: Subtitle
   - infobar:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
