@@ -47,6 +47,12 @@ sections:
       url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
       image: /images/National Day Heartland Celebrations @ North East.jpg
       alt: Image alt text
+  - infobar:
+      title: Volunteer with us!
+      description: There are many volunteering opportunities available in the North
+        East and we welcome volunteers of all ages and interests.
+      button: Find out more
+      url: https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
