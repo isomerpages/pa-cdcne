@@ -8,19 +8,19 @@ notification: Check out NE CDC's brand new website!
 sections:
   - hero:
       background: /images/hero-banner.png
-      url: /contact-us/
-      key_highlights:
-        - title: Financial Support
-          description: ""
-          url: ""
-        - title: Employment Support
-          description: ""
-          url: ""
-        - title: Job Placement Centres
-          description: ""
-          url: ""
       title: Title
       subtitle: Subtitle
+      dropdown:
+        title: What are you looking for?
+        options:
+          - title: Financial Assistance
+            url: ""
+          - title: Employment Assistance
+            url: ""
+          - title: CDC Vouchers Scheme
+            url: ""
+          - title: COVID-19 Relief Fund
+            url: ""
   - infobar:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
