@@ -49,5 +49,5 @@ sections:
       alt: Image alt text
   - resources:
       button: Find out more
-      title: How we can help you
+      title: How can we help you?
 ---
