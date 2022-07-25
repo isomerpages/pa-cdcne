@@ -38,7 +38,7 @@ sections:
       button: Subscribe Now
       url: /Permalink
   - infopic:
-      title: National Day Celebrations @ North East
+      title: Celebrate National Day @ North East!
       subtitle: Save the date on 6 August!
       description: Celebrate Singapore’s 57th birthday in the North East at
         𝗣𝘂𝗻𝗴𝗴𝗼𝗹 𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a
