@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
-  - title: Need Assistance?
-    resource_room: true
+  - title: Our Support
+    collection: our-support
   - title: Upcoming Events
     collection: upcoming-events
   - title: Giving Back
