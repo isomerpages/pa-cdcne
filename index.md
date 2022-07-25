@@ -8,8 +8,10 @@ notification: Check out NE CDC's brand new website!
 sections:
   - hero:
       background: /images/hero-banner.png
-      title: Title
-      subtitle: Subtitle
+      title: Building a Caring & Cohesive Community
+      subtitle: North East CDC administers financial and employment assistance to
+        residents in need, and plan outreach programmes to promote bonding and
+        social cohesion.
       dropdown:
         title: What are you looking for?
         options:
