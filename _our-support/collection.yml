@@ -1,6 +1,0 @@
-collections:
-  our-support:
-    output: true
-    order:
-      - Employment Support.md
-      - Financial Support.md
