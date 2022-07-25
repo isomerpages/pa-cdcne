@@ -47,4 +47,13 @@ sections:
       url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
       image: /images/National Day Heartland Celebrations @ North East.jpg
       alt: Image alt text
+  - infopic:
+      title: Claim your CDC Vouchers now
+      subtitle: Claim them by 31 Dec 2022
+      description: No need to download a mobile app. Claim your digital CDC Vouchers
+        2021 & 2022 easily with just a few taps.
+      button: Claim Now
+      url: https://signup.redeem.gov.sg/?lang=en
+      image: /images/Media Files for CARE/CDC vouchers.png
+      alt: Image alt text
 ---
