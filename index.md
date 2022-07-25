@@ -39,7 +39,6 @@ sections:
       url: /Permalink
   - infopic:
       title: Celebrate National Day @ North East
-      subtitle: Save the date on 6 Aug 2022
       description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
         𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a fun-filled carnival,
         games and more!
