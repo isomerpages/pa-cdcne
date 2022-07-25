@@ -46,6 +46,5 @@ sections:
         upgrading.
       button: Register Now
       url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
-      image: /images/SkillsFuture Festival @ North East 2022 - Panel Discussion.jpg
       alt: Image alt text
 ---
