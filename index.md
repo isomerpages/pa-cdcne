@@ -38,4 +38,14 @@ sections:
   - resources:
       button: Find out more
       title: How we can help you
+  - infopic:
+      title: SkillsFuture Festival @ North East 2022
+      subtitle: Upcoming Event
+      description: On 30 & 31 July, residents can glean insights on jobs and skills in
+        the "Green" economy and participate in workshops and webinars on skills
+        upgrading.
+      button: Register Now
+      url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
+      image: /images/SkillsFuture Festival @ North East 2022 - Panel Discussion.jpg
+      alt: Image alt text
 ---
