@@ -47,4 +47,5 @@ sections:
       button: Register Now
       url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
       alt: Image alt text
+      image: /images/292694374_413144884181203_6841495086079214418_n (1).jpg
 ---
