@@ -14,9 +14,9 @@ sections:
       dropdown:
         title: What are you looking for?
         options:
-          - title: Financial Assistance
+          - title: Financial Support
             url: ""
-          - title: Employment Assistance
+          - title: Employment Support
             url: ""
           - title: CDC Vouchers Scheme
             url: ""
