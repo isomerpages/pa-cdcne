@@ -4,12 +4,12 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
+  - title: Upcoming Events
+    collection: upcoming-events
   - title: Giving Back
     collection: giving-back
   - title: Publications
     collection: our-stories
-  - title: Upcoming Events
-    collection: upcoming-events
   - title: Media Center
     resource_room: true
   - title: Contact Us
