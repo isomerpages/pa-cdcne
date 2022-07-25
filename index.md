@@ -47,6 +47,6 @@ sections:
       url: /Permalink
       alt: Employment Support
   - resources:
-      button: More media
-      title: Media Center
+      button: Find out more
+      title: How we can help you
 ---
