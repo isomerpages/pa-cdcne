@@ -36,23 +36,17 @@ sections:
       url: /permalink
       alt: Financial Support
       image: /images/HomePage/Financia_Support_img.png
-  - infopic:
-      title: Employment Support @ North East
-      button: Find out more
-      url: /Permalink
-      alt: Employment Support
-  - infopic:
-      title: Job Placement Centres
-      button: Find out more
-      url: /Permalink
-      alt: Job Placement Centres
-  - resources:
-      button: FIND OUT MORE
-      subtitle: This is a subtitle
-      title: This is a title
   - infobar:
       title: Subscribed to our monthly EDM yet?
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: /Permalink
+  - infopic:
+      title: Employment Support @ North East
+      button: Find out more
+      url: /Permalink
+      alt: Employment Support
+  - resources:
+      button: Find out more
+      title: Media Center
 ---
