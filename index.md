@@ -9,7 +9,7 @@ notification: Explore job opportunities in the green economy at SkillsFuture
 sections:
   - hero:
       background: /images/hero-banner.png
-      title: The North East District
+      title: North East CDC
       subtitle: Building a caring and cohesive community
       dropdown:
         title: What are you looking for?
