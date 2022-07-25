@@ -40,4 +40,14 @@ sections:
   - resources:
       button: Find out more
       title: How we can help you
+  - infopic:
+      title: National Day Celebrations @ North East
+      subtitle: Save the date on 6 August!
+      description: Celebrate Singapore’s 57th birthday in the North East at
+        𝗣𝘂𝗻𝗴𝗴𝗼𝗹 𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a
+        fun-filled carnival, games and more!
+      button: Find out more
+      url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
+      image: /images/National Day Heartland Celebrations @ North East.jpg
+      alt: Image alt text
 ---
