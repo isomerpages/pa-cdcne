@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About NECDC.md
+      - About NE CDC.md
       - Our District.md
       - Mayor's Message.md
