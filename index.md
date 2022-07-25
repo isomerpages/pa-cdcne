@@ -40,9 +40,9 @@ sections:
   - infopic:
       title: Celebrate National Day @ North East
       subtitle: Save the date on 6 Aug 2022
-      description: Celebrate Singapore’s 57th birthday in the North East at
-        𝗣𝘂𝗻𝗴𝗴𝗼𝗹 𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a
-        fun-filled carnival, games and more!
+      description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
+        𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a fun-filled carnival,
+        games and more!
       button: More details
       url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
       image: /images/National Day Heartland Celebrations @ North East.jpg
