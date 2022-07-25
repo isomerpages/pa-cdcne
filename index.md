@@ -4,7 +4,8 @@ title: North East CDC
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check out NE CDC's brand new website!
+notification: Explore job opportunities in the green economy at SkillsFuture
+  Festival @ North East 2022 on 30 & 31 July!
 sections:
   - hero:
       background: /images/hero-banner.png
