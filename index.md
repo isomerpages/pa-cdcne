@@ -14,14 +14,14 @@ sections:
       dropdown:
         title: What kind of support do you need?
         options:
-          - title: Financial Support
-            url: ""
-          - title: Employment Support
-            url: ""
-          - title: CDC Vouchers Scheme
-            url: ""
+          - title: WeCare @ North East Fund
+            url: /programmes/financial-and-social-assistance/wecare-at-north-east
+          - title: North East Growth Fund
+            url: /programmes/financial-and-social-assistance/growth-fund
+          - title: School Transport Subsidy
+            url: /programmes/financial-and-social-assistance/school-transport-subsidy
           - title: COVID-19 Relief Fund
-            url: ""
+            url: /programmes/financial-and-social-assistance/covid-19-relief
   - infopic:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
