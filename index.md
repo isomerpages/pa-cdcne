@@ -12,7 +12,7 @@ sections:
       title: North East CDC
       subtitle: Building a caring and cohesive community
       dropdown:
-        title: What kind of support do you need?
+        title: Require financial or social assistance?
         options:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
