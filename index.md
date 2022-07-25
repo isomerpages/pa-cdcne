@@ -32,11 +32,6 @@ sections:
       url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
       alt: Image alt text
       image: /images/SkillsFuture Festival @ North East 2022 (Home).jpg
-  - infobar:
-      title: Subscribed to our monthly EDM yet?
-      description: Keep up to date on the latest happenings!
-      button: Subscribe Now
-      url: /Permalink
   - infopic:
       title: Celebrate National Day @ North East
       description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
@@ -46,12 +41,6 @@ sections:
       url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
       image: /images/National Day Heartland Celebrations @ North East.jpg
       alt: Image alt text
-  - infobar:
-      title: Volunteer with us!
-      description: There are many volunteering opportunities available in the North
-        East and we welcome volunteers of all ages and interests.
-      button: Find out more
-      url: https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
@@ -60,4 +49,15 @@ sections:
       url: https://signup.redeem.gov.sg/?lang=en
       image: /images/Media Files for CARE/CDC vouchers.png
       alt: Image alt text
+  - infobar:
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
+      url: /Permalink
+  - infobar:
+      title: Volunteer with us!
+      description: There are many volunteering opportunities available in the North
+        East and we welcome volunteers of all ages and interests.
+      button: Find out more
+      url: https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53
 ---
