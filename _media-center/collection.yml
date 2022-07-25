@@ -1,0 +1,4 @@
+collections:
+  media-center:
+    output: true
+    order: []
