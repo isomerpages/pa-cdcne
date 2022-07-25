@@ -37,9 +37,6 @@ sections:
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: /Permalink
-  - resources:
-      button: Find out more
-      title: How we can help you
   - infopic:
       title: National Day Celebrations @ North East
       subtitle: Save the date on 6 August!
@@ -50,4 +47,7 @@ sections:
       url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
       image: /images/National Day Heartland Celebrations @ North East.jpg
       alt: Image alt text
+  - resources:
+      button: Find out more
+      title: How we can help you
 ---
