@@ -5,7 +5,7 @@ links:
   - title: Programmes
     collection: programmes
   - title: Our Support
-    collection: our-support
+    resource_room: true
   - title: Upcoming Events
     collection: upcoming-events
   - title: Giving Back
@@ -14,5 +14,3 @@ links:
     collection: our-stories
   - title: Contact Us
     url: /contact-us/
-  - title: Our Support
-    resource_room: true
