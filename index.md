@@ -12,7 +12,7 @@ sections:
       title: North East CDC
       subtitle: Building a caring and cohesive community
       dropdown:
-        title: What kind of support do you need?
+        title: Need assistance?
         options:
           - title: Financial Support
             url: ""
