@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: North East CDC
-description: An Isomer site of the Singapore Government
+description: Official website of North East Community Development Council (NE CDC)
 image: /images/isomer-logo.svg
 permalink: /
 notification: Explore job opportunities in the green economy at SkillsFuture
@@ -50,3 +50,4 @@ sections:
       button: Find out more
       title: How we can help you
 ---
+
