@@ -49,7 +49,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: Claim your CDC Vouchers now
-      subtitle: Claim them by 31 Dec 2022
       description: No need to download a mobile app. Claim your digital CDC Vouchers
         2021 & 2022 easily with just a few taps.
       button: Claim Now
