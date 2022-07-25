@@ -10,10 +10,7 @@ links:
     collection: our-stories
   - title: Upcoming Events
     collection: upcoming-events
+  - title: Media Center
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
-  - title: Media Center
-    url: /permalink
-    sublinks:
-      - title: Test
-        url: /permalink
