@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Mental Health First Aid.md
       - Financial & Social Assistance/.keep
       - Financial & Social Assistance/WeCare @ North East.md
       - Financial & Social Assistance/North East Growth Fund.md
