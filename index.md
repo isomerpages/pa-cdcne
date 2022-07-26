@@ -59,7 +59,7 @@ sections:
       button: Subscribe Now
       url: /Permalink
   - infobar:
-      title: Make a Donation!
+      title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous
         donation will be entitled to 2.5 times of tax deduction.
       button: Find out more
