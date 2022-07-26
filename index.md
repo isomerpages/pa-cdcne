@@ -59,9 +59,9 @@ sections:
       button: Subscribe Now
       url: /Permalink
   - infobar:
-      title: Volunteer with us!
-      description: There are many volunteering opportunities available in the North
-        East and we welcome volunteers of all ages and interests.
+      title: Make a Donation!
+      description: Keen to help needy and disadvantaged residents? Your generous
+        donation will be entitled to 2.5 times of tax deduction.
       button: Find out more
-      url: https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53
+      url: /giving-back/donate
 ---
