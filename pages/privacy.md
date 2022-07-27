@@ -2,9 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-### **Government Agency Privacy Statement**
-
-**Government of Singapore Privacy Statement**
+### **Government of Singapore Privacy Statement**
 
 This is a Government Agency website.  
  
