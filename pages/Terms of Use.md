@@ -3,9 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 description: ""
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
-
 **General**
 
 Thank you for visiting the Web Site. By accessing the Web Site and any pages thereof, you shall be deemed to have accepted to be legally bound by these Terms and Conditions of Use. If you do not agree to these terms and conditions of use, please do not use this Web Site or any pages thereof.
