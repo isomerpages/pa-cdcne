@@ -4,7 +4,7 @@ permalink: /programmes/fresh-start-market
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---
-A programme to support home-based business owners, Fresh Start Market provides participants with a platform to sell their items and widen their customer base. This could be either through an e-commerce platform, or a physical space at Our Tampines Hub. This service is provided at no costs to participants, enabling them to increase their profits from the sale of their items.
+Fresh Start Market supports home-based business owners in the North East with a platform to sell their products and resources to widen their outreach. Budding entrepreneurs can tap on the available e-commerce platform and physical space at Our Tampines Hub to grow their business.
 
 ![](/images/Programmes/Fresh%20Start%20Market%20(1).jpg)
 
