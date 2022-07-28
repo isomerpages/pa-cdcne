@@ -16,4 +16,3 @@ For more information and details of eligibility criteria, you can either:
 
 
 If you have any further queries, you may email us at [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
-
