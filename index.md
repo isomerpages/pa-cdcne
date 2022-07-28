@@ -4,12 +4,9 @@ title: North East CDC
 description: Official website of North East Community Development Council (NE CDC)
 image: /images/isomer-logo.svg
 permalink: /
-notification: Explore job opportunities in the green economy at SkillsFuture
-  Festival @ North East 2022 on 30 & 31 July!
+notification: ""
 sections:
   - hero:
-      title: North East CDC
-      subtitle: Building a caring and cohesive community
       dropdown:
         title: Require financial or social assistance?
         options:
