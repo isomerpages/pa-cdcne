@@ -21,6 +21,8 @@ sections:
           - title: Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
       background: /images/New Banner.jpg
+      title: North East CDC
+      subtitle: Building a caring and inclusive community
   - infopic:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
