@@ -4,6 +4,6 @@ permalink: /programmes/Sustainability/North-East-Green-Adventure
 description: ""
 third_nav_title: Sustainability
 ---
-The North East Green Adventure aims to educate pre-schoolers and lower primary students on topics related to the environment. This is achieved through incorporating environment-related activities for students to bring home and do together with their families.
+The North East Green Adventure educates pre-schoolers and lower primary students on topics related to the environment. This is achieved through incorporating environment-related activities for students to bring home and do together with their families.
 
 ![](/images/Media%20Files%20for%20BOND/North%20East%20Green%20Adventure%20Pic.png)
