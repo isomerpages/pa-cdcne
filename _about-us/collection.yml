@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About NE CDC.md
-      - Our District.md
       - Mayor's Message.md
