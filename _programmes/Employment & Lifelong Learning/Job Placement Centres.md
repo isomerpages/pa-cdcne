@@ -12,5 +12,5 @@ Check out the list of Job Placement Centres in North East here:
 
 | Venue | Address |
 | -------- | -------- |
-| Text     | Text     |
-
+| Pasir Ris Elias Community Club | 93 Pasir Ris Drive 3, #02-02 Singapore 519498 |
+| Punggol 21 Community Club
