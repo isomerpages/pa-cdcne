@@ -3,8 +3,6 @@ title: Mayor's Message
 permalink: /about-us/mayors-message
 description: ""
 ---
-![](/images/Mayor%20Desmond%20Choo%20(cropped)-2.jpg)
-
 Dear Residents,
  
 Greetings from the North East CDC!
