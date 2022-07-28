@@ -4,7 +4,7 @@ permalink: /programmes/Home-Improvement/Project-Refresh
 description: ""
 third_nav_title: Home Improvement
 ---
-A collaboration between Young-NTUC and North East CDC, Project Refresh aims to improve the living environment of seniors and low-income families through a series of refurbishment works such as painting, cleaning, decluttering within the North East District through the collaborative efforts of community and corporate partners. 
+A collaboration between Young-NTUC and North East CDC, Project Refresh aims to improve the living environment of seniors/low-income families through a series of refurbishment works such as painting, cleaning, decluttering within the North East District through the collaborative efforts of community and corporate partners.
 
 ![](/images/Media%20Files%20for%20PVM/Project%20Refresh%20Photo%203.jpg)
 
