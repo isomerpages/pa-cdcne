@@ -20,7 +20,7 @@ sections:
             url: /programmes/financial-and-social-assistance/covid-19-relief
           - title: Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
-      background: /images/New Banner.jpg
+      background: /images/Banner.jpg
       title: Building a caring and inclusive community
   - infopic:
       title: SkillsFuture Festival @ North East 2022
