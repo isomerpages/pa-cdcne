@@ -4,7 +4,7 @@ permalink: /programmes/Employment-and-Lifelong-Learning/Heart-Bakers-North-East
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---
-The Heart Bakers @ North East programme equips under-privileged stay-home mothers and aspiring home bakers with baking skills, as well as basic e-marketing skills, to start their own home baking business. Through this programme, participants learn a practical skill to supplement their household income and financially support their families.
+The Heart Bakers @ North East programme equips lower income stay-home mothers and aspiring home bakers with baking, business and marketing skills, to start their own home baking business.
 
 ![](/images/Media%20Files%20for%20ELL/Heart%20Bakers%20Photo%201.jpg)
 
@@ -12,4 +12,4 @@ When enrolled in Heart Bakers, participants attend a baking masterclass conducte
 
 ![](/images/Heart%20Bakers%20Photo_3.jpg)
 
-Using the recipe they learned from the celebrity chef, participants will bake the Heart Bakers cookies for sale and earn an income to support their families.
+Upon completing the training, Heartbakers will bake the cookies for sale. Proceeds goes to Heartbakers to supplement their household income and support them in starting their own business.
