@@ -23,6 +23,7 @@ sections:
             url: /programmes/financial-and-social-assistance/covid-19-relief
           - title: Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
+      background: /images/NECDC Web Banner-01.png
   - infopic:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
