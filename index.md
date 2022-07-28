@@ -20,7 +20,7 @@ sections:
             url: /programmes/financial-and-social-assistance/covid-19-relief
           - title: Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
-      background: /images/NE CDC Homepage Banner.jpg
+      background: /images/Artboard 1-100.jpg
   - infopic:
       title: SkillsFuture Festival @ North East 2022
       subtitle: Upcoming Event
