@@ -8,7 +8,6 @@ notification: Explore job opportunities in the green economy at SkillsFuture
   Festival @ North East 2022 on 30 & 31 July!
 sections:
   - hero:
-      background: /images/hero-banner.png
       title: North East CDC
       subtitle: Building a caring and cohesive community
       dropdown:
