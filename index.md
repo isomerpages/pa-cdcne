@@ -57,7 +57,8 @@ sections:
   - infopic:
       title: Which District am I in?
       subtitle: District Locator
-      description: Enter your postal code in our District Locator.
+      description: Enter your postal code in our District Locator to find out your
+        District's information.
       button: Find Out Now
       url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
       image: /images/District Information.png
