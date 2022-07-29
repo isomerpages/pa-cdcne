@@ -8,7 +8,7 @@ Four Job Placement Centres are set up in collaboration with the Grassroots Organ
 
 Check out the list of Job Placement Centres in North East here:
 
-
+##### Project S.U.C.C.E.S.S.
 
 | Venue | Address |
 | -------- | -------- |
