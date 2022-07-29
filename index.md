@@ -60,4 +60,12 @@ sections:
         donation will be entitled to 2.5 times of tax deduction.
       button: Find out more
       url: /giving-back/donate
+  - infopic:
+      title: Which District am I in?
+      subtitle: District Locator
+      description: Enter your postal code in our District Locator.
+      button: Find Out Now
+      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      image: /images/District Information.png
+      alt: Image alt text
 ---
