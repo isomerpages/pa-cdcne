@@ -13,9 +13,7 @@ Check out the list of Job Placement Centres in North East here:
 | Centre Name | Address | Contact Details |
 | -------- | -------- | ------- |
 | Project S.U.C.C.E.S.S. @ Pasir Ris Elias Community Club | 93 Pasir Ris Drive 3, #02-02 Singapore 519498 | 6388 1742 / 9171 3573 |
-
 | Project S.U.C.C.E.S.S. @ Punggol 21 Community Club | 80 Punggol Field, Basement 1, Singapore 828815 | 6388 1742 / 9171 3573 |
-
 | Project S.U.C.C.E.S.S. @ Sengkang Community Club | 2 Sengkang Square, #04-04, Singapore 545025 | 6388 1742 / 9171 3573 |
 
 
