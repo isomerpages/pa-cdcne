@@ -10,4 +10,4 @@ With the distribution of CDC vouchers in May 2022, all Singaporean households ca
   
 Look out for the CDC Vouchers decal displayed at the merchant or hawker stall shopfront, and take this opportunity to explore and get to know your neighbourhood too!  
   
-**Search for merchants in the North East [here](https://www.gowhere.gov.sg/cdcvouchersmerchants).**
+Search for merchants in the North East [here](https://www.gowhere.gov.sg/cdcvouchersmerchants).
