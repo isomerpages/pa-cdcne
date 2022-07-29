@@ -13,7 +13,7 @@ sections:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
           - title: North East Growth Fund
-            url: /programmes/financial-and-social-assistance/growth-fund
+            url: programmes/financial-and-social-assistance/north-east-growth-fund
           - title: School Transport Subsidy
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
           - title: COVID-19 Relief Fund
