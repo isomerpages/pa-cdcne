@@ -10,7 +10,7 @@ Check out the list of Job Placement Centres in North East here:
 
 ##### Project S.U.C.C.E.S.S.
 
-| Name | Address |
+| Centre Name | Address |
 | -------- | -------- |
 | Project S.U.C.C.E.S.S. @ Pasir Ris Elias Community Club | 93 Pasir Ris Drive 3, #02-02 Singapore 519498 |
 | Project S.U.C.C.E.S.S. @ Punggol 21 Community Club | 80 Punggol Field, Basement 1, Singapore 828815 |
@@ -19,7 +19,7 @@ Check out the list of Job Placement Centres in North East here:
 ##### Job Hub
 
 
-| Name | Address | Contact Details
+| Centre Name | Address | Contact Details
 | -------- | -------- | ------- |
 | Job Hub @ Bedok Reservoir-Punggol | Blk 810, Hougang Central #02-216 Singapore 530810 | 8273 3277 |
 | Job Hub @ Hougang | Blk 2 Hougang Ave 3 #01-292 Singapore 530002 | 6383 5935 |
