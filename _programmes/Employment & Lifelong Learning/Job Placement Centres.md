@@ -19,7 +19,8 @@ Check out the list of Job Placement Centres in North East here:
 ##### Job Hub
 
 
-| Location | Address Details |
-| -------- | -------- |
-| Text     | Text     |
-
+| Location | Address Details | Contact Details
+| -------- | -------- | ------- |
+| Job Hub @ Bedok Reservoir-Punggol | Blk 810, Hougang Central #02-216 Singapore 530810 | 8273 3277 |
+| Job Hub @ Hougang | Blk 2 Hougang Ave 3 #01-292 Singapore 530002 | 6383 5935 |
+| Job Hub @ Kaki Bukit | Blk 526, Bedok North St 3 #01-490 Singapore 460526 | 9167 2217 |
