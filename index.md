@@ -18,10 +18,10 @@ sections:
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
           - title: Dedicated Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
-          - title: SkillsFuture Advice Workshops
-            url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
           - title: Job Placement Centres
             url: /programmes/employment-and-lifelong-learning/job-placement-centres
+          - title: SkillsFuture Advice Workshops
+            url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
   - infopic:
