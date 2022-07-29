@@ -29,7 +29,7 @@ Check out the list of Job Placement Centres in North East here:
 
 | Address | Contact Details |
 | -------- | ------- |
-| Blk 2 Hougang Ave 3 #01-292, Singapore 530002 | 6383 5935 |
+| Blk 2, Hougang Ave 3 #01-292, Singapore 530002 | 6383 5935 |
 
 ##### Job Hub @ Kaki Bukit
 
