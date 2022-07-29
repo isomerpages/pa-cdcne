@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       dropdown:
-        title: Require financial or social assistance?
+        title: Need financial/social assistance?
         options:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
