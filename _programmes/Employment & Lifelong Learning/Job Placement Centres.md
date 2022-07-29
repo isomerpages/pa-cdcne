@@ -19,11 +19,19 @@ Check out the list of Job Placement Centres in North East here:
 | Project S.U.C.C.E.S.S. @ Sengkang Community Club | 2 Sengkang Square, #04-04, Singapore 545025 | 6388 1742 / 9171 3573 |
 
 
-##### Job Hub
+##### Job Hub @ Bedok Reservoir-Punggol
 
 
-| Centre Name | Address | Contact Details
-| -------- | -------- | ------- |
-| Job Hub @ Bedok Reservoir-Punggol | Blk 810, Hougang Central #02-216 Singapore 530810 | 8273 3277 |
-| Job Hub @ Hougang | Blk 2 Hougang Ave 3 #01-292 Singapore 530002 | 6383 5935 |
-| Job Hub @ Kaki Bukit | Blk 526, Bedok North St 3 #01-490 Singapore 460526 | 9167 2217 |
+| Address | Contact Details
+| -------- | -------- |
+| Blk 810, Hougang Central #02-216 Singapore 530810 | 8273 3277 |
+
+##### Job Hub @ Hougang
+| Address | Contact Details |
+| -------- | ------- |
+| Blk 2 Hougang Ave 3 #01-292 Singapore 530002 | 6383 5935 |
+
+##### Job Hub @ Kaki Bukit
+| Address | Contact Details |
+| -------- | ------- |
+| Blk 526, Bedok North St 3 #01-490 Singapore 460526 | 9167 2217 |
