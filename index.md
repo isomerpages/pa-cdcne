@@ -18,7 +18,7 @@ sections:
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
           - title: COVID-19 Relief Fund
             url: /programmes/financial-and-social-assistance/covid-19-relief
-          - title: Ambulance Service
+          - title: Dedicated Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
@@ -54,6 +54,15 @@ sections:
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: https://form.gov.sg/62dfa95050c946001247dc25
+  - infopic:
+      title: Which District am I in?
+      subtitle: District Locator
+      description: Enter your postal code in our District Locator to find out your
+        District's information.
+      button: Find Out Now
+      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      image: /images/District Information.png
+      alt: Image alt text
   - infobar:
       title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous

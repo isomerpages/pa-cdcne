@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: North East CDC
 locations:
   - address:
-      - 1 Tampines Walk
-      - "Our Tampines Hub, #04-31"
+      - Our Tampines Hub
+      - "1 Tampines Walk, #04-31"
       - "528523"
     operating_hours:
       - days: Mon - Fri
