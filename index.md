@@ -1,36 +1,63 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: North East CDC
+description: Official website of North East Community Development Council (NE CDC)
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      dropdown:
+        title: Require financial or social assistance?
+        options:
+          - title: WeCare @ North East Fund
+            url: /programmes/financial-and-social-assistance/wecare-at-north-east
+          - title: North East Growth Fund
+            url: programmes/financial-and-social-assistance/north-east-growth-fund
+          - title: School Transport Subsidy
+            url: /programmes/financial-and-social-assistance/school-transport-subsidy
+          - title: COVID-19 Relief Fund
+            url: /programmes/financial-and-social-assistance/covid-19-relief
+          - title: Ambulance Service
+            url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
+      background: /images/Banner.jpg
+      title: Building a caring and inclusive community
+  - infopic:
+      title: SkillsFuture Festival @ North East 2022
+      subtitle: Upcoming Event
+      description: On 30 & 31 July, residents can glean insights on jobs and skills in
+        the "Green" economy and participate in workshops and webinars on skills
+        upgrading.
+      button: Register Now
+      url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
+      alt: Image alt text
+      image: /images/SkillsFuture Festival @ North East 2022 (Home).jpg
+  - infopic:
+      title: Celebrate National Day @ North East
+      description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
+        𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a fun-filled carnival,
+        games and more!
+      button: More details
+      url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
+      image: /images/National Day Heartland Celebrations @ North East.jpg
+      alt: Image alt text
+  - infopic:
+      title: Claim your CDC Vouchers now
+      description: No need to download a mobile app. Claim your digital CDC Vouchers
+        2021 & 2022 easily with just a few taps.
+      button: Claim Now
+      url: https://signup.redeem.gov.sg/?lang=en
+      image: /images/Media Files for CARE/CDC vouchers.png
+      alt: Image alt text
+  - infobar:
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
+      url: https://form.gov.sg/62dfa95050c946001247dc25
+  - infobar:
+      title: Make a Donation
+      description: Keen to help needy and disadvantaged residents? Your generous
+        donation will be entitled to 2.5 times of tax deduction.
+      button: Find out more
+      url: /giving-back/donate
 ---
-

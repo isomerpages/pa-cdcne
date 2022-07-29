@@ -1,0 +1,29 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Financial & Social Assistance/.keep
+      - Financial & Social Assistance/WeCare @ North East.md
+      - Financial & Social Assistance/North East Growth Fund.md
+      - Financial & Social Assistance/School Transport Subsidy.md
+      - Financial & Social Assistance/Covid 19 Relief.md
+      - Financial & Social Assistance/Dedicated North East Ambulance Service.md
+      - Financial & Social Assistance/CDC Vouchers.md
+      - Financial & Social Assistance/Pre School Transition Starter Kit.md
+      - Financial & Social Assistance/Gift Of Love.md
+      - Financial & Social Assistance/Digi Lit @ North East.md
+      - Employment & Lifelong Learning/.keep
+      - Employment & Lifelong Learning/Career Discovery.md
+      - Employment & Lifelong Learning/Community Employment for PWIDs.md
+      - Employment & Lifelong Learning/SkillsFuture Advice Workshops.md
+      - Employment & Lifelong Learning/Heart Bakers @ North East.md
+      - Employment & Lifelong Learning/Fresh Start Market.md
+      - Employment & Lifelong Learning/Job Placement Centres.md
+      - Home Improvement/.keep
+      - Home Improvement/A Better Home @ North East.md
+      - Home Improvement/Project Refresh.md
+      - Community Inclusion/.keep
+      - Community Inclusion/Shaping Hearts.md
+      - Community Inclusion/Community Give Back Golf.md
+      - Sustainability/North East Green Adventure.md
+      - Sustainability/.keep
