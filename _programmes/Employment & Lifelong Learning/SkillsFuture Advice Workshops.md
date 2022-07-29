@@ -1,9 +1,10 @@
 ---
 title: SkillsFuture Advice Workshops
-permalink: /programmes/Employment-and-Lifelong-Learning/SkillsFuture-Advice-Workshopsorkshp
+permalink: /programmes/Employment-and-Lifelong-Learning/SkillsFuture-Advice-Workshops
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---
+
 SkillsFuture Advice is an initiative to empower Singaporeans to take charge of their skills and career development to remain employable; and be ready for jobs now and in the future.
 
 As part of this initiative, SkillsFuture Singapore (SSG) collaborates with the five Community Development Councils (CDCs) and relevant partners to conduct upskilling workshops, raise awareness on the need for career and skills planning, and provide advisory on the relevant SkillsFuture programmes that individuals can tap on to prepare themselves for the future.

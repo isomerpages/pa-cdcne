@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       dropdown:
-        title: Require financial or social assistance?
+        title: Require financial or employment assistance?
         options:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
@@ -16,10 +16,12 @@ sections:
             url: programmes/financial-and-social-assistance/north-east-growth-fund
           - title: School Transport Subsidy
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
-          - title: COVID-19 Relief Fund
-            url: /programmes/financial-and-social-assistance/covid-19-relief
           - title: Dedicated Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
+          - title: Job Placement Centres
+            url: /programmes/employment-and-lifelong-learning/job-placement-centres
+          - title: SkillsFuture Advice Workshops
+            url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
   - infopic:
