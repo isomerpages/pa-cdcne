@@ -3,16 +3,7 @@ title: SkillsFuture Festival @ North East 2022
 permalink: /SkillsFuture-Festival-North-East-2022
 description: ""
 ---
-Do you want to know how you can benefit from jobs creation and growth in the green sectors? Come join us at the SkillsFuture Festival @ North East 2022 to explore job opportunities, engage with industry experts and experience first-hand sustainability efforts in the North East.
-
-###### Event Details
-
-
-| Dates | Time | Venue |
-| -------- | -------- | -------- |
-| 30 - 31 July 2022     | 10am - 5pm     | Our Tampines Hub     |
-
-
+Do you want to know how you can benefit from jobs creation and growth in the green sectors? Come join us at the SkillsFuture Festival @ North East 2022 on ****30 and 31 July, from 10am to 5pm****, to explore job opportunities, engage with industry experts and experience first-hand sustainability efforts in the North East.
 
 [Register now](https://form.gov.sg/#!/62b458c2f30d8d00133f8451) to be a part of SkillsFuture Festival @ North East! Don’t forget to bring your friends and family too, see you there!
 
