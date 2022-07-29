@@ -18,7 +18,7 @@ sections:
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
           - title: COVID-19 Relief Fund
             url: /programmes/financial-and-social-assistance/covid-19-relief
-          - title: Ambulance Service
+          - title: Dedicated Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
