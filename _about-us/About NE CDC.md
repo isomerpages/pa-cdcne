@@ -9,4 +9,4 @@ Set up in 1997, the North East Community Development Council (CDC) serves a popu
 
 Headed by Mayor Desmond Choo, the North East CDC administers financial and employment assistance to residents in need. The CDC works closely with community and corporate partners to plan outreach programmes to promote bonding and social cohesion.
 
-Enter your postal code in our [District Locater](https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts) to find out your District's information.
+Enter your postal code in our [District Locator](https://www.pa.gov.sg/our-network/community-development-councils) to find out your District's information. Scroll to the bottom of the page to locate it.
