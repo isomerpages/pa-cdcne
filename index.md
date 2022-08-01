@@ -60,9 +60,9 @@ sections:
       title: Which District am I in?
       subtitle: District Locator
       description: Enter your postal code in our District Locator to find out your
-        District's information.
+        District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
-      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      url: https://www.pa.gov.sg/our-network/community-development-councils
       image: /images/District Information.png
       alt: Image alt text
   - infobar:
