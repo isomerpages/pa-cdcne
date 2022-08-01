@@ -41,11 +41,6 @@ sections:
       url: https://signup.redeem.gov.sg/?lang=en
       image: /images/Media Files for CARE/CDC vouchers.png
       alt: Image alt text
-  - infobar:
-      title: Subscribed to our monthly EDM yet?
-      description: Keep up to date on the latest happenings!
-      button: Subscribe Now
-      url: https://form.gov.sg/62dfa95050c946001247dc25
   - infopic:
       title: Which District am I in?
       subtitle: District Locator
@@ -55,6 +50,11 @@ sections:
       url: https://www.pa.gov.sg/our-network/community-development-councils
       image: /images/District Information.png
       alt: Image alt text
+  - infobar:
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
+      url: https://form.gov.sg/62dfa95050c946001247dc25
   - infobar:
       title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous
