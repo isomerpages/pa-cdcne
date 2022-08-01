@@ -25,16 +25,6 @@ sections:
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: SkillsFuture Festival @ North East 2022
-      subtitle: Upcoming Event
-      description: On 30 & 31 July, residents can glean insights on jobs and skills in
-        the "Green" economy and participate in workshops and webinars on skills
-        upgrading.
-      button: Register Now
-      url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
-      alt: Image alt text
-      image: /images/SkillsFuture Festival @ North East 2022 (Home).jpg
-  - infopic:
       title: Celebrate National Day @ North East
       description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
         𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a fun-filled carnival,
