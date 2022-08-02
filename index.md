@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       dropdown:
-        title: Require financial or employment assistance?
+        title: How can we assist you?
         options:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
@@ -24,16 +24,6 @@ sections:
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
-  - infopic:
-      title: SkillsFuture Festival @ North East 2022
-      subtitle: Upcoming Event
-      description: On 30 & 31 July, residents can glean insights on jobs and skills in
-        the "Green" economy and participate in workshops and webinars on skills
-        upgrading.
-      button: Register Now
-      url: https://form.gov.sg/#!/62b458c2f30d8d00133f8451
-      alt: Image alt text
-      image: /images/SkillsFuture Festival @ North East 2022 (Home).jpg
   - infopic:
       title: Celebrate National Day @ North East
       description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
@@ -51,20 +41,19 @@ sections:
       url: https://signup.redeem.gov.sg/?lang=en
       image: /images/Media Files for CARE/CDC vouchers.png
       alt: Image alt text
+  - infopic:
+      title: Which District am I in?
+      description: Enter your postal code in our District Locator to find out your
+        District's information. Scroll to the bottom of the page to locate it.
+      button: Find Out Now
+      url: https://www.pa.gov.sg/our-network/community-development-councils
+      image: /images/District Information.png
+      alt: Image alt text
   - infobar:
       title: Subscribed to our monthly EDM yet?
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: https://form.gov.sg/62dfa95050c946001247dc25
-  - infopic:
-      title: Which District am I in?
-      subtitle: District Locator
-      description: Enter your postal code in our District Locator to find out your
-        District's information.
-      button: Find Out Now
-      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
-      image: /images/District Information.png
-      alt: Image alt text
   - infobar:
       title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous
