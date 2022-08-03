@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - People of North East.md
       - Event Highlights/.keep
       - Heartbeat Magazine.md
