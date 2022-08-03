@@ -2,5 +2,6 @@ collections:
   our-stories:
     output: true
     order:
+      - Event Highlights/.keep
       - Heartbeat Magazine.md
       - Annual Report.md
