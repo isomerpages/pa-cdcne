@@ -4,13 +4,8 @@ permalink: /SkillsFuture-Festival-North-East-2022
 description: ""
 third_nav_title: Event Highlights
 ---
+SkillsFuture Festival @ North East 2022 shed light on the trends and developments of the growing green sector. With over 100 job roles and 1,000 vacancies offered, residents were introduced to career opportunities in this emerging industry and advice on how they can pivot into green roles across other sectors.
 
-![](/images/SkillsFuture%20Festival%20@%20North%20East%202022%20(Home).jpg)
+Residents participated in Our Tampines Hub (OTH) Eco-tour where they discovered the numerous eco-friendly activities in OTH. They were also acquainted to the various green spaces in North East such as parks, cycling paths, and playgrounds in Pasir Ris, Punggol, and Tampines.
 
-Do you want to know how you can benefit from jobs creation and growth in the green sectors? Come join us at the SkillsFuture Festival @ North East 2022 on **30 and 31 July, from 10am to 5pm**, to explore job opportunities, engage with industry experts and experience first-hand sustainability efforts in the North East.
-
-[Register now](https://form.gov.sg/#!/62b458c2f30d8d00133f8451) to be a part of SkillsFuture Festival @ North East! Don’t forget to bring your friends and family too, see you there!
-
-![](/images/SkillsFuture%20Festival%20@%20North%20East%202022.jpg)
-
-![](/images/SkillsFuture%20Festival%20@%20North%20East%202022%20-%20Panel%20Discussion.jpg)
+Career coaches and industry experts were on hand to share on relevant upskilling programmes and the importance of staying relevant in the changing employment landscape. Residents also learnt about sustainable business practices and how to tap on the various resources for their career planning needs. Thank you to all who joined us at the festival, and we hope you enjoyed this green learning journey!
