@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - People of North East/Neat Optics.md
       - People of North East/Chwee Kueh.md
       - People of North East/.keep
       - Event Highlights/SkillsFuture Festival @ North East 2022.md
