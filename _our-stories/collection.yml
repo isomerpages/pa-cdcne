@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - People of North East/Heart Bakers.md
       - People of North East/SGFishingRigz.md
       - People of North East/Neat Optics.md
       - People of North East/Chwee Kueh.md
