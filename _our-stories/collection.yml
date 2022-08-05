@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - People of North East/Aunty Daisy.md
       - People of North East/.keep
       - People of North East/Aysha & Clarissa.md
       - People of North East/Marwiyah.md
