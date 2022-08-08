@@ -2,4 +2,4 @@ collections:
   upcoming-events:
     output: true
     order:
-      - Career O2.md
+      - Career Options & Opportunities.md
