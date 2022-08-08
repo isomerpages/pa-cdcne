@@ -28,7 +28,7 @@ sections:
       title: Looking for job opportunities?
       description: Head over to Punggol 21 Community Club on 26 August to connect with
         employers and discover more than 1,000 job vacancies!
-      button: Register Now
+      button: More Details
       url: /upcoming-events/Career-O2
       image: /images/O2 FB Post (3).png
       alt: Image alt text
