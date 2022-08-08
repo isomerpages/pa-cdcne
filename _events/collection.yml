@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/.keep
       - Event Highlights/SkillsFuture Festival @ North East 2022.md
       - Event Highlights/.keep
