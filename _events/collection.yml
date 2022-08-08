@@ -1,5 +1,5 @@
 collections:
-  our-stories:
+  events:
     output: true
     order:
       - Event Highlights/SkillsFuture Festival @ North East 2022.md
