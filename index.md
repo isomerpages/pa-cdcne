@@ -32,6 +32,7 @@ sections:
       url: /upcoming-events/Career-O2
       image: /images/O2 FB Post (3).png
       alt: Image alt text
+      subtitle: Upcoming Event
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
