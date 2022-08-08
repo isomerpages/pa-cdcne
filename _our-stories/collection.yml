@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - "People of North East/Project Refresh: Mdm Ong & Mr Lim.md"
       - People of North East/.keep
       - People of North East/Aunty Chwee Kueh.md
       - "People of North East/Heart Bakers: Aysha & Clarissa.md"
