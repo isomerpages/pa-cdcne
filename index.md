@@ -25,14 +25,14 @@ sections:
       background: /images/Banner.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Celebrate National Day @ North East
-      description: Celebrate Singapore’s 57th birthday on 6 August at 𝗣𝘂𝗻𝗴𝗴𝗼𝗹
-        𝗢𝗽𝗲𝗻 𝗙𝗶𝗲𝗹𝗱 (next to Waterway Point) with a fun-filled carnival,
-        games and more!
-      button: More details
-      url: https://www.ndp.gov.sg/heartlands/northeast?fbclid=IwAR1yfgc2Je8fW1sj1QaKIthwipDPvBel0mSySTe8LnxyugYP0PzfAI31J9U
-      image: /images/National Day Heartland Celebrations @ North East.jpg
+      title: Looking for job opportunities?
+      description: Head over to Punggol 21 Community Club on 26 August to connect with
+        employers and discover more than 1,000 job vacancies!
+      button: More Details
+      url: /upcoming-events/Career-O2
+      image: /images/O2 FB Post (3).png
       alt: Image alt text
+      subtitle: Upcoming Event
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers

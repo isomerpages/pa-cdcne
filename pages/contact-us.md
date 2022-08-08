@@ -7,7 +7,7 @@ locations:
   - address:
       - Our Tampines Hub
       - "1 Tampines Walk, #04-31"
-      - "528523"
+      - Singapore 528523
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
