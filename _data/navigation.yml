@@ -4,8 +4,8 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
-  - title: Upcoming Events
-    collection: upcoming-events
+  - title: Events
+    collection: events
   - title: People of North East
     resource_room: true
   - title: Giving Back
