@@ -11,3 +11,5 @@ Residents participated in Our Tampines Hub (OTH) Eco-tour where they discovered 
 Career coaches and industry experts were on hand to share on relevant upskilling programmes and the importance of staying relevant in the changing employment landscape. Residents also learnt about sustainable business practices and how to tap on the various resources for their career planning needs. Thank you to all who joined us at the festival, and we hope you enjoyed this green learning journey!
 
 ![](/images/ESJ_5384.jpg)
+![](/images/ESJ_5348.jpg)
+![](/images/ESJ_5653.jpg)
