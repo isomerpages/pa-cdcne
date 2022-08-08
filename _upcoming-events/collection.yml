@@ -2,4 +2,4 @@ collections:
   upcoming-events:
     output: true
     order:
-      - Career Options & Opportunities.md
+      - Career Options & Opportunities @ North East.md
