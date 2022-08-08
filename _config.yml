@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#51e8cb"
     - title: media-color-four
-      color: "#00838f"
+      color: "#4370df"
     - title: media-color-five
-      color: "#00838f"
+      color: "#26a6eb"
 resources_name: Resource
 description: Official website of North East Community Development Council (NE CDC)
 permalink: none
