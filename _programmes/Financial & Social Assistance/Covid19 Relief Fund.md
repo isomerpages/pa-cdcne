@@ -4,7 +4,6 @@ permalink: /programmes/Financial-and-Social-Assistance/Covid-19-Relief-Fund
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-
 Are you facing sudden loss of job or income as a result of Covid-19? The Covid-19 Relief Fund is here to lend a helping hand.
 
 A partnership between the 5 CDCs together with Ngee Ann Kongsi and Kong Meng San Phor Kark See Monastery, the Fund aims to support Singaporeans affected by the pandemic.
@@ -22,4 +21,4 @@ Each successful applicant (and his/ her household) will receive a one-time relie
 
 Eligible Singaporean households can submit their application together with their supporting documents either [online](https://form.gov.sg/#!/6246bdd6e4c02900120e27cf), or physically at KMSPKS (88 Bright Hill Road, Singapore 574117) or at any of the Community Centres/Clubs (CCs).
 
-![](/images/Media%20Files%20for%20CARE/Covid-19%20Relief%20Fund%20Photo.png)
+![](/images/COVID-19%20Relief%20Fund.png)
