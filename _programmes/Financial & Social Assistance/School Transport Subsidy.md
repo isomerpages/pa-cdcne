@@ -6,7 +6,7 @@ third_nav_title: Financial & Social Assistance
 ---
 To provide financial support for Primary and Secondary School students, the School Transport Subsidy scheme subsidises transport costs at $180 per year.
 
-![](/images/Programmes/Financial%20&%20Social%20Assistance/School%20Transport%20Subsidy%20Scheme.jpg)
+![](/images/Programmes/Financial%20&%20Social%20Assistance/School%20Transport%20Subsidy.jpg)
 
 To apply, you can either:
 
