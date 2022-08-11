@@ -1,4 +1,5 @@
 collections:
   people-of-north-east:
     output: true
-    order: []
+    order:
+      - Stories.md
