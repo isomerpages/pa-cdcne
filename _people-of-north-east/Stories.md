@@ -6,6 +6,7 @@ description: ""
 | **Pianist with Autism Pursues Dream to Turn Professional** | |
 | -------- | -------- |
 | ![](/images/SGFishingRigz.png)     | Unlike many of us, Joshua finds it hard to express himself in a conversation but give him a piano and you will hear the beautiful notes of his thoughts and dreams. <br/><br/> [Find Out More](/people-of-north-east/pianist-with-autism-pursues-dream-to-turn-professional)
+![](/images/SGFishingRigz.png) | With their newly learned skills from Heart Bakers @ North East, Aysha and Clarissa can now embark on a home business to support their families. <br/><br/> Find Out More
 
 | **Support for Children from Low Income Families** | |
 | -------- | -------- |
