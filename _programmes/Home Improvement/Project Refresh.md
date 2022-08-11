@@ -8,4 +8,4 @@ A collaboration between Young-NTUC and North East CDC, Project Refresh aims to i
 
 To provide beneficiaries with additional support beyond home refurbishment works, North East CDC also partners with corporate organisations and sponsors to provide essential items such as groceries, household appliances or furniture. Volunteers are also recruited and mobilised to carry out home refurbishment works for beneficiaries, providing them with a platform to help residents in a meaningful way.
 
-![](/images/Media%20Files%20for%20PVM/Project%20Refresh%20Photo%203.jpg)
+![](/images/Programmes/Home%20Improvement/Project%20Refresh.jpg)
