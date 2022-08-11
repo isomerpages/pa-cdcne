@@ -5,7 +5,7 @@ date: 2021-11-22
 layout: post
 description: ""
 ---
-![](/images/Saifudeen.jpg)
+![](/images/People%20of%20North%20East/Differently%20Abled/Saifudeen.jpg)
 
 Saifudeen’s parents felt something was amiss when they noticed that he tiptoed up the stairs. They hoped his condition would improve but it did not. Saifudeen was eventually diagnosed with Duchenne Muscular Dystrophy at age 7.
 
