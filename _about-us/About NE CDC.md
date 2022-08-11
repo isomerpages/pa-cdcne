@@ -3,7 +3,7 @@ title: About NE CDC
 permalink: /about-us/about-ne-cdc
 description: ""
 ---
-![](/images/North%20East%20District.png)
+![](/images/About%20Us/North%20East%20District.png)
 
 Set up in 1997, the North East Community Development Council (CDC) serves a population of over 970,000 residents in approximately 300,000 households. The North East District spans 21 divisions in four Group Representation Constituencies (GRCs) and two Single Member Constituencies (SMCs). They are Aljunied, Sengkang, Pasir Ris – Punggol, Tampines GRCs, Hougang and Punggol West SMCs.
 
