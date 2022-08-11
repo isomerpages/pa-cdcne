@@ -4,7 +4,7 @@ permalink: /upcoming-events/Career-O2
 description: ""
 third_nav_title: Upcoming Events
 ---
-![](/images/O2%20FB%20Post%20(3).png)
+![](/images/Events/Upcoming%20Events/Career%20Options%20&%20Opportunities/Career%20Options%20&%20Opportunities.png)
 
 Are you looking for **job opportunities** or keen to hear from industry experts on insights of the evolving employment market?
 
