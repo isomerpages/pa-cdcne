@@ -5,7 +5,7 @@ date: 2022-07-01
 layout: post
 description: ""
 ---
-![](/images/Saravanan.jpg)
+![](/images/People%20of%20North%20East/Differently%20Abled/Saravanan.jpg)
 
 Hardworking and especially good in housekeeping, Saravanan recently started work under our Community Employment Programme – Inclusive Employment (CEP-IE), taking on a janitorial role in upkeeping the cleanliness of Tampines West Community Club.
 
