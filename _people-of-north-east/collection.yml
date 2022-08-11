@@ -2,5 +2,5 @@ collections:
   people-of-north-east:
     output: true
     order:
-      - Fishing Sustainably with SGFishingRigz.md
       - Stories.md
+      - Fishing Sustainably with SGFishingRigz.md
