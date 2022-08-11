@@ -2,5 +2,6 @@ collections:
   people-of-north-east:
     output: true
     order:
+      - Finding Purpose in Community Work.md
       - Stories.md
       - Fishing Sustainably with SGFishingRigz.md
