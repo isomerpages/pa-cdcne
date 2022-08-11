@@ -22,7 +22,7 @@ sections:
             url: /programmes/employment-and-lifelong-learning/job-placement-centres
           - title: SkillsFuture Advice Workshops
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
-      background: /images/Banner.jpg
+      background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
       title: Looking for job opportunities?
