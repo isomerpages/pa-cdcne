@@ -7,7 +7,7 @@ links:
   - title: Events
     collection: events
   - title: People of North East
-    resource_room: true
+    collection: people-of-north-east
   - title: Giving Back
     collection: giving-back
   - title: Contact Us
