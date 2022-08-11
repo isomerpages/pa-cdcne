@@ -2,6 +2,7 @@ collections:
   people-of-north-east:
     output: true
     order:
+      - Ambulance Service Makes for Easier Hospital Trips.md
       - Stories.md
       - Fishing Sustainably with SGFishingRigz.md
       - Finding Purpose in Community Work.md
