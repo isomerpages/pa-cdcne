@@ -2,8 +2,8 @@ collections:
   people-of-north-east:
     output: true
     order:
-      - Cookies for a Good Cause.md
-      - Stan Leow’s 23 Year Old Optical Shop.md
-      - Finding Purpose in Community Work.md
       - Stories.md
       - Fishing Sustainably with SGFishingRigz.md
+      - Finding Purpose in Community Work.md
+      - Stan Leow’s 23 Year Old Optical Shop.md
+      - Cookies for a Good Cause.md
