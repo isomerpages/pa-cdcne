@@ -4,7 +4,7 @@ permalink: /programmes/Financial-and-Social-Assistance/CDC-Vouchers
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-![](/images/Media%20Files%20for%20CARE/CDC%20vouchers.png)
+![](/images/Homepage/CDC%20Vouchers.png)
 
 With the distribution of CDC vouchers in May 2022, all Singaporean households can now claim $100 worth of CDC vouchers to spend at more than 16,000 participating heartland merchants and hawkers island wide.  
   
