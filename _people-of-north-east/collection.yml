@@ -2,9 +2,9 @@ collections:
   people-of-north-east:
     output: true
     order:
-      - Support for Children from Low Income Families.md
       - Stories.md
       - Fishing Sustainably with SGFishingRigz.md
       - Finding Purpose in Community Work.md
       - Stan Leow’s 23 Year Old Optical Shop.md
       - Cookies for a Good Cause.md
+      - Support for Children from Low Income Families.md
