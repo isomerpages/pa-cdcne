@@ -5,7 +5,7 @@ date: 2021-11-03
 layout: post
 description: ""
 ---
-![](/images/Jozie%20Koek.jpg)
+![](/images/People%20of%20North%20East/Differently%20Abled/Jozie%20Koek.jpg)
 
 Cheery and helpful, Jozie brings joy to the people around her. The 27-year-old artist with Arts@Metta, a Metta Welfare Association 慈光福利协会's initiative that provides equal access to enrich artistic endeavours for youths with special needs, loves working with bright and bold colours for her art pieces. Seems like it’s a reflection of her positive and affable personality! 🌻😊
 
