@@ -21,4 +21,4 @@ Each successful applicant (and his/ her household) will receive a one-time relie
 
 Eligible Singaporean households can submit their application together with their supporting documents either [online](https://form.gov.sg/#!/6246bdd6e4c02900120e27cf), or physically at KMSPKS (88 Bright Hill Road, Singapore 574117) or at any of the Community Centres/Clubs (CCs).
 
-![](/images/COVID-19%20Relief%20Fund.png)
+![](/images/Programmes/Financial%20&%20Social%20Assistance/COVID-19%20Relief%20Fund.png)
