@@ -2,6 +2,8 @@ collections:
   people-of-north-east:
     output: true
     order:
+      - Joshua German, a Pianist with Autism Pursues Dream to turn
+        Professional.md
       - Joshua Tang.md
       - Stories.md
       - Fishing Sustainably with SGFishingRigz.md
