@@ -7,4 +7,4 @@ Everyone plays an important role in the community. There are many volunteering o
 
 Click [here](https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53) to discover the various volunteering opportunities in North East!
 
-![](/images/IMG_0474.jpg)
+![](/images/Giving%20Back/Volunteer/Volunteer.jpg)

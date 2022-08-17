@@ -1,5 +1,0 @@
-collections:
-  upcoming-events:
-    output: true
-    order:
-      - Career Options & Opportunities @ North East.md

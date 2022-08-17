@@ -3,4 +3,4 @@ title: Mayor's Message
 permalink: /about-us/mayors-message
 description: ""
 ---
-![](/images/Mayor-Message2.jpg)
+![](/images/About%20Us/Mayor's%20Message%202.jpg)

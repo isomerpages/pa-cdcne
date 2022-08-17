@@ -4,7 +4,7 @@ permalink: /programmes/Home-Improvement/A-Better-Home-North-East
 description: ""
 third_nav_title: Home Improvement
 ---
-![](/images/A%20Better%20Home%20@%20North%20East.jpg)
+![](/images/Programmes/Home%20Improvement/A%20Better%20Home%20@%20North%20East.jpg)
 
 A Better Home @ North East is a financial assistance scheme that provides essential home repair services to under-privileged residents through a group of pro-bono contractors.
 

@@ -1,13 +1,13 @@
-logo: /images/necdclogo.png
+logo: /images/NECDC Logo.png
 links:
   - title: About Us
     collection: about-us
   - title: Programmes
     collection: programmes
-  - title: Upcoming Events
-    collection: upcoming-events
-  - title: Our Stories
-    collection: our-stories
+  - title: Events
+    collection: events
+  - title: People of North East
+    collection: people-of-north-east
   - title: Giving Back
     collection: giving-back
   - title: Contact Us

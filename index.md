@@ -22,7 +22,7 @@ sections:
             url: /programmes/employment-and-lifelong-learning/job-placement-centres
           - title: SkillsFuture Advice Workshops
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
-      background: /images/Banner.jpg
+      background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
       title: Looking for job opportunities?
@@ -30,7 +30,8 @@ sections:
         employers and discover more than 1,000 job vacancies!
       button: More Details
       url: /upcoming-events/Career-O2
-      image: /images/O2 FB Post (3).png
+      image: /images/Events/Upcoming Events/Career Options & Opportunities/Career
+        Options & Opportunities.png
       alt: Image alt text
       subtitle: Upcoming Event
   - infopic:
@@ -39,7 +40,7 @@ sections:
         2021 & 2022 easily with just a few taps.
       button: Claim Now
       url: https://signup.redeem.gov.sg/?lang=en
-      image: /images/Media Files for CARE/CDC vouchers.png
+      image: /images/Homepage/CDC Vouchers.png
       alt: Image alt text
   - infopic:
       title: Which District am I in?
@@ -47,7 +48,7 @@ sections:
         District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
       url: https://www.pa.gov.sg/our-network/community-development-councils
-      image: /images/District Information.png
+      image: /images/Homepage/District Locator.png
       alt: Image alt text
   - infobar:
       title: Subscribed to our monthly EDM yet?

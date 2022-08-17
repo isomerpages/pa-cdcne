@@ -8,7 +8,7 @@ Every child deserves a healthy start in life. But for low-income families, meeti
 
 The North East Growth Fund was set up to provide formula milk and diapers to young children up to 6 years old. By defraying the costs of these essentials, the wellbeing and good health of our little ones are not compromised.
 
-![](/images/Media%20Files%20for%20CARE/Growth%20Fund%20Photo%201.png)
+![](/images/Programmes/Financial%20&%20Social%20Assistance/North%20East%20Growth%20Fund.png)
 
 To apply, you can either:
 
