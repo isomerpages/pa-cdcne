@@ -38,8 +38,8 @@ sections:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
-      button: More Details
-      url: supportatnortheast
+      button: Find Out More
+      url: /supportatnortheast
       alt: Image alt text
       image: /images/isomer-logo.svg
   - infopic:
