@@ -34,12 +34,13 @@ sections:
         Options & Opportunities.png
       alt: Image alt text
       subtitle: Upcoming Event
-  - infobar:
+  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
       button: More Details
-      url: /supportatnortheast
+      url: supportatnortheast
+      alt: Image alt text
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
@@ -48,19 +49,19 @@ sections:
       url: https://signup.redeem.gov.sg/?lang=en
       image: /images/Homepage/CDC Vouchers.png
       alt: Image alt text
-  - infobar:
-      title: Subscribed to our monthly EDM yet?
-      description: Keep up to date on the latest happenings!
-      button: Subscribe Now
-      url: https://form.gov.sg/62dfa95050c946001247dc25
   - infopic:
       title: Which District am I in?
       description: Enter your postal code in our District Locator to find out your
         District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
       url: https://www.pa.gov.sg/our-network/community-development-councils
-      image: /images/Homepage/District Locator.png
+      image: /images/Homepage/District Locator 2.png
       alt: Image alt text
+  - infobar:
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
+      url: https://form.gov.sg/62dfa95050c946001247dc25
   - infobar:
       title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous
