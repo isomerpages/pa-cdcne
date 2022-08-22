@@ -41,7 +41,7 @@ sections:
       button: More Details
       url: supportatnortheast
       alt: Image alt text
-      image: /images/Homepage/District Locator 2.png
+      image: /images/isomer-logo.svg
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
