@@ -14,3 +14,9 @@ description: ""
 
 
 ##### Employment Assistance
+
+| Assistance Name | Description |
+| -------- | -------- |
+| Job Placement Centres | Four Job Placement Centres are set up in collaboration with the Grassroots Organisations to provide employment assistance for residents in the North East District. Coaches are on hand to provide job matching and career coaching.<br/><br/> Click [here](https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/job-placement-centres) for more details. |
+| SkillsFuture Advice Workshops | As part of the SkillsFuture initiative, various workshops are conducted throughout the year to raise awareness on the need for career and skills planning.<br/><br/>Click [here](https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops) for more details.
+
