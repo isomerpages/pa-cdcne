@@ -35,6 +35,14 @@ sections:
       alt: Image alt text
       subtitle: Upcoming Event
   - infopic:
+      title: Support @ North East
+      description: Know more about our various financial, social, and employment
+        assistance schemes.
+      button: Find Out More
+      url: /supportatnortheast
+      alt: Image alt text
+      image: /images/isomer-logo.svg
+  - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
         2021 & 2022 easily with just a few taps.
@@ -48,7 +56,7 @@ sections:
         District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
       url: https://www.pa.gov.sg/our-network/community-development-councils
-      image: /images/Homepage/District Locator.png
+      image: /images/Homepage/District Locator 2.png
       alt: Image alt text
   - infobar:
       title: Subscribed to our monthly EDM yet?
