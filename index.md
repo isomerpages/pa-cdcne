@@ -41,7 +41,7 @@ sections:
       button: Find Out More
       url: /supportatnortheast
       alt: Image alt text
-      image: /images/isomer-logo.svg
+      image: /images/assistance.jpg
   - infopic:
       title: Claim your CDC Vouchers now
       description: No need to download a mobile app. Claim your digital CDC Vouchers
