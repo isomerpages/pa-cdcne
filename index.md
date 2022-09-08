@@ -25,13 +25,13 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Looking for job opportunities?
-      description: Head over to Punggol 21 Community Club on 26 August to connect with
-        employers and discover more than 1,000 job vacancies!
+      title: Need help navigating career choices?
+      description: Join us at this 𝘤𝘰𝘮𝘱𝘭𝘪𝘮𝘦𝘯𝘵𝘢𝘳𝘺 event featuring industry
+        experts to give you the insights you need to uncover career
+        opportunities!
       button: More Details
-      url: /upcoming-events/Career-O2
-      image: /images/Events/Upcoming Events/Career Options & Opportunities/Career
-        Options & Opportunities.png
+      url: https://www.careersunmasked.com/
+      image: /images/Careers Unmasked KV.jpg
       alt: Image alt text
       subtitle: Upcoming Event
   - infopic:
