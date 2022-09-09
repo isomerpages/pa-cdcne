@@ -69,4 +69,13 @@ sections:
         donation will be entitled to 2.5 times of tax deduction.
       button: Find out more
       url: /giving-back/donate
+  - infopic:
+      title: Raise funds for students from low-income families
+      subtitle: Upcoming Event
+      description: Run for a good cause in this 5KM run! Bring along your families and
+        join us on 23 October at Temasek Polytechnic!
+      button: More Details
+      url: https://www.cscevents.sg/events/eventdash2.php?tid=62&fbclid=IwAR14GEYutXpPDBhyrbl1jyCjqGpKUVUPsHV7pbuEQrQKG357ikHYTfVgIu0
+      image: /images/Kindness Warrior (Homepage).jpg
+      alt: Image alt text
 ---
