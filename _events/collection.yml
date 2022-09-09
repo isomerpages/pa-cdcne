@@ -2,7 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Career Options & Opportunities @ North East.md
+      - Upcoming Events/Kindness Warrior Run for School Transport.md
+      - Upcoming Events/Careers Unmasked.md
       - Upcoming Events/.keep
       - Past Events/SkillsFuture Festival @ North East 2022.md
       - Past Events/.keep
