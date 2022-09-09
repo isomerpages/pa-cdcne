@@ -40,7 +40,7 @@ sections:
       description: Run for a good cause in this 5KM run! Bring along your families and
         join us on 23 October at Temasek Polytechnic!
       button: More Details
-      url: https://www.cscevents.sg/events/eventdash2.php?tid=62&fbclid=IwAR14GEYutXpPDBhyrbl1jyCjqGpKUVUPsHV7pbuEQrQKG357ikHYTfVgIu0
+      url: events/upcoming-events/kindness-warrior-run-for-school-transport/
       image: /images/Kindness Warrior (Homepage).jpg
       alt: Image alt text
   - infopic:
