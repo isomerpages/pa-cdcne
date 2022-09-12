@@ -20,4 +20,4 @@ There is much more we can do when we come together to uplift our community, and 
 Yours sincerely,
 
 **Desmond Choo**</br>
-Mayor, North East District
+Mayor of North East District
