@@ -3,12 +3,11 @@ title: Mayor's Message Test
 permalink: /about-us/mayors-message-test/
 description: ""
 ---
-
 Dear Residents,
 
 Greetings from the North East CDC!
 
-At North East, we are driven by our mission to build a caring and inclusive community. Our team has been actively listening to concerns on the ground to develop programmes and schemes to plug the gaps of our residents’ emerging needs. We recognise the importance for our localised initiatives to be responsive to increasingly complex social landscape as we face issues including rising costs of necessities, a fast-changing labour market, an aging population, and the need for an inclusive society that embraces diversity.
+At North East, we are driven by our mission to build a caring ![](/images/About%20Us/Mayor%20Desmond%20Choo%20(cropped).jpg) and inclusive community. Our team has been actively listening to concerns on the ground to develop programmes and schemes to plug the gaps of our residents’ emerging needs. We recognise the importance for our localised initiatives to be responsive to increasingly complex social landscape as we face issues including rising costs of necessities, a fast-changing labour market, an aging population, and the need for an inclusive society that embraces diversity.
 
 Through schemes like WeCare, Transport Subsidy and North East Growth Fund, we provide interim financial assistance to support our lower-income residents, as well as those who fall marginally out of the lower-income bracket. Strengthening our social resilience does not end here.
 
