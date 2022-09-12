@@ -5,6 +5,8 @@ description: ""
 ---
 Dear Residents,
 
+<img align="right" width="20" height="20" src="/images/About%20Us/Mayor%20Desmond%20Choo%20(cropped).jpg">
+
 Greetings from the North East CDC!
 
 At North East, we are driven by our mission to build a caring and inclusive community. Our team has been actively listening to concerns on the ground to develop programmes and schemes to plug the gaps of our residents’ emerging needs. We recognise the importance for our localised initiatives to be responsive to increasingly complex social landscape as we face issues including rising costs of necessities, a fast-changing labour market, an aging population, and the need for an inclusive society that embraces diversity.
