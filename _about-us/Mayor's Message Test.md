@@ -5,7 +5,7 @@ description: ""
 ---
 Dear Residents,
 
-<img align="right" height="50" src="images/About%20Us/Mayor%20Desmond%20Choo%20(cropped).jpg">
+<img align="right" height="70" src="images/About%20Us/Mayor%20Desmond%20Choo%20(cropped).jpg">
 
 Greetings from the North East CDC!
 
