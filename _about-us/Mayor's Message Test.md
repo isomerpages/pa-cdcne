@@ -17,5 +17,5 @@ There is much more we can do when we come together to uplift our community, and 
 
 Yours sincerely,
 
-**Desmond Choo**</br>
+**Desmond Choo** </br>
 Mayor of North East District
