@@ -13,7 +13,7 @@ Through schemes like WeCare, Transport Subsidy and North East Growth Fund, we pr
 
 We work hard to aggregate resources and relevant partners to amplify our social capital, so more can be done for our community. We have put in great efforts to develop targeted programmes such as Project Refresh, Job Placement Centres, Shaping Hearts and more, to support different groups in the community, including less privileged families, unemployed individuals, persons with disabilities and their caregivers. We aim to leave no one behind.
 
-There is much more we can do when we come together to uplift our community, and I would like to invite you to join us in this journey to co-create, collaborate and contribute to a better North East. If you have an idea or something to contribute, do not hesitate to write to us at Northeast_CDC@pa.gov.sg.
+There is much more we can do when we come together to uplift our community, and I would like to invite you to join us in this journey to co-create, collaborate and contribute to a better North East. If you have an idea or something to contribute, do not hesitate to write to us at [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
 Yours sincerely,
 
