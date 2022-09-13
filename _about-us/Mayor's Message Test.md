@@ -3,7 +3,7 @@ title: Mayor's Message Test
 permalink: /about-us/mayors-message-test/
 description: ""
 ---
-<img align="right" width="50" height="50" src="https://i.imgur.com/7m6mKNZ.jpg">
+![](/images/About%20Us/Mayor.jpg)
 
 Greetings from the North East CDC!
 
