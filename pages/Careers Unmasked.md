@@ -2,8 +2,8 @@
 title: Careers Unmasked
 permalink: /events/Upcoming-Events/careers-unmasked/
 description: ""
-third_nav_title: Upcoming Events
 ---
+
 ![](/images/Careers%20Unmasked%20KV.jpg)
 
 What are some of the industries that can be suitable for you? Are you able to gain footing in an industry you are interested in, even when you do not have a relevant qualification?
