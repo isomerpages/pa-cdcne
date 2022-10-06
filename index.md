@@ -25,6 +25,16 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Support Special Needs Artists
+      subtitle: Shaping Hearts 2022
+      description: 270 paintings on exhibition, inclusive art marketplace, live stage
+        performances, art sales and auction, and many more exciting activities
+        awaits!
+      button: more details
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/shapinghearts/
+      image: /images/Events/Upcoming Events/SH Thumbnail.jpg
+      alt: Image alt text
+  - infopic:
       title: Raise funds for students from low-income families
       subtitle: Upcoming Event
       description: Run for a good cause in this 5KM run! Bring along your families and
