@@ -25,7 +25,7 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Support Persons with Disabilities through Arts
+      title: Support Persons with Disabilities through Art
       subtitle: Shaping Hearts 2022
       description: Experience the works of artists with disabilities through multiple
         lenses – an art exhibition, live performances, a charity art auction,
