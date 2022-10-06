@@ -31,7 +31,7 @@ sections:
         stage performances, art sales and auction, and many more exciting
         activities awaits!
       button: more details
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/shapinghearts/
+      url: https://northeast.cdc.gov.sg/events/Upcoming-Events/shapinghearts/
       image: /images/Events/Upcoming Events/SH Thumbnail.jpg
       alt: Image alt text
   - infopic:
