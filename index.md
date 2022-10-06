@@ -27,9 +27,9 @@ sections:
   - infopic:
       title: Support Special Needs Artists
       subtitle: Shaping Hearts 2022
-      description: 270 paintings on exhibition, inclusive art marketplace, live stage
-        performances, art sales and auction, and many more exciting activities
-        awaits!
+      description: 270 paintings on exhibition, an inclusive art marketplace, live
+        stage performances, art sales and auction, and many more exciting
+        activities awaits!
       button: more details
       url: https://northeast.cdc.gov.sg/events/upcoming-events/shapinghearts/
       image: /images/Events/Upcoming Events/SH Thumbnail.jpg
