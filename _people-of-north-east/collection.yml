@@ -2,6 +2,7 @@ collections:
   people-of-north-east:
     output: true
     order:
+      - Stories/Refurbishing Homes for Seniors.md
       - Stories/Olympic Swimmer with Autism Finds Peace in Painting.md
       - Stories/Fishing Sustainably with SGFishingRigz.md
       - Stories/Cookies for a Good Cause.md
