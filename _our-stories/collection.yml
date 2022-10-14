@@ -2,7 +2,7 @@ collections:
   our-stories:
     output: true
     order:
-      - Heartbeat @ North East.md
+      - People of North East/.keep
       - People of North East/Stan Leow’s 23 Year Old Optical Shop.md
       - People of North East/Refurbishing Homes for Seniors.md
       - People of North East/Olympic Swimmer with Autism Finds Peace in
@@ -14,4 +14,4 @@ collections:
       - People of North East/Support for Children from Low Income Families.md
       - People of North East/Pianist with Autism Pursues Dream to turn
         Professional.md
-      - People of North East/.keep
+      - Heartbeat @ North East.md
