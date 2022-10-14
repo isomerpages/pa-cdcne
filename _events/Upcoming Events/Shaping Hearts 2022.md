@@ -4,7 +4,7 @@ permalink: /events/Upcoming-Events/shapinghearts/
 description: The largest inclusive arts event in Singapore is back!
 third_nav_title: Upcoming Events
 ---
-![Shaping Hearts Banner](/images/Events/Upcoming%20Events/SH%20Website%20Banner.jpg)
+![](/images/Events/Upcoming%20Events/Shaping%20Hearts/SH%20Website%20Banner.jpg)
 
 ![](https://shapinghearts.sg/wp-content/uploads/2022/09/Frame-242-2.svg)
 
