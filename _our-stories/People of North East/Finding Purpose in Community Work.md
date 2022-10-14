@@ -1,8 +1,11 @@
 ---
 title: Finding Purpose in Community Work
-permalink: /people-of-north-east/finding-purpose-in-community-work
+permalink: /people-of-north-east/finding-purpose-in-community-work/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 ![](/images/People%20of%20North%20East/Differently%20Abled/Saravanan.jpg)
 
 Hardworking and especially good in housekeeping, Saravanan recently started work under our Community Employment Programme – Inclusive Employment (CEP-IE), taking on a janitorial role in upkeeping the cleanliness of Tampines West Community Club.

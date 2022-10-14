@@ -1,8 +1,11 @@
 ---
 title: Pianist with Autism Pursues Dream to turn Professional
-permalink: /people-of-north-east/pianist-with-autism-pursues-dream-to-turn-professional
+permalink: /people-of-north-east/pianist-with-autism-pursues-dream-to-turn-professional/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 
 Unlike many of us, Joshua finds it tough to express himself in a conversation. But give him a piano and you’ll hear the beautiful notes of his thoughts and dreams, loud and clear. 🎹🎶🧡
 

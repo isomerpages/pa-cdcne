@@ -1,8 +1,11 @@
 ---
 title: Olympic Swimmer with Autism Finds Peace in Painting
-permalink: /people-of-north-east/olympic-swimmer-with-autism-finds-peace-in-painting
+permalink: /people-of-north-east/olympic-swimmer-with-autism-finds-peace-in-painting/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 
 
 Joshua is a man of many interests. He represented Singapore as a competitive swimmer in the 2010 Special Olympics in Athens. He is also an artist from Very Special Arts Singapore who keeps getting better at his craft. All of these are possible with the support of his loving family, his teachers and the community who see the talent in him. 🧡

@@ -1,8 +1,11 @@
 ---
 title: Stan Leow’s 23 Year Old Optical Shop
-permalink: /people-of-north-east/stan-leow-23-year-old-optical-shop
+permalink: /people-of-north-east/stan-leow-23-year-old-optical-shop/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 A humble optical shop in the Hougang ‘hood, Neat Optics has been serving the residents for over 20 years! In fact, Stan, the owner, shared how some of his customers made their first pair of spectacles in his shop as kids and are still visiting him for regular eye checks as grown-ups. 🤓
 
 Shop stylish and affordable frames at Neat Optics. You’ll be surprised at the gems you’ll find! 🤩 Don’t forget to use your CDC Vouchers in the shop located at 809 Hougang Central, #01-170.\

@@ -1,8 +1,11 @@
 ---
 title: Cookies for a Good Cause
-permalink: /people-of-north-east/cookies-for-a-good-cause
+permalink: /people-of-north-east/cookies-for-a-good-cause/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 With their newly learned skills from Heart Bakers @ North East, Aysha and Clarissa can now embark on a home baking business to support their family. 💯
 
 Aysha, Clarissa, and other Heart Bakers alike, also participates in a social media and e-marketing course that equips them with skills to promote their home business!

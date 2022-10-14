@@ -1,8 +1,11 @@
 ---
 title: Fishing Sustainably with SGFishingRigz
-permalink: /people-of-north-east/fishing-sustainably-with-sgfishingrigz
+permalink: /people-of-north-east/fishing-sustainably-with-sgfishingrigz/
 description: ""
+third_nav_title: People of North East
 ---
+
+
 Fish ‘right’ with SGFishingRigz! Founded by a team of 6 youths averaging at just 19 years old, this is a fishing shop like no other. The 6 young entrepreneurs who are anglers themselves, are passionate about spreading the word of sustainable fishing in the community. They have even innovated environmentally-friendly fishing products so fishing enthusiasts can do a part in protecting the ocean!💚🎣💯
 
 Hit up their shop located at 139 Tampines St. 11, #01-34A if you need fishing equipment. Don’t forget to use your CDC Vouchers. 🙌
