@@ -32,7 +32,7 @@ sections:
         and many more.
       button: more details
       url: https://northeast.cdc.gov.sg/events/Upcoming-Events/shapinghearts/
-      image: /images/Events/Upcoming Events/SH Thumbnail.jpg
+      image: /images/Events/Upcoming Events/Shaping Hearts/SH Thumbnail.jpg
       alt: Image alt text
   - infopic:
       title: Raise funds for students from low-income families
