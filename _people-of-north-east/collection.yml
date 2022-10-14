@@ -2,6 +2,7 @@ collections:
   people-of-north-east:
     output: true
     order:
+      - Stories/Fishing Sustainably with SGFishingRigz.md
       - Stories/Cookies for a Good Cause.md
       - Stories/Finding Purpose in Community Work.md
       - Stories/Ambulance Service Makes for Easier Hospital Trips.md
