@@ -12,8 +12,9 @@ After the breakout sessions and panel discussion with the speakers, the event en
 
 A huge thank you to those who joined us for this year’s Careers Unmasked, and we hope that you have gained some key takeaways from this insightful session! Full photos [here](https://www.facebook.com/media/set/?vanity=NECDC&set=a.463684809127210).
 
-![](/images/Events/Upcoming%20Events/a1.jpg)
-![](/images/Events/Upcoming%20Events/x1.jpg)
-![](/images/Events/Upcoming%20Events/d1.jpg)
-![](/images/Events/Upcoming%20Events/y1.jpg)
-![](/images/Events/Upcoming%20Events/abc.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/a1.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/x1.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/d1.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/c1.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/y1.jpg)
+![](/images/Events/Upcoming%20Events/Careers%20Unmasked/abc.jpg)
