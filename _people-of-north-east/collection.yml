@@ -2,14 +2,16 @@ collections:
   people-of-north-east:
     output: true
     order:
-      - Stories/Stan Leow’s 23 Year Old Optical Shop.md
-      - Stories/Refurbishing Homes for Seniors.md
-      - Stories/Olympic Swimmer with Autism Finds Peace in Painting.md
-      - Stories/Fishing Sustainably with SGFishingRigz.md
-      - Stories/Cookies for a Good Cause.md
-      - Stories/Finding Purpose in Community Work.md
-      - Stories/Ambulance Service Makes for Easier Hospital Trips.md
-      - Stories/Support for Children from Low Income Families.md
-      - Stories/Pianist with Autism Pursues Dream to turn Professional.md
-      - Stories/.keep
+      - People of North East/Stan Leow’s 23 Year Old Optical Shop.md
+      - People of North East/Refurbishing Homes for Seniors.md
+      - People of North East/Olympic Swimmer with Autism Finds Peace in
+        Painting.md
+      - People of North East/Fishing Sustainably with SGFishingRigz.md
+      - People of North East/Cookies for a Good Cause.md
+      - People of North East/Finding Purpose in Community Work.md
+      - People of North East/Ambulance Service Makes for Easier Hospital Trips.md
+      - People of North East/Support for Children from Low Income Families.md
+      - People of North East/Pianist with Autism Pursues Dream to turn
+        Professional.md
+      - People of North East/.keep
       - Stories.md
