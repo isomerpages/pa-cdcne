@@ -10,7 +10,7 @@ A golf tournament took place in the afternoon, followed by an appreciation dinne
 
 Together with our corporate sponsors and individual donors, a hearty total of $538,139 was raised to uplift the lives of over 2,500 beneficiaries! Our sincere appreciation to our donors for their generosity and unwavering support for the less privileged in our community.
 
-![](/images/Events/Past%20Events/cgb1.jpg)
-![](/images/Events/Past%20Events/cgb2.jpg)
-![](/images/Events/Past%20Events/cgb3.jpg)
-![](/images/Events/Past%20Events/cgb4.jpg)
+![](/images/Events/Past%20Events/CGB%202022/cgb1.jpg)
+![](/images/Events/Past%20Events/CGB%202022/cgb2.jpg)
+![](/images/Events/Past%20Events/CGB%202022/cgb3.jpg)
+![](/images/Events/Past%20Events/CGB%202022/cgb4.jpg)
