@@ -12,4 +12,4 @@ Art knows no bounds, and for some, art is the only way they can express themselv
   
 Experience the artists’ works through multiple lenses – an art exhibition, live performances, a charity art auction – and celebrate the diverse talents in our community.
 
-Find out more about Shaping Hearts 2022 at www.shapinghearts.sg 
+Find out more about Shaping Hearts 2022 [here](www.shapinghearts.sg). 
