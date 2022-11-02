@@ -13,3 +13,15 @@ On 23 October, a grand total of 400 Kindness Warriors gathered at Temasek Polyte
 The 5km fun run was flagged off by Senior Parliamentary Secretary Mr Baey Yam Keng, along with CEO of TOP International Holding, Dato’ Victor Tan, and Temasek Polytechnic’s CEO and Principal, Mr Peter Lam. All participants also got to bring home a well-deserved finisher medal as a memento for their accomplishment.
 
 We would like to express our gratitude to TOP International Holding, Temasek Polytechnic, our participants, and volunteers for being part of this meaningful initiative. A special mention to Chairman and CEO of Mlion Corporation, Mr Eric Leong, for his generous support in this fundraiser too!
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874395413.jpg)
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874425678.jpg)
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874436590.jpg)
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874375576.jpg)
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874460223.jpg)
+
+![](/images/Events/Past%20Events/Kindness%20Warrior%20Run/FB_IMG_1666874348837.jpg)
