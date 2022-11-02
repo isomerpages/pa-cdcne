@@ -35,15 +35,6 @@ sections:
       image: /images/Events/Upcoming Events/Shaping Hearts/SH Thumbnail.jpg
       alt: Image alt text
   - infopic:
-      title: Raise funds for students from low-income families
-      subtitle: Upcoming Event
-      description: Run for a good cause in this 5KM run! Bring along your families and
-        join us on 23 October at Temasek Polytechnic!
-      button: More Details
-      url: events/upcoming-events/kindness-warrior-run-for-school-transport/
-      image: /images/Kindness Warrior (Homepage).jpg
-      alt: Image alt text
-  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
