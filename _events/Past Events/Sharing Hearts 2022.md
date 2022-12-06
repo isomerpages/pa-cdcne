@@ -4,7 +4,7 @@ permalink: /events/Past-Events/sharinghearts2022/
 description: ""
 third_nav_title: Past Events
 ---
-Shaping hearts return for the fourth conservative year! 
+Shaping Hearts return for the fourth conservative year! 
 
 This year’s two-week inclusive arts festival took place from 12 to 27 November 2022 at Our Tampines Hub, and has even expanded to the new integrated hub, One Punggol! Themed ‘Celebrating Arts. Inspiring Hope’ inspires the community through the creative expressions of our differently-abled artists, with each expression being an embodiment of a milestone they have reached in overcoming their challenges. Residents and invited guests had the opportunity to experience the artists’ works through multiple lenses – art exhibitions, live performances, and an art marketplace – to celebrate the diverse talents of our friends with disabilities. As part of bringing the community together to support inclusivity, the ‘Pledge a Heart’ movement was also launched to encourage others to share their support for persons with disabilities in Singapore.
 
