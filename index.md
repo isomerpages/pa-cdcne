@@ -33,14 +33,6 @@ sections:
       alt: Image alt text
       image: /images/assistance.jpg
   - infopic:
-      title: Claim your CDC Vouchers now
-      description: No need to download a mobile app. Claim your digital CDC Vouchers
-        2021 & 2022 easily with just a few taps.
-      button: Claim Now
-      url: https://signup.redeem.gov.sg/?lang=en
-      image: /images/Homepage/CDC Vouchers.png
-      alt: Image alt text
-  - infopic:
       title: Which District am I in?
       description: Enter your postal code in our District Locator to find out your
         District's information. Scroll to the bottom of the page to locate it.
