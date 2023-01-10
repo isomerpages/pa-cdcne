@@ -25,16 +25,6 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Support Persons with Disabilities through Art
-      subtitle: Shaping Hearts 2022
-      description: Experience the works of artists with disabilities through multiple
-        lenses – an art exhibition, live performances, a charity art auction,
-        and many more.
-      button: more details
-      url: https://northeast.cdc.gov.sg/events/Upcoming-Events/shapinghearts/
-      image: /images/Events/Upcoming Events/Shaping Hearts/SH Thumbnail.jpg
-      alt: Image alt text
-  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
