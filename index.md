@@ -25,6 +25,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: CDC Vouchers Scheme 2023
+      description: Every Singaporean household will receive a total of $300 CDC
+        Vouchers on 3 January 2023.
+      button: MORE DETAILS
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
+      image: /images/CDC BANNER.png
+      alt: Image alt text
+  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
