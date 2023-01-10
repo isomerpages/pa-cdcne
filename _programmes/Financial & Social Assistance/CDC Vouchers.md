@@ -1,13 +1,15 @@
 ---
 title: CDC Vouchers
-permalink: /programmes/Financial-and-Social-Assistance/CDC-Vouchers
+permalink: /programmes/Financial-and-Social-Assistance/CDC-Vouchers/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-![](/images/Homepage/CDC%20Vouchers.png)
+![](/images/CDC%20BANNER.png)
 
-With the distribution of CDC vouchers in May 2022, all Singaporean households can now claim $100 worth of CDC vouchers to spend at more than 16,000 participating heartland merchants and hawkers island wide.  
-  
-Look out for the CDC Vouchers decal displayed at the merchant or hawker stall shopfront, and take this opportunity to explore and get to know your neighbourhood too!  
-  
-Search for merchants in the North East [here](https://www.gowhere.gov.sg/cdcvouchersmerchants).
+Every Singaporean household will receive a total of $300 CDC Vouchers on 3 January 2023.  This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods & Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022.  Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants as well as participating supermarkets.
+ 
+On 3 January 2023, every Singaporean household can claim $300 in CDC Vouchers. The value of the vouchers will be allocated equally (i.e., $150 each) to be spent at participating heartland merchants and hawkers, or at participating supermarkets. Singaporean Households have until 31 December 2023 to claim and spend their CDC Vouchers 2023.
+
+[Learn](https://vouchers.cdc.gov.sg/residents/info) how you can claim your CDC Vouchers 2023.
+
+[Search](https://www.gowhere.gov.sg/cdcvouchers) for participating hawkers, heartland merchants and supermarkets in North East
