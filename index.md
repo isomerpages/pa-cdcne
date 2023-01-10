@@ -25,14 +25,12 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Support Persons with Disabilities through Art
-      subtitle: Shaping Hearts 2022
-      description: Experience the works of artists with disabilities through multiple
-        lenses – an art exhibition, live performances, a charity art auction,
-        and many more.
-      button: more details
-      url: https://northeast.cdc.gov.sg/events/Upcoming-Events/shapinghearts/
-      image: /images/Events/Upcoming Events/Shaping Hearts/SH Thumbnail.jpg
+      title: CDC Vouchers Scheme 2023
+      description: Every Singaporean household will receive a total of $300 CDC
+        Vouchers on 3 January 2023.
+      button: MORE DETAILS
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
+      image: /images/CDC BANNER.png
       alt: Image alt text
   - infopic:
       title: Support @ North East
@@ -42,14 +40,6 @@ sections:
       url: /supportatnortheast
       alt: Image alt text
       image: /images/assistance.jpg
-  - infopic:
-      title: Claim your CDC Vouchers now
-      description: No need to download a mobile app. Claim your digital CDC Vouchers
-        2021 & 2022 easily with just a few taps.
-      button: Claim Now
-      url: https://signup.redeem.gov.sg/?lang=en
-      image: /images/Homepage/CDC Vouchers.png
-      alt: Image alt text
   - infopic:
       title: Which District am I in?
       description: Enter your postal code in our District Locator to find out your
