@@ -4,7 +4,7 @@ permalink: /events/Past-Events/permalink/
 description: ""
 third_nav_title: Past Events
 ---
-On 12th January, North East CDC celebrated the unwavering support of our community partners in annual District Meeting. 
+On 12th January, North East CDC celebrated the unwavering support of our community partners in our annual District Meeting. 
 
 This platform allows for partners in the North East District to exchange and explore collaborations to benefit residents where we  also share our past year’s achievements and our plans for the coming. 
 
