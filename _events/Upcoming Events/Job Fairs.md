@@ -9,3 +9,5 @@ third_nav_title: Upcoming Events
 ![](/images/JOB%20FAIR%201.jpg)
 
 ![](/images/JOB%20FAIR%202.png)
+
+[Register here!](https://go.gov.sg/register-jobfair09feb2023)
