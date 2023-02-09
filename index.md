@@ -33,6 +33,13 @@ sections:
       image: /images/CDC BANNER.png
       alt: Image alt text
   - infopic:
+      title: Learning Neighbourhood 2023
+      description: Find your next opportunity to learn and work in your community!
+      button: Find out more!
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/learningneighbourhoodnortheeast/
+      image: /images/Publicity_HDBAd_-_FA_Top.jpg
+      alt: Image alt text
+  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
