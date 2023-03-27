@@ -53,7 +53,7 @@ sections:
       description: Enter your postal code in our District Locator to find out your
         District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
-      url: https://www.pa.gov.sg/our-network/community-development-councils
+      url: https://www.gowhere.gov.sg/cdc
       image: /images/Homepage/District Locator 2.png
       alt: Image alt text
   - infobar:
