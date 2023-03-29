@@ -1,6 +1,6 @@
 ---
 title: Support @ North East
-permalink: /supportatnortheast
+permalink: /supportatnortheast/
 description: ""
 ---
 

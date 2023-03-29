@@ -1,6 +1,6 @@
 ---
 title: North East Growth Fund
-permalink: /programmes/Financial-and-Social-Assistance/North-East-Growth-Fund/
+permalink: /programmes/financial-and-social-assistance/north-east-growth-fund/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

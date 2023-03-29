@@ -1,6 +1,6 @@
 ---
 title: Aysha & Clarissa
-permalink: /People-of-North-East/beneficiaries/aysha-clarissa
+permalink: /people-of-north-east/beneficiaries/aysha-clarissa/
 date: 2022-04-21
 layout: post
 description: ""

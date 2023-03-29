@@ -1,6 +1,6 @@
 ---
 title: You Kang & Family
-permalink: /People-of-North-East/beneficiaries/you-kang-family
+permalink: /people-of-north-east/beneficiaries/you-kang-family/
 date: 2021-10-08
 layout: post
 description: ""

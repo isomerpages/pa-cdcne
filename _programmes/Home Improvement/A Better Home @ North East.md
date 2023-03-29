@@ -1,6 +1,6 @@
 ---
 title: A Better Home @ North East
-permalink: /programmes/Home-Improvement/A-Better-Home-North-East
+permalink: /programmes/home-improvement/a-better-home-north-east/
 description: ""
 third_nav_title: Home Improvement
 ---

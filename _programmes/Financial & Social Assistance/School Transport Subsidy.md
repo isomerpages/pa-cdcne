@@ -1,6 +1,6 @@
 ---
 title: School Transport Subsidy
-permalink: /programmes/Financial-and-Social-Assistance/School-Transport-Subsidy/
+permalink: /programmes/financial-and-social-assistance/school-transport-subsidy/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

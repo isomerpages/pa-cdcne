@@ -1,6 +1,6 @@
 ---
 title: SGFishingRigz
-permalink: /People-of-North-East/merchants/sgfishingrigz
+permalink: /people-of-north-east/merchants/sgfishingrigz/
 date: 2022-07-28
 layout: post
 description: ""

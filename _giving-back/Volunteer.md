@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-permalink: /giving-back/Volunteer
+permalink: /giving-back/volunteer/
 description: ""
 ---
 Everyone plays an important role in the community. There are many volunteering opportunities available in the North East community and we welcome volunteers of all ages and interests.

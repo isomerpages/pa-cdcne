@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice Workshops
-permalink: /programmes/Employment-and-Lifelong-Learning/SkillsFuture-Advice-Workshops
+permalink: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops/
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saifudeen
-permalink: /People-of-North-East/differently-abled/saifudeen
+permalink: /people-of-north-east/differently-abled/saifudeen/
 date: 2021-11-22
 layout: post
 description: ""

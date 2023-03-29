@@ -1,6 +1,6 @@
 ---
 title: Career Discovery
-permalink: /programmes/Employment-and-Lifelong-Learning/Career-Discovery/
+permalink: /programmes/employment-and-lifelong-learning/career-discovery/
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---

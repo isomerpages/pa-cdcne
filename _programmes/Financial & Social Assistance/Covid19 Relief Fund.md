@@ -1,6 +1,6 @@
 ---
 title: Covid19 Relief Fund
-permalink: /programmes/Financial-and-Social-Assistance/Covid-19-Relief-Fund
+permalink: /programmes/financial-and-social-assistance/covid-19-relief-fund/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

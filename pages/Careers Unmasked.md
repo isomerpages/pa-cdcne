@@ -1,6 +1,6 @@
 ---
 title: Careers Unmasked
-permalink: /events/Upcoming-Events/careers-unmasked/
+permalink: /events/upcoming-events/careers-unmasked/
 description: ""
 ---
 

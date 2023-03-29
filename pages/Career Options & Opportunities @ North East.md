@@ -1,6 +1,6 @@
 ---
 title: Career Options & Opportunities @ North East
-permalink: /upcoming-events/Career-O2/
+permalink: /upcoming-events/career-o2/
 description: ""
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Gift Of Love
-permalink: /programmes/Financial-and-Social-Assistance/Gift-Of-Love
+permalink: /programmes/financial-and-social-assistance/gift-of-love/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

@@ -1,6 +1,6 @@
 ---
 title: District Meeting 2023
-permalink: /events/Past-Events/permalink/
+permalink: /events/past-events/permalink/
 description: ""
 third_nav_title: Past Events
 ---

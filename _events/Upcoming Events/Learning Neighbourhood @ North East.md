@@ -1,6 +1,6 @@
 ---
 title: Learning Neighbourhood @ North East
-permalink: /events/Upcoming-Events/learningneighbourhoodnortheeast/
+permalink: /events/upcoming-events/learningneighbourhoodnortheeast/
 description: ""
 third_nav_title: Upcoming Events
 ---

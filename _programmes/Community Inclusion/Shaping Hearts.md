@@ -1,6 +1,6 @@
 ---
 title: Shaping Hearts
-permalink: /programmes/Community-Inclusion/Shaping-Hearts/
+permalink: /programmes/community-inclusion/shaping-hearts/
 description: ""
 third_nav_title: Community Inclusion
 ---

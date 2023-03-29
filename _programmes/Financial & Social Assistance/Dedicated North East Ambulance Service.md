@@ -1,6 +1,6 @@
 ---
 title: Dedicated North East Ambulance Service
-permalink: /programmes/Financial-and-Social-Assistance/Dedicated-North-East-Ambulance-Service/
+permalink: /programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

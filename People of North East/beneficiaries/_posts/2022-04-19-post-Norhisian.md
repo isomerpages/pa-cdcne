@@ -1,6 +1,6 @@
 ---
 title: Norhisian
-permalink: /People-of-North-East/beneficiaries/norhisian
+permalink: /people-of-north-east/beneficiaries/norhisian/
 date: 2022-04-19
 layout: post
 description: ""

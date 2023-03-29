@@ -1,6 +1,6 @@
 ---
 title: Fresh Start Market
-permalink: /programmes/fresh-start-market
+permalink: /programmes/fresh-start-market/
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---
