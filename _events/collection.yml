@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Learning Neighbourhood @ North East.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
       - Past Events/District Meeting 2023.md
