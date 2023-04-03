@@ -10,7 +10,7 @@ The Dedicated North East Ambulance Service provides subsidised ambulance service
 
 To apply, you can either:
 
-1.  Email the completed [Application Form](/files/Annex%20A_North%20East%20Assistance%20Scheme%20Referral%20Form_As%20of%201%20April%202023.pdf) and supporting documents to [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg); OR
+1.  Email the completed [Application Form](/files/annex%20a_north%20east%20assistance%20scheme%20referral%20form_with%20wecare%20(as%20of%201%20april%202023)_for%20printing.pdf) and supporting documents to [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg); OR
 3.  Complete the [Online Form](https://form.gov.sg/#!/5e994b5f5dad670011b1d2ed) and upload relevant supporting documents. You may submit additional documents to [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
-If you have any further queries, you may email us at [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
+If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
