@@ -1,6 +1,6 @@
 ---
 title: About NE CDC
-permalink: /about-us/about-ne-cdc
+permalink: /about-us/about-ne-cdc/
 description: ""
 ---
 ![](/images/About%20Us/North%20East%20District.png)

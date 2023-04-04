@@ -1,6 +1,6 @@
 ---
 title: Saravanan
-permalink: /People-of-North-East/differently-abled/saravanan
+permalink: /people-of-north-east/differently-abled/saravanan/
 date: 2022-07-01
 layout: post
 description: ""

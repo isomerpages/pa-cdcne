@@ -1,6 +1,6 @@
 ---
 title: Mdm Ong & Mr Lim
-permalink: /People-of-North-East/beneficiaries/mdm-ong-mr-lim
+permalink: /people-of-north-east/beneficiaries/mdm-ong-mr-lim/
 date: 2021-12-29
 layout: post
 description: ""

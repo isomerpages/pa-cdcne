@@ -1,6 +1,6 @@
 ---
 title: Job Fairs
-permalink: /events/Upcoming-Events/jobfairs/
+permalink: /events/upcoming-events/jobfairs/
 description: ""
 third_nav_title: Upcoming Events
 ---

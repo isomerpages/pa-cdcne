@@ -1,6 +1,6 @@
 ---
 title: Jozie Koek
-permalink: /People-of-North-East/differently-abled/jozie-koek
+permalink: /people-of-north-east/differently-abled/jozie-koek/
 date: 2021-11-03
 layout: post
 description: ""

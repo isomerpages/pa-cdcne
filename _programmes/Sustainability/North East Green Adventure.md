@@ -1,6 +1,6 @@
 ---
 title: North East Green Adventure
-permalink: /programmes/Sustainability/North-East-Green-Adventure
+permalink: /programmes/sustainability/north-east-green-adventure/
 description: ""
 third_nav_title: Sustainability
 ---

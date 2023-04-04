@@ -1,6 +1,6 @@
 ---
 title: CDC Vouchers
-permalink: /programmes/Financial-and-Social-Assistance/CDC-Vouchers/
+permalink: /programmes/financial-and-social-assistance/cdc-vouchers/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

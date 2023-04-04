@@ -1,6 +1,6 @@
 ---
 title: Project Refresh
-permalink: /programmes/Home-Improvement/Project-Refresh
+permalink: /programmes/home-improvement/project-refresh/
 description: ""
 third_nav_title: Home Improvement
 ---

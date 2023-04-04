@@ -1,6 +1,6 @@
 ---
 title: Joshua German
-permalink: /People-of-North-East/differently-abled/joshua-german
+permalink: /people-of-north-east/differently-abled/joshua-german/
 date: 2021-10-28
 layout: post
 description: ""

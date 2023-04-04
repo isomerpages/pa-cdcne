@@ -1,6 +1,6 @@
 ---
 title: Neat Optics
-permalink: /People-of-North-East/merchants/neat-optics
+permalink: /people-of-north-east/merchants/neat-optics/
 date: 2022-05-24
 layout: post
 description: ""

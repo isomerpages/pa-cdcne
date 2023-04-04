@@ -1,6 +1,6 @@
 ---
 title: Aunty Chwee Kueh
-permalink: /People-of-North-East/merchants/Aunty-Chwee-Kueh
+permalink: /people-of-north-east/merchants/aunty-chwee-kueh/
 date: 2022-04-30
 layout: post
 description: ""

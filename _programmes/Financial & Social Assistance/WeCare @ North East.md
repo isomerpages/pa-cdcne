@@ -1,6 +1,6 @@
 ---
 title: WeCare @ North East
-permalink: /programmes/Financial-and-Social-Assistance/WeCare-at-North-East/
+permalink: /programmes/financial-and-social-assistance/wecare-at-north-east/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---

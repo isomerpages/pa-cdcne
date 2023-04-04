@@ -1,6 +1,6 @@
 ---
 title: Community Give Back Golf
-permalink: /programmes/Community-Inclusion/permalink
+permalink: /programmes/community-inclusion/permalink/
 description: ""
 third_nav_title: Community Inclusion
 ---

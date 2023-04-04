@@ -25,14 +25,6 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Learning Neighbourhood 2023
-      description: Join us for a 3-day roadshow to find your next opportunity to learn
-        and work in your community!
-      button: Find out more!
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/learningneighbourhoodnortheeast/
-      image: /images/Publicity_HDBAd_-_FA_Top.jpg
-      alt: Image alt text
-  - infopic:
       title: CDC Vouchers Scheme 2023
       description: Every Singaporean household will receive a total of $300 CDC
         Vouchers on 3 January 2023.

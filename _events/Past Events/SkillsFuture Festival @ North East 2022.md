@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Festival @ North East 2022
-permalink: /SkillsFuture-Festival-North-East-2022
+permalink: /skillsfuture-festival-north-east-2022/
 description: ""
 third_nav_title: Past Events
 ---

@@ -1,6 +1,6 @@
 ---
 title: Mdm Rozanah
-permalink: /People-of-North-East/beneficiaries/mdm-rozanah
+permalink: /people-of-north-east/beneficiaries/mdm-rozanah/
 date: 2021-11-16
 layout: post
 description: ""
