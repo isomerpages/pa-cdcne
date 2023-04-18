@@ -33,6 +33,14 @@ sections:
       image: /images/CDC BANNER.png
       alt: Image alt text
   - infopic:
+      title: "She Matters: Action for Women's Health"
+      description: Join us for the launch of North East Cancer Warrior Support Scheme
+        on 28th May 2023!
+      button: FIND OUT MORE
+      url: go.gov.sg/shematters
+      image: /images/necdc_cancer warrior support banner (1).png
+      alt: Image alt text
+  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
