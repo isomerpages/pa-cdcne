@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/North East Cancer Warrior Support Scheme.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
       - Past Events/District Meeting 2023.md
