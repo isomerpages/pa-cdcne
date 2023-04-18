@@ -9,7 +9,7 @@ third_nav_title: Upcoming Events
 ![](/images/event%20name.png)
 **Event Highlights:**
 -	Launch of North East Cancer Warrior Support Scheme
--	Sharing from Guest Celebrities Pan Ling Ling and Sue Kassim and women who had survived Breast Cancer
+-	Sharing from Guest Celebrity Sue Kassim and women who had survived Breast Cancer
 -	On-site mammogram screening
 -	Health talks, Healthy Cooking demonstrations, Mass Yoga
 -	Informative Booths from Partners like SingHealth, NCCS, HPB, Ain Society, 365 CPS, FSCs and more
