@@ -21,4 +21,4 @@ third_nav_title: Upcoming Events
 -	Do not have any pre-existing breast conditions or breast implants done in the past one year
 
 
-[Sign up here](go.gov.sg/necwss) for a free mammogram and the North East Cancer Warrior Support Scheme!
+[Sign up here](https://go.gov.sg/necwss) for a free mammogram and the North East Cancer Warrior Support Scheme!
