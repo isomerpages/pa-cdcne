@@ -6,7 +6,7 @@ image: /images/cwss landing banner.png
 third_nav_title: Upcoming Events
 ---
 ![](/images/necdc_cancer%20warrior%20support%20banner%20(1).png)
-![](/images/event%20name%20(1).png)
+![](/images/event%20name%20(2).png)
 **Event Highlights:**
 -	Launch of the North East Cancer Warrior Support Scheme  
 -	Navigating Breast Cancer sharing by Breast Cancer Specialist, Guest Celebrities such as Sue Kassim and more  
@@ -21,4 +21,4 @@ third_nav_title: Upcoming Events
 -	Do not have any pre-existing breast conditions or breast implants done in the past one year
 
 
-[Sign up here](go.gov.sg/necwss) for a free mammogram and the North East Cancer Warrior Support Scheme!
+[Sign up here](https://go.gov.sg/necwss) for a free mammogram and the North East Cancer Warrior Support Scheme!
