@@ -26,8 +26,9 @@ sections:
       title: Building a caring and inclusive community
   - infopic:
       title: "She Matters: Action for Women's Health"
-      description: Join us for the launch of North East Cancer Warrior Support Scheme
-        on 28th May 2023!
+      description: Join us for the launch of the North East Cancer Warrior Support
+        Scheme and a day of fun-filled activities to learn more about women's
+        health on 28th May 2023!
       button: FIND OUT MORE
       url: go.gov.sg/shematters
       image: /images/necdc_cancer warrior support banner (1).png
