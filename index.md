@@ -25,20 +25,20 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: CDC Vouchers Scheme 2023
-      description: Every Singaporean household will receive a total of $300 CDC
-        Vouchers on 3 January 2023.
-      button: MORE DETAILS
-      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
-      image: /images/CDC BANNER.png
-      alt: Image alt text
-  - infopic:
       title: "She Matters: Action for Women's Health"
       description: Join us for the launch of North East Cancer Warrior Support Scheme
         on 28th May 2023!
       button: FIND OUT MORE
       url: go.gov.sg/shematters
       image: /images/necdc_cancer warrior support banner (1).png
+      alt: Image alt text
+  - infopic:
+      title: CDC Vouchers Scheme 2023
+      description: Every Singaporean household will receive a total of $300 CDC
+        Vouchers on 3 January 2023.
+      button: MORE DETAILS
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
+      image: /images/CDC BANNER.png
       alt: Image alt text
   - infopic:
       title: Support @ North East
