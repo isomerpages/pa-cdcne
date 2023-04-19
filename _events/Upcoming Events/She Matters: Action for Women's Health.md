@@ -8,12 +8,10 @@ third_nav_title: Upcoming Events
 ![](/images/necdc_cancer%20warrior%20support%20banner%20(1).png)
 ![](/images/event%20name.png)
 **Event Highlights:**
--	Launch of North East Cancer Warrior Support Scheme
--	Sharing from Guest Celebrity Sue Kassim and women who had survived Breast Cancer
--	On-site mammogram screening
--	Health talks, Healthy Cooking demonstrations, Mass Yoga
--	Informative Booths from Partners like SingHealth, NCCS, HPB, Ain Society, 365 CPS, FSCs and more
--	Other exciting interest booths like Arts and Crafts, Floral and more
+-	Launch of the North East Cancer Warrior Support Scheme  
+-	Navigating Breast Cancer sharing by Breast Cancer Specialist, Guest Celebrities such as Sue Kassim and more  
+-	On-site mammogram screening  
+-	Health talks, cooking demonstration, physical and informative activities to learn about women's health
 
 **Eligibility Criteria for North East Cancer Warrior Support Scheme:**
 -	Singapore Citizen
