@@ -30,7 +30,7 @@ sections:
         Scheme and a day of fun-filled activities to learn more about women's
         health on 28th May 2023!
       button: FIND OUT MORE
-      url: go.gov.sg/shematters
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/shematters/
       image: /images/necdc_cancer warrior support banner (1).png
       alt: Image alt text
   - infopic:
