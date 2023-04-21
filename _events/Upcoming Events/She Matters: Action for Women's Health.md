@@ -10,7 +10,6 @@ third_nav_title: Upcoming Events
 **Event Highlights:**
 -	Launch of the North East Cancer Warrior Support Scheme  
 -	Navigating Breast Cancer sharing by Breast Cancer Specialist, Guest Celebrities such as Sue Kassim and more  
--	On-site mammogram screening  
 -	Health talks, cooking demonstration, physical and informative activities to learn about women's health
 
 **Eligibility Criteria for North East Cancer Warrior Support Scheme:**
