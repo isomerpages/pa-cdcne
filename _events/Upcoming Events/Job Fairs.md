@@ -9,3 +9,5 @@ third_nav_title: Upcoming Events
 ![](/images/edm_26apr2023_pasirriselias_cc.jpg)
 
 ![](/images/edm_high_res_27apr2023.jpg)
+
+![](/images/edm_sats_28apr2023_tampcentralcc.jpg)
