@@ -14,6 +14,8 @@ third_nav_title: Upcoming Events
 -	Navigating Breast Cancer sharing by Breast Cancer Specialist, Guest Celebrities such as Sue Kassim and more  
 -	Health talks, cooking demonstration, physical and informative activities to learn about women's health
 
+![](/images/cwss%20final.PNG)
+
 **Eligibility Criteria for North East Cancer Warrior Support Scheme:**
 -	Singapore Citizen residing in the North East District
 -	Per Capita Income (PCI) $1,200 and below OR a Blue CHAS Card Holder
