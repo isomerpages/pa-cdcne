@@ -16,7 +16,7 @@ The scheme will also provide **up to $10,000 in financial assistance**, should e
 *   A cash assistance of **$5,000** will also be disbursed to support beneficiaries with their cost-of-living concernsnth period.
 
 **Eligibility:**
--	Singaporean Citizen
+-	Singaporean Citizen residing in the North East District
 -	Per Capita Income (PCI) $1,200 and below OR a Blue CHAS Card Holder
 -	50 years old and above
 -	Have not gone for a mammogram screening in the last 24 months
