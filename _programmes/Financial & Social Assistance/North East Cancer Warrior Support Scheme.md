@@ -4,7 +4,7 @@ permalink: /programmes/financial-and-social-assistance/cwss/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-![](/images/finalcut.jpeg)
+
 
 North East Cancer Warrior Support Scheme invites women aged 50 and above to undergo mammogram screenings aiming to alleviate fears and misconceptions surrounding the early detection and treatment through outreach programmes, support groups and effective communication.
 
