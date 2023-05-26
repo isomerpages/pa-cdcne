@@ -6,9 +6,14 @@ third_nav_title: Financial & Social Assistance
 ---
 ![](/images/cwss%202023.png)
 
-North East Cancer Warrior Support Scheme invites women aged 50 and above to undergo mammogram screenings aiming to alleviate fears and misconceptions surrounding the early detection and treatment through outreach programmes, support groups and effective communication.
+North East Cancer Warrior Support Scheme aims at providing peace-of-mind assurance, financial assistance and support to women diagnosed with breast cancer.
 
-The scheme provides a one-time financial assistance support and covers out-of-pocket medical expenses after national subsidies of $5,000 per eligible beneficiary over a period of 12 months should they be diagnosed with breast cancer from the mammogram screening organized by North East CDC. Additionally, applications will receive a one-time $5,000 cash assistance to help with their cost-of-living expenses as well. The financial assistance quantum of $5,000 will be disbursed over two tranches of $2,500 each over a six-month period.
+In collaboration with SingHealth and the Health Promotion Board’s Screen for Life programme, the scheme provides mammogram screening at no cost for eligible women in the North East district. North East CDC hopes to encourage Singaporeans to take proactive measures towards their health while promoting the benefits of early detection.
+
+The scheme will also provide **up to $10,000 in financial assistance**, should eligible beneficiaries receive a positive diagnosis of breast cancer following the mammogram screening that was completed through the NECDC scheme.
+
+*   Includes up to **$5,000** to cover out-of-pocket medical expenses after national subsidies
+*   A cash assistance of **$5,000** will also be disbursed to support beneficiaries with their cost-of-living concernsnth period.
 
 **Eligibility:**
 -	Singaporean Citizen
