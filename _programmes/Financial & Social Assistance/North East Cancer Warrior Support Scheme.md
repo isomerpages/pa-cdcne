@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Financial & Social Assistance
 ---
 ![](/images/cwss%202023.png)
+
 North East Cancer Warrior Support Scheme invites women aged 50 and above to undergo mammogram screenings aiming to alleviate fears and misconceptions surrounding the early detection and treatment through outreach programmes, support groups and effective communication.
 
 The scheme provides a one-time financial assistance support and covers out-of-pocket medical expenses after national subsidies of $5,000 per eligible beneficiary over a period of 12 months should they be diagnosed with breast cancer from the mammogram screening organized by North East CDC. Additionally, applications will receive a one-time $5,000 cash assistance to help with their cost-of-living expenses as well. The financial assistance quantum of $5,000 will be disbursed over two tranches of $2,500 each over a six-month period.
