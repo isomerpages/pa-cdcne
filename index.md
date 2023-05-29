@@ -25,13 +25,12 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: "She Matters: Action for Women's Health"
-      description: Join us for the launch of the North East Cancer Warrior Support
-        Scheme and a day of fun-filled activities to learn more about women's
-        health on 28th May 2023!
+      title: Cancer Warrior Support Scheme
+      description: "Ladies, take charge of your health and sign up for a free
+        mammogram screening today! "
       button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/shematters/
-      image: /images/necdc_cancer warrior support banner (1).png
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
+      image: /images/cwss 2023.png
       alt: Image alt text
   - infopic:
       title: CDC Vouchers Scheme 2023
