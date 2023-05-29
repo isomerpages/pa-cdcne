@@ -26,8 +26,8 @@ sections:
       title: Building a caring and inclusive community
   - infopic:
       title: Cancer Warrior Support Scheme
-      description: "Ladies, take charge of your health and sign up for a free
-        mammogram screening today! "
+      description: Ladies, take charge of your health and sign up for a free mammogram
+        screening today!
       button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
       image: /images/cwss 2023.png
