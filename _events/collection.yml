@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Example Title.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
       - "Past Events/She Matters: Action for Women's Health.md"
