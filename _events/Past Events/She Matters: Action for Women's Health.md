@@ -3,7 +3,7 @@ title: "She Matters: Action for Women's Health"
 permalink: /events/upcoming-events/shematters/
 description: ""
 image: /images/cwss landing banner.png
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 ![](/images/necdc_cancer%20warrior%20support%20banner%20(1).png)
 ![](/images/event%20name%20(3).png)
