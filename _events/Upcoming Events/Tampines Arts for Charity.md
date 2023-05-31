@@ -177,7 +177,7 @@ Artist: Andy Soon
 
 *Under a starry night where there is no light pollution, a campfire can be seen from miles away. This art piece tries to capture that rustic feel in the nature. It serves to remind us of the beauty of the world away from the dazzle of city life.*
 
-23. Hope 希望
+23. Hope 希望 - $88
 
 Artist: Karen Tan
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/hope%20希望%2088.JPG)
