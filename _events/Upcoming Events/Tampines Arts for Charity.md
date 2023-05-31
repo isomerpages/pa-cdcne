@@ -227,4 +227,4 @@ Artist: Chan Hui Yang
 
 *A piece of the most iconic vintage tram, Tram 28 on the oldest district in Lisbon, Portugal.*
 
-[Purchase an art piece](https://go.gov.sg/tampinesartscharity)
+[Purchase an art piece here!](https://go.gov.sg/tampinesartscharity)
