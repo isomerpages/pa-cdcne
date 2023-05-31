@@ -40,7 +40,7 @@ Artist: Elaine
 
 *Capturing a moment of a stray cat but nonetheless special one.*
 
-**What's Up Pussycat? - $250 **
+**What's Up Pussycat? - $250**
 
 
 Artist: Ernest Goh
