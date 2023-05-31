@@ -91,9 +91,9 @@ Artist: Joy Yeo
 
 *Seascapes bring to mind the beautiful scenery in the sea of life. Pink, ornage and yellow hues complement deep shades of blue to create a sense of warmth and rejuvenation. Evening views of the sea are indeed breath-taking and rewarding, and such awaits us at the end of the day when we eventually tide through the stormy seas in life.*
 
-**Tampines MRT Station**
+**Tampines MRT Station - $5,000**
 
-Artist: Edward Phoon - $5,000
+Artist: Edward Phoon 
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/tampines%20mrt%20station%205000.jpg)
 
 *This painting depicts a typical train station serving a densely populated Tampines Town. It represents a modern and efficiennt transportation node in urban Singapore.*
