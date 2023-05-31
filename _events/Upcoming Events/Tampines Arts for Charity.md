@@ -201,3 +201,25 @@ Artist: Benedicto Noguera
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/merlion%20on%20pink%20sky%2080.PNG)
 
 *Trying to invoke energy and cheer by using bright colours. Inspired by Fauvist art.*
+
+26. Time Travel - $88
+
+Artist: Chan Hui Yang
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/time%20travel%2088.PNG)
+
+*Making use of the so-attention-grabbing fluorescent glows to bring the viewers travelling beyond imaginations.*
+
+27. Lighthouse In Luxurious Colours Sky - $88
+
+
+Artist: Chan Hui Yang
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/lighthouse%20in%20luxurious%20colors%20sky​%2088.jpg)
+
+*Inspired by the famous Van Gogh's Starry Night. Hui Yang hopes to re-create the magnificent depiction of the sky renders the viewer in a state of awe, like what Gogh's did!*
+
+28. Lisbon Tram 28 - $90
+
+Artist: Chan Hui Yang
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/lisbon%20tram%2028%20.jpg)
+
+*A piece of the most iconic vintage tram, Tram 28 on the oldest district in Lisbon, Portugal.*
