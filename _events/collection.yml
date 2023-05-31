@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Tampines Arts for Charity.md
-      - Upcoming Events/Example Title.md
       - Upcoming Events/.keep
+      - Upcoming Events/Example Title.md
       - Upcoming Events/Job Fairs.md
+      - Upcoming Events/Tampines Arts for Charity.md
       - "Past Events/She Matters: Action for Women's Health.md"
       - Past Events/District Meeting 2023.md
       - Past Events/Shaping Hearts 2022.md
