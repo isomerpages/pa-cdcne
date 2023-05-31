@@ -140,7 +140,7 @@ Artist: Edward Phoon
 Artist: Noc Vvyne Lim
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/literally%20paintings%20ii%20%20lul%20450.JPG)
 
-*"Just because you cannot see something doesn't mean it isn't there. Between two beings which were invisible, the ability to see each other in the reflection of one another's invisibility was imaginable and even possible."*
+*"Just because you&nbsp;cannot&nbsp;see something&nbsp;doesn't&nbsp;mean it&nbsp;isn't&nbsp;there. Between two beings which&nbsp;were invisible, the ability to see each&nbsp;other in the reflection of one another's invisibility was&nbsp;imaginable and even possible."*
 
 *Shinji Ishii, Lulu, March Was Made of Yarn.
 
@@ -184,11 +184,13 @@ Artist: Andy Soon
 
 Artist: Karen Tan
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/hope%20希望%2088.JPG)
-   
-*你心爱的花，它在遥远的星星上; 
-而我，伴你望着浩瀚无垠的星空；  
-抚平你的忧愁，是你永远的朋友；  
-不要再惦记玫瑰，因为这世上还有着漂亮的郁金香*
+<br>*你心爱的花，它在遥远的星星上;*
+<br>
+*而我，伴你望着浩瀚无垠的星空;*  
+*抚平你的忧愁，是你永远的朋友*  
+*不要再惦记玫瑰，因为这世上还有着漂亮的郁金香*
+<br>
+
 
 **Row Houses - $88**
 
@@ -224,3 +226,5 @@ Artist: Chan Hui Yang
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/lisbon%20tram%2028%20.jpg)
 
 *A piece of the most iconic vintage tram, Tram 28 on the oldest district in Lisbon, Portugal.*
+
+[Purchase an art piece](https://go.gov.sg/tampinesartscharity)
