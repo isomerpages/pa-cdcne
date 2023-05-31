@@ -90,7 +90,14 @@ Artist: Joy Yeo
 
 *Seascapes bring to mind the beautiful scenery in the sea of life. Pink, ornage and yellow hues complement deep shades of blue to create a sense of warmth and rejuvenation. Evening views of the sea are indeed breath-taking and rewarding, and such awaits us at the end of the day when we eventually tide through the stormy seas in life.*
 
-12. Central Fire Station
+12. Tampines MRT Station
+
+Artist: Edward Phoon - $5,000
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/tampines%20mrt%20station%205000.jpg)
+
+*This painting depicts a typical train station serving a densely populated Tampines Town. It represents a modern and efficiennt transportation node in urban Singapore.*
+
+13. Central Fire Station - $5,000
 
 
 Artist: Edward Phoon
@@ -101,3 +108,80 @@ Artist: Edward Phoon
 *The SCDF has undergone massive transformation to what it is today - a modern force with state-of-the-art equipment and well-trained personnel.*
 
 *This painting seeks to bring out the charming architectural design of the building and its alluring beauty.*
+
+14. National Gallery - $5,000
+
+Artist: Edward Phoon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/national%20gallery%20singapore%205000.jpg)
+
+*This painting captures the beauty and charm of the former Supreme Court section of the National Gallery. The Neoclassic-style architecture with its copper-green dome has since become an icon of the Singapore Civic District.*
+
+15. Flower Stall at Waterloo Street - $5,000
+
+Artist: Edward Phoon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/flower%20stall%20at%20waterloo%20street%205000.jpg)
+*Waterloo Street is well-known for famous landmarks such as the Kwan Im Thong Hood Cho Chinese Temple, Sri Krishnan Indian Temple and the Jewish Maghain Aboth Synagigue. It is the religious melting pot in a multi-religious Singapore.*
+
+*This street is heavily frequented by religious devotees who come here to pray to the deities. The flower street vendors provide fresh stock of flowers to theses devotees who purchase them as their offering to the gods.*
+
+16. Little India Back Lane - $5,000
+
+Artist: Edward Phoon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/little%20india%20back%20lane%205000.jpg)
+*Little India is a vibrant cultural enclave with temples, mosques, restaurants, street arts and brightly painted shophouses.*
+
+*Behind the busy shophouses, attractive shopfront facades and well-known eateries are numerous clean and safe back alleys which add much flavour, uniqueness and attractiveness to Little India.*
+
+17. Literally Paintings II : Lulu - $450
+
+Artist: Noc Vvyne Lim
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/literally%20paintings%20ii%20%20lul%20450.JPG)
+
+*"Just because you cannot see something doesn't mean it isn't there. Between two beings which were invisible, the ability to see each other in the reflection of one another's invisibility was imaginable and even possible."*
+
+*Shinji Ishii, Lulu, March Was Made of Yarn.
+
+18. Flowers In The Spring - $88
+
+Artist: Ivy Gui
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/flowers%20in%20the%20spring%2088.JPG)
+
+*"Thanks to Skillsfuture, I can attend acrylic painting workshops without worry about the tuition fee."*
+
+19. Autumn Evening Forest - $90
+
+Artist: Andy Soon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/autumn%20evening%20forest​%2090.JPG)
+
+*The forest become a dazzling land of colours as the autumn leaves start falling to the floor. The evening sunset serves to enhance the beauty of it as a keen reminder of how beautiful nature can be if left untouched.*
+
+20. Autumn Leaves Close Up - $90
+
+Artist: Andy Soon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/autumn%20leaves%20close%20up​%2090.JPG)
+
+*Autumn is generally seen as the most beautiful season to many people due to the colourful leaves that autumn trees had. Yet, it is also a period of change for the trees which is reflective of life itself. Beauty is a fleeting moment to be cherished.*
+
+21. Scene From Seaside - $90
+
+Artist: Andy Soon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/scene%20from%20seaside%2090.JPG)
+
+*The best type of me time is to be able to sit by the beach, look at the blue skies, clear sea. The noise of the sea serves as a calming effect for people to self reflect and meditate.*
+
+22. Campfire Night - $88
+
+Artist: Andy Soon
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/campfire%20night%2088.JPG)
+
+
+*Under a starry night where there is no light pollution, a campfire can be seen from miles away. This art piece tries to capture that rustic feel in the nature. It serves to remind us of the beauty of the world away from the dazzle of city life.*
+
+23. Hope 希望
+
+Artist: Karen Tan
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/hope%20希望%2088.JPG)
+
+*你心爱的花，它在遥远的星星上；
+而我，伴你望着浩瀚无垠的星空；抚平你的忧愁，是你永远的朋友；不要再惦记玫瑰，因为这世上还有着漂亮的郁金香！
+*
