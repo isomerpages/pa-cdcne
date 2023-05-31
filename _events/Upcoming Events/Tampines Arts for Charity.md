@@ -41,7 +41,7 @@ Artist: Elaine
 *Capturing a moment of a stray cat but nonetheless special one.*
 
 5. What's Up Pussycat? - $250 
-PG)
+
 
 Artist: Ernest Goh
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/what's%20new%20pussycat%20250.JPG)
