@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 As part of our efforts to uplift and aid the less fortunate within our community, Tampines GRC with the support of North East CDC have organised this Tampines Arts for Charity to showcase the works of our talented local artists within the community. Residents are given the opportunity to purchase these art pieces via this [online exhibition](https://go.gov.sg/tampinesartscharity). All proceeds from sales of these art pieces will be donated to SBL Welfare Foundation. 
 
 
-Art pieces available:
+**Art pieces available:**
 
 **Couple Walking In The Rain - $500**
 
