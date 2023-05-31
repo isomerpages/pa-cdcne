@@ -172,7 +172,7 @@ Artist: Andy Soon
 22. Campfire Night - $88
 
 Artist: Andy Soon
-![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/campfire%20night%2088.JPG)
+![](/images/Events/Up20Events/Online%20Charity%20Art%20Sale/campfire%20night%2088.JPG)
 
 
 *Under a starry night where there is no light pollution, a campfire can be seen from miles away. This art piece tries to capture that rustic feel in the nature. It serves to remind us of the beauty of the world away from the dazzle of city life.*
@@ -181,7 +181,23 @@ Artist: Andy Soon
 
 Artist: Karen Tan
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/hope%20希望%2088.JPG)
+   
 
 *你心爱的花，它在遥远的星星上；
-而我，伴你望着浩瀚无垠的星空；抚平你的忧愁，是你永远的朋友；不要再惦记玫瑰，因为这世上还有着漂亮的郁金香！
-*
+而我，伴你望着浩瀚无垠的星空；  
+抚平你的忧愁，是你永远的朋友；  
+不要再惦记玫瑰，因为这世上还有着漂亮的郁金香！*
+
+24. Row Houses - $88
+
+Artist: Benedicto Noguera
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/row%20houses%2088.PNG)
+
+*Acrylic on canvas. Inspired by my childhood neighnourhood where power lines still lined the sky.*
+
+25. Merlion On Pink Sky - $80
+
+Artist: Benedicto Noguera
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/merlion%20on%20pink%20sky%2080.PNG)
+
+*Trying to invoke energy and cheer by using bright colours. Inspired by Fauvist art.*
