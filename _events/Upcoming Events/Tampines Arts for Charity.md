@@ -182,11 +182,10 @@ Artist: Andy Soon
 Artist: Karen Tan
 ![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/hope%20希望%2088.JPG)
    
-
-*你心爱的花，它在遥远的星星上；
+*你心爱的花，它在遥远的星星上; 
 而我，伴你望着浩瀚无垠的星空；  
 抚平你的忧愁，是你永远的朋友；  
-不要再惦记玫瑰，因为这世上还有着漂亮的郁金香！*
+不要再惦记玫瑰，因为这世上还有着漂亮的郁金香*
 
 24. Row Houses - $88
 
