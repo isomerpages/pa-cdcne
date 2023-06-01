@@ -4,8 +4,11 @@ permalink: /events/upcoming-events/tampinesartsforcharity/
 description: ""
 third_nav_title: Upcoming Events
 ---
-As part of our efforts to uplift and aid the less fortunate within our community, Tampines GRC with the support of North East CDC have organised this Tampines Arts for Charity to showcase the works of our talented local artists within the community. Residents are given the opportunity to purchase these art pieces via this [online exhibition](https://go.gov.sg/tampinesartscharity). All proceeds from sales of these art pieces will be donated to SBL Welfare Foundation. 
+![](/images/Events/Upcoming%20Events/Online%20Charity%20Art%20Sale/online%20sale%20poster.jpg)
 
+As part of our ongoing efforts to support and uplift the less fortunate in our community, Tampines GRC, with the support of North East CDC, is organising the Tampines Arts for Charity event. We showcase the exceptional works of talented local artists within our community and would like to invite residents to support and purchase these art pieces. All proceeds generated from the sales of these art pieces will be donated to the SBL Welfare Foundation. Thank you for your support in making a difference in the lives of the less fortunate in our community.
+
+A total of 28 paintings are available for purchase. Please find the details below, and make your purchase [here](https://go.gov.sg/tampinesartscharity)!
 
 **Art pieces available:**
 
