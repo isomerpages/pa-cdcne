@@ -25,7 +25,7 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Cancer Warrior Support Scheme
+      title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
         screening today!
       button: FIND OUT MORE
