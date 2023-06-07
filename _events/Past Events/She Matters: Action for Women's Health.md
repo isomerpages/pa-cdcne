@@ -5,20 +5,18 @@ description: ""
 image: /images/cwss landing banner.png
 third_nav_title: Past Events
 ---
-![](/images/necdc_cancer%20warrior%20support%20banner%20(1).png)
-![](/images/event%20name%20(3).png)
-[Register today](https://go.gov.sg/registershematters) to attend She Matters: Action for Women's Health event!
+On 28 May 2023, She Matters: Action for Women’s Health took place at Sengkang Community Club. The event marked the launch of a new financial and support scheme, the Cancer Warrior Support Scheme! 
 
-**Event Highlights:**
--	Launch of the North East Cancer Warrior Support Scheme  
--	Navigating Breast Cancer sharing by Breast Cancer Specialist, Guest Celebrities such as Sue Kassim and more  
--	Health talks, cooking demonstration, physical and informative activities to learn about women's health
+![](/images/necdc%20woman_s%20health-169.jpg)
 
-![](/images/cwss%20final.PNG)
+Residents sat down for an informative sharing from Dr Veronique Tan, Koh Chieung Mun, Sue Kassim and Sharon Ismail on navigating breast cancer, stories of resilience through the difficult journey and encouragement to go for mammogram screenings. Residents also visited the participating partner booths, to learn more about cancer and the wide range of support available.
 
-**Eligibility Criteria for North East Cancer Warrior Support Scheme:**
--	Singapore Citizen residing in the North East District
--	Per Capita Income (PCI) $1,200 and below OR a Blue CHAS Card Holder
--	50 years old and above, OR between the age of 40-49 and have been directed to go for a mammogram after consulting your doctor
--	Have not gone for a mammogram screening in the last 24 months (if above 50 years of age), OR within the past 12 months (if between 40 -49 years of age), and have been directed to go for a mammogram after consulting your doctor
--	Do not have any pre-existing breast conditions or breast implants done in the past one year
+![](/images/necdc%20woman_s%20health-181.jpg)
+
+We thank all partners and residents for supporting the launch of the Cancer Warrior Support Scheme and strongly encourage all to [register](https://form.gov.sg/641ae50b868d810012bb1188) and go for the free mammogram screenings!\*. Click [here](https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/) for more details about the scheme.
+
+_\*Limited to 1,000 slots only._
+
+![](/images/necdc%20woman_s%20health-377.jpg)
+
+![](/images/necdc%20woman_s%20health-30.jpg)
