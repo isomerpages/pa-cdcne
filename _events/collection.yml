@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/SkillsFuture Festival @ North East.md
       - Upcoming Events/.keep
       - Upcoming Events/Tampines Arts for Charity.md
       - Upcoming Events/Job Fairs.md
