@@ -22,4 +22,4 @@ The event is entirely free-of-charge and open to all members of the public visit
 
 For those who might not be able to visit the event, sign up for the [Virtual Career Fair](https://e2i-events-sustainability.app.kinobi.asia/jobs) from 15th July to 28th July 2023 where you can meet career coaches who can offer career advisory to jobseekers unsure about Green Economy and Sustainability roles. 
 
-[Sign up for SkillsFuture Festival @ North East today!](go.gov.sg/sffne2023)
+[Sign up for SkillsFuture Festival @ North East today!](https://go.gov.sg/sffne2023)
