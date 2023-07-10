@@ -25,6 +25,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: SkillsFuture Festival @ North East
+      description: Looking to break into the Green Economy and Sustainability
+        Industry? Don't miss out the upcoming SkillsFuture Festival @ North East
+        this weekend!
+      button: Find out more
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/sffne2023/
+      image: /images/oth_website banner_skillsfuture festival 2023.png
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
         screening today!
