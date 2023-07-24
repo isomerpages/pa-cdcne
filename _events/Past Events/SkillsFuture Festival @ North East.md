@@ -2,7 +2,7 @@
 title: SkillsFuture Festival @ North East
 permalink: /events/upcoming-events/sffne2023/
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 ![](/images/oth_website%20banner_skillsfuture%20festival%202023.png)
 
