@@ -4,22 +4,16 @@ permalink: /events/upcoming-events/sffne2023/
 description: ""
 third_nav_title: Past Events
 ---
-![](/images/oth_website%20banner_skillsfuture%20festival%202023.png)
+The SkillsFuture Festival @ North East 2023, held on 15th and 16th July 2023, focused on educating and empowering participants through various learning opportunities. The event featured sustainability experts and highlighted three main components:
 
-If you are looking to break into the Green Economy and Sustainability industry, SkillsFuture Festival @ North East 2023 is a great place to start! This year's festival focused on educating and empowering through various learning opportunities with industry experts at the event, subsidised courses and more!
+1. Speak: Experts discussed green and sustainability issues, motivating attendees to adopt greener lifestyles.
 
-**What should you expect?**
+2. Share: Residents were informed about subsidized courses in the green industry, enabling them to gain knowledge and skills for sustainable practices.
 
-1.       Speak – Speaking to raise awareness on green and sustainability issues, industry experts will share about how anyone can play a part in adopting a greener lifestyle.  
-  
+3. Show: The event showcased innovative and eco-friendly products, encouraging participants to make environmentally conscious choices in their daily lives.
 
-2.       Share – Sharing of available Green and Sustainability courses, residents can pursue education, empowerment, and skills-upgrading with SkillsFuture-subsidised courses within the industry.  
-  
+![](/images/img_0145.jpg)
 
-3.       Show – Showcasing of innovative, environmentally-friendly products to encourage and provide residents options to adopt greener habits and contribute to sustainable efforts in their day-to-day lives.
+![](/images/img_0454.jpg)
 
-The event is entirely free-of-charge and open to all members of the public visiting Our Tampines Hub over the weekend on 15th and 16th of July 2023. 
-
-For those who might not be able to visit the event, sign up for the [Virtual Career Fair](https://e2i-events-sustainability.app.kinobi.asia/jobs) from 15th July to 28th July 2023 where you can meet career coaches who can offer career advisory to jobseekers unsure about Green Economy and Sustainability roles. 
-
-[Sign up for SkillsFuture Festival @ North East today!](https://go.gov.sg/sffne2023)
+Overall, the festival aimed to empower individuals with knowledge and options to actively contribute to sustainability efforts and create a greener future. As we wrap up this year's festival, we are already looking forward to welcoming you all back next year. We can't wait to share even more knowledge, inspiration, and joy in creating a better, greener future together!
