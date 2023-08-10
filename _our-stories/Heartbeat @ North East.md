@@ -17,7 +17,7 @@ description: ""
 
 [Newsletter Sep 2022](https://pa.imail-host.com/email/view/63299303ba155694077357)
 
-[Newsletter Oct 2022](https://pa.imail-host.com/email/view/635f3550d30b4015264462))
+[Newsletter Oct 2022](https://pa.imail-host.com/email/view/635f3550d30b4015264462)
 
 [Newsletter Nov 2022](https://pa.imail-host.com/email/view/638fac6db2ce2259506174)
 
