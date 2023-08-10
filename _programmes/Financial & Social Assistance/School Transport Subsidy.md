@@ -4,7 +4,17 @@ permalink: /programmes/financial-and-social-assistance/school-transport-subsidy/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-The School Transport Subsidy scheme offers financial assistance to students in Primary, Secondary School, and Tertiary education levels, which encompasses Junior Colleges, Polytechnics, and the Institute of Technical Education. The subsidy amounts are as follows: $360 as a one-time payment for Primary and Secondary School students, $650 disbursed quarterly for JC/Poly/ITE students, and $1,000 disbursed quarterly for University students.
+The School Transport Assistance and Relief Scheme (STARS) offers financial assistance to students in Primary, Secondary School, and Tertiary education levels, which encompasses Universities, Junior Colleges, Polytechnics, and the Institute of Technical Education. The scheme supports students residing in the North East district who face challenges in accessing transportation to school. It seeks to eliminate barriers that may hinder a student’s full potential by empowering them to pursue their academic journey without the burden of transportation expenses.
+
+
+
+| Education Level | Quantum Per Annum | Quarterly/ Once-off Disbursement |
+| -------- | -------- | -------- |
+| Primary     | $360     | Once-off    |
+| Secondary     | $360     | Once-off    |
+| JC/Polytechnic/ITE     | $650     | Quarterly    |
+| University     | $1,000     | Quarterly    |
+
 
 ![](/images/Programmes/Financial%20&%20Social%20Assistance/student%20transport%20subsidy%20visual.jpg)
 
