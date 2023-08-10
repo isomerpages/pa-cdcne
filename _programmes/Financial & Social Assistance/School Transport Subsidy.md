@@ -4,7 +4,7 @@ permalink: /programmes/financial-and-social-assistance/school-transport-subsidy/
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-To provide financial support for Primary and Secondary School students, the School Transport Subsidy scheme subsidises transport costs at $180 per year.
+The School Transport Subsidy scheme offers financial assistance to students in Primary, Secondary School, and Tertiary education levels, which encompasses Junior Colleges, Polytechnics, and the Institute of Technical Education. The subsidy amounts are as follows: $360 as a one-time payment for Primary and Secondary School students, $650 disbursed quarterly for JC/Poly/ITE students, and $1,000 disbursed quarterly for University students.
 
 ![](/images/Programmes/Financial%20&%20Social%20Assistance/student%20transport%20subsidy%20visual.jpg)
 
