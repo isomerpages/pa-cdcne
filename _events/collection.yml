@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
-      - Upcoming Events/Tampines Arts for Charity.md
       - Upcoming Events/Job Fairs.md
       - Past Events/SkillsFuture Festival @ North East.md
       - "Past Events/She Matters: Action for Women's Health.md"
