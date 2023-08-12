@@ -16,7 +16,7 @@ The School Transport Assistance and Relief Scheme (STARS) offers financial assis
 | University     | $1,000     | Quarterly    |
 
 
-![](/images/Programmes/Financial%20&%20Social%20Assistance/student%20transport%20subsidy%20visual.jpg)
+![](/images/Programmes/Financial%20&%20Social%20Assistance/school%20transport%20assistance%20and%20relief%20scheme%20(stars)%20(1).png)
 
 To apply, you can either:
 
