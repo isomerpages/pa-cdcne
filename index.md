@@ -25,6 +25,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: School Transport Assistance and Relief Scheme (STARS)
+      description: Financial assistance for students to pursue their academic journey
+        without the burden of transportation expenses.
+      button: Find out more
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/stars/
+      image: /images/stars scheme.png
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
         screening today!
