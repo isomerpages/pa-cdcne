@@ -13,7 +13,7 @@ In collaboration with SingHealth and the Health Promotion Board’s Screen for L
 The scheme will also provide **up to $10,000 in financial assistance**, should eligible beneficiaries receive a positive diagnosis of breast cancer following the mammogram screening that was completed through the NECDC scheme.
 
 *   Includes up to **$5,000** to cover out-of-pocket medical expenses after national subsidies
-*   A cash assistance of **$5,000** will also be disbursed to support beneficiaries with their cost-of-living concernsnth period.
+*   A cash assistance of **$5,000** will also be disbursed to support beneficiaries with their cost-of-living concerns.
 
 **Eligibility:**
 -	Singaporean Citizen residing in the North East District
