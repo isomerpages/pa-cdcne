@@ -8,4 +8,4 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/tampines%20green%20&%20wellness%20kv.jpg)
 
-#### **[Register today!](go.gov.sg/tampgwfestival)**
+[Register Now!](https://form.gov.sg/64f04edbd3a7090012fa86ca)
