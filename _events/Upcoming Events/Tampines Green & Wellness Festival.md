@@ -8,4 +8,10 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/tampines%20green%20&%20wellness%20kv.jpg)
 
+![](/images/photo_6062042053212223844_y.jpg)
+
+![](/images/photo_6062042053212223845_x.jpg)
+
+![](/images/photo_6062042053212223847_y.jpg)
+
 [Register Now!](https://form.gov.sg/64f04edbd3a7090012fa86ca)
