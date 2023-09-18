@@ -19,6 +19,7 @@ Visit the Farmer's Market and Maker's Space to learn more about wellness!
 ![](/images/booths%20vendor.jpg)
 
 Sign up for a variety of workshops centered on health and sustainability!
+
 ![](/images/photo_6068996764905618079_y.jpg)
 
 [Register Now!](https://form.gov.sg/64f04edbd3a7090012fa86ca)
