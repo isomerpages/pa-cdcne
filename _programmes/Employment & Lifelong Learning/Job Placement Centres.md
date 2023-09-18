@@ -30,4 +30,4 @@ Check out the list of Job Placement Centres in North East here:
 
 | Address | Contact Details |
 | -------- | ------- |
-| Blk 526, Bedok North St 3 #01-490, Singapore 460526 | 9167 2217 |
+| Blk 670, Bedok North Street 3, #01-07, Singapore 469627 | 6242 3884 / 9167 2217 |
