@@ -8,18 +8,12 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/tampines%20green%20&%20wellness%20kv.jpg)
 
-Don't miss out the engaging forum happening and listen to wellness experts to learn more about how to care for your mental health!
+![](/images/living%20well%20from%20inside%20out.png)
 
-![](/images/photo_6062042053212223844_y.jpg)
+![](/images/workshops.png)
 
-![](/images/photo_6062042053212223845_x.jpg)
+![](/images/booth%20partners%20(not%20full).png)
+![](/images/booth%20partners%20(not%20full)%20(2).png)
 
-Visit the Farmer's Market and Maker's Space to learn more about wellness! 
-
-![](/images/booths%20vendor.jpg)
-
-Sign up for a variety of workshops centered on health and sustainability!
-
-![](/images/photo_6068996764905618079_y.jpg)
 
 [Register Now!](https://form.gov.sg/64f04edbd3a7090012fa86ca)
