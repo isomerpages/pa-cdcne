@@ -10,8 +10,6 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/MENTAL%20WELLNESS%20FORUM%20PROGRAMMES.png)
 
-![](/images/living%20well%20from%20inside%20out.png)
-
 ![](/images/workshops.png)
 
 ![](/images/booth%20partners%20(not%20full).png)
