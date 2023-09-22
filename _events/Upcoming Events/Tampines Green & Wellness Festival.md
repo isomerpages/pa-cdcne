@@ -8,7 +8,7 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/tampines%20green%20&%20wellness%20kv.jpg)
 
-![](/images/MENTAL%20WELLNESS%20FORUM%20PROGRAMMES.png)
+![](/images/mental%20wellness%20forum%20programmes.png)
 
 ![](/images/workshops.png)
 
