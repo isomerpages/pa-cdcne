@@ -12,11 +12,11 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/workshops.png)
 
-![](/images/Events/Booth%20partners%20five.png)
+![](/images/Events/booth%20partners%20five.png)
 
-![](/images/Events/Booth%20partners%20six.png)
+![](/images/Events/booth%20partners%20six.png)
 
-![](/images/Events/Booth%20partners%20seven.png)
+![](/images/Events/booth%20partners%20seven.png)
 
 
 [Register Now!](https://form.gov.sg/64f04edbd3a7090012fa86ca)
