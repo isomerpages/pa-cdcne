@@ -10,9 +10,11 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/Events/mental%20wellness%20forum%20programme.png)
 
+![](/images/Events/green%20forum%20programme.png)
+
 ![](/images/Events/workshops.png)
 
-![](/images/Events/booth%20partners%20five.png)
+![](/images/Events/booth%20partners%20five%20new.png)
 
 ![](/images/Events/booth%20partners%20six.png)
 
