@@ -10,7 +10,7 @@ Join us at our one-of-a-kind festival, where you'll find a treasure trove of res
 
 ![](/images/Events/mental%20wellness%20forum%20programme.png)
 
-![](/images/Events/green%20forum%20programme.png)
+![](/images/Events/green%20forum%20programme%20new.png)
 
 ![](/images/Events/workshops.png)
 
