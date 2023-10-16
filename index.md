@@ -25,6 +25,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Tampines Green & Wellness Festival
+      description: Discover our unique festival, packed with resources, workshops, and
+        activities for a healthier, sustainable life. Rejuvenate your body,
+        mind, and spirit today!
+      button: FIND OUT MORE
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/tampinessgreenwellnessfestival/
+      image: /images/tampines green & wellness_oct 2023_top panel screen (jpg).jpg
+      alt: Image alt text
+  - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
       description: Financial assistance for students to pursue their academic journey
         without the burden of transportation expenses.
