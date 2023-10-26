@@ -29,7 +29,7 @@ sections:
       description: Join us in the return of our annual Shaping Hearts event, the
         largest inclusive arts festival in Singapore!
       button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/shapinghearts2023
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/permalink/shapinghearts2023/
       image: /images/Media Files for Shaping Hearts/sh - web banner.jpg
       alt: Image alt text
   - infopic:
