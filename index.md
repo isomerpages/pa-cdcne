@@ -25,13 +25,12 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Tampines Green & Wellness Festival
-      description: Discover our unique festival, packed with resources, workshops, and
-        activities for a healthier, sustainable life. Rejuvenate your body,
-        mind, and spirit today!
+      title: Shaping Hearts 2023
+      description: Join us in the return of our annual Shaping Hearts event, the
+        largest inclusive arts festival in Singapore!
       button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/tampinessgreenwellnessfestival/
-      image: /images/tampines green & wellness_oct 2023_top panel screen (jpg).jpg
+      url: https://northeast.cdc.gov.sg/events/upcoming-events/shapinghearts2023
+      image: /images/Media Files for Shaping Hearts/sh - web banner.jpg
       alt: Image alt text
   - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
