@@ -10,7 +10,7 @@ The We Care @ North East Fund aims to help needy families who require interim fi
 
 To apply, you can either:
 
-1.  Email the completed [Application Form](/files/new%20annex%20a_north%20east%20assistance%20scheme%20referral%20form%20.pdf) and supporting documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg); OR
+1.  Email the completed [Application Form](/files/North%20East%20Assistance%20Scheme%20Referral%20Form.pdf) and supporting documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg); OR
 2.  Complete the [Online Form](https://form.gov.sg/#!/5e994b5f5dad670011b1d2ed) and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
 
 If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg).
