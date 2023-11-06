@@ -3,6 +3,7 @@ title: Shaping Hearts 2023
 permalink: /events/upcoming-events/permalink/shapinghearts2023/
 description: ""
 third_nav_title: Upcoming Events
+variant: markdown
 ---
 ![](/images/Media%20Files%20for%20Shaping%20Hearts/sh%20-%20web%20banner.jpg)
 
@@ -16,4 +17,4 @@ These talented individuals have overcome challenges and created remarkable artwo
 
 The festival features a captivating art exhibition, live performances, art sales, and a heartwarming charity art auction, all in the spirit of promoting awareness, acceptance, and inclusivity within our community.
 
-Visit [Shaping Hearts 2023](www.shapinghearts.com) to view and purchase the artworks and merchandise online, supporting the cause and learning more about Shaping Hearts and the people that are a part of it.
+Visit [Shaping Hearts 2023](www.shapinghearts.sg) to view and purchase the artworks and merchandise online, supporting the cause and learning more about Shaping Hearts and the people that are a part of it.
