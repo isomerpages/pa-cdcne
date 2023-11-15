@@ -20,6 +20,12 @@ It comprises of two distinct grants: 
 * A Singaporean or Permanent Resident (must have at least 1 Singaporean family member in the household) 
 * Certified to have a permanent disability. Applicant must submit their application before 31 December. All Applicants will receive the letter of outcome, and successful applicants will receive the grant before April of the following year.
 
+**To apply, you can:**
+
+Complete the [online form](https://form.gov.sg/651d445d1e31570012bb6ac5) and upload relevant supporting documents. You may submit additional documents to [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg)
+
+If you have any further queries, you may email us at Northeast\_CDC@pa.gov.sg
+
 **Note**: 
 
 *   Awarding of the grant will be determined by the assessment panel and all decisions made by the panel will be considered final. 
