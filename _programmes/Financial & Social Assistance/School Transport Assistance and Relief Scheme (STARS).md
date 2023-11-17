@@ -3,8 +3,9 @@ title: School Transport Assistance and Relief Scheme (STARS)
 permalink: /programmes/financial-and-social-assistance/stars/
 description: ""
 third_nav_title: Financial & Social Assistance
+variant: markdown
 ---
-The School Transport Assistance and Relief Scheme (STARS) offers financial assistance to students in Primary, Secondary School, and Tertiary education levels, which encompasses Universities, Junior Colleges, Polytechnics, and the Institute of Technical Education. The scheme supports students residing in the North East district who face challenges in accessing transportation to school. It seeks to eliminate barriers that may hinder a student’s full potential by empowering them to pursue their academic journey without the burden of transportation expenses.
+The scheme is applicable for students who are studying in Government or Government-Aided Primary, Secondary Schools including Special Education Schools and ITE/JC/Polytechnic/Undergraduate Diploma or equivalent. Tertiary students must currently be enrolled in full time study at Public/Private Educational Institutions/Madrasah with Singapore as main country of study. Educational Institution must be registered with Ministry of Education (MOE), Council for Private Education (CPE) or currently hold valid licenses.
 
 
 
