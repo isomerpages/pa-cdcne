@@ -25,6 +25,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: The North East HeARTS Award
+      id: infopic
+      description: The North East HeARTS Award aims to support and enable the pursuit
+        of artistic dreams for people with disabilities.
+      button: FIND OUT MORE
+      url: www.northeast.cdc.gov.sg/programmes/neheartsaward/
+      image: /images/R85_5236.jpg
+      alt: Image alt text
+  - infopic:
       title: Shaping Hearts 2023
       description: Join us in the return of our annual Shaping Hearts event, the
         largest inclusive arts festival in Singapore!
