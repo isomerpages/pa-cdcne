@@ -7,11 +7,11 @@ third_nav_title: Community Inclusion
 ---
 ![](/images/R85_5236.jpg)
 
-The North East HeARTS Award is an initiative committed to empowering individuals with disabilities by providing opportunities for creative expression and personal development through the visual arts. This grant ensures that special needs artists can pursue their passion and nurture their artistic talents, regardless of their family background or disability. By offering financial assistance, the grant aims to eliminate economic barriers that may hinder the pursuit of artistic passions.
+The North East HeARTS Award is an initiative committed to empowering persons with disabilities by providing opportunities for creative expression and personal development through the visual arts. This grant ensures that persons with disabilities can pursue their passion and nurture their artistic talents, regardless of their financial background. By offering financial assistance, the grant aims to eliminate economic barriers that may hinder the pursuit of artistic passions.
 
-In its inaugural year, the North East HeARTS Award is projected to positively impact over 60 beneficiaries. Each recipient will be awarded a quantum amount ranging from $2,000 to $5,000, providing them with the necessary resources to continue their artistic journey.
+In its inaugural year, the North East HeARTS Award is projected to impact 60 beneficiaries. Each recipient will be awarded a quantum amount ranging from $2,000 to $5,000, providing them with the necessary resources to continue their artistic journey.
 
-It comprises of two distinct grants:  
+It comprises of two categories:  
 ![](/images/The_North_East_HeARTS_Award__1__FINAL.png)
 
 **Eligibility Criteria** 
@@ -22,7 +22,7 @@ It comprises of two distinct grants: 
 
 **To apply, you can:**
 
-Complete the [online form](https://form.gov.sg/651d445d1e31570012bb6ac5) and upload relevant supporting documents. You may submit additional documents to [Northeast\_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg)
+Complete the [online form](https://form.gov.sg/651d445d1e31570012bb6ac5) and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](mailto:Northeast_CDC@pa.gov.sg)
 
 If you have any further queries, you may email us at Northeast\_CDC@pa.gov.sg
 
