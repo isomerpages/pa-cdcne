@@ -30,7 +30,7 @@ sections:
       description: The North East HeARTS Award aims to support and enable the pursuit
         of artistic dreams for people with disabilities.
       button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/programmes/neheartsaward/
+      url: www.northeast.cdc.gov.sg/programmes/neheartsaward/
       image: /images/R85_5236.jpg
       alt: Image alt text
   - infopic:
