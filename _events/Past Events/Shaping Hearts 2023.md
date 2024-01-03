@@ -5,7 +5,9 @@ description: ""
 third_nav_title: Past Events
 variant: markdown
 ---
-![](/images/Media%20Files%20for%20Shaping%20Hearts/sh%20-%20web%20banner.jpg)
+![](/images/R85_5236.jpg)
+
+Ass
 
 We're thrilled to share the return of our annual Shaping Hearts event, the largest inclusive arts festival in Singapore that celebrates the power of inclusivity and artistic diversity!
 
