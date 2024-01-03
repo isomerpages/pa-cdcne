@@ -2,9 +2,9 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Shaping Hearts 2023.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
+      - Past Events/Shaping Hearts 2023.md
       - Past Events/Tampines Green & Wellness Festival.md
       - Past Events/SkillsFuture Festival @ North East.md
       - "Past Events/She Matters: Action for Women's Health.md"

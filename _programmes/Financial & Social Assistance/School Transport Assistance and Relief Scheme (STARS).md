@@ -1,7 +1,8 @@
 ---
 title: School Transport Assistance and Relief Scheme (STARS)
 permalink: /programmes/financial-and-social-assistance/stars/
-description: ""
+description: STARS offers financial aid for student transport from lower income
+  families in the North East
 third_nav_title: Financial & Social Assistance
 variant: markdown
 ---

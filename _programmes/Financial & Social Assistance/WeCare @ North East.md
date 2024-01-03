@@ -1,8 +1,11 @@
 ---
 title: WeCare @ North East
 permalink: /programmes/financial-and-social-assistance/wecare-at-north-east/
-description: ""
+description: We Care @ North East Fund aims to help needy families who require
+  interim financial support, but do not meet the national gross household income
+  criteria
 third_nav_title: Financial & Social Assistance
+variant: tiptap
 ---
 The We Care @ North East Fund aims to help needy families who require interim financial support, but do not meet the national gross household income criteria. The scheme provides assistance in the form of once-off or up to three months of cash assistance.
 

@@ -1,8 +1,10 @@
 ---
 title: North East Growth Fund
 permalink: /programmes/financial-and-social-assistance/north-east-growth-fund/
-description: ""
+description: The North East Growth Fund was set up to provide formula milk and
+  diapers to young children up to 6 years old
 third_nav_title: Financial & Social Assistance
+variant: tiptap
 ---
 Every child deserves a healthy start in life. But for low-income families, meeting the nutritional needs and wellness of their little ones is a daily challenge. 
 
