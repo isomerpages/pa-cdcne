@@ -7,16 +7,13 @@ variant: markdown
 ---
 ![](/images/R85_5236.jpg)
 
-Ass
+       
 
-We're thrilled to share the return of our annual Shaping Hearts event, the largest inclusive arts festival in Singapore that celebrates the power of inclusivity and artistic diversity!
+As the curtains close on another spectacular edition of Shaping Hearts, we look back on this journey we've embarked on together!
 
-* Our Tampines Hub: 11 November to 26 November 2023
-* One Punggol: 18 November to 3 December 2023
+Shaping Hearts 2023 was not just an arts exhibition, but it was also a celebration of the spirit and talents of our "Heartists" – artists with disabilities who have conquered challenges to create masterpieces that resonate with strength and resilience. Over 150 artists contributed their art, sharing their stories and inspiring all who attended. The festival boasted captivating art exhibitions, exciting live performances, art sales, and a heartwarming charity art auction.
 
-Shaping Hearts 2023 is more than just an arts exhibition; it's a celebration of the extraordinary talents of "Heartists" with disabilities. 
-These talented individuals have overcome challenges and created remarkable artworks that tell their stories of strength and resilience. 
+We are grateful for the overwhelming support from our partners, donors, and art enthusiasts who joined us in this journey. Together, we raised close to $500,000, a testament to the collective commitment to fostering an inclusive society. These funds will play a pivotal role in supporting persons with disabilities in their pursuit of the arts, creating opportunities for them.
 
-The festival features a captivating art exhibition, live performances, art sales, and a heartwarming charity art auction, all in the spirit of promoting awareness, acceptance, and inclusivity within our community.
+For those who couldn't attend in person, our online gallery at  [www.shapinghearts.sg](www.shapinghearts.sg) remains open, offering a virtual space to explore and purchase the  artworks and merchandise. Join us in continuing to champion the cause, supporting the Heartists and learning more about the incredible stories behind the art!
 
-Visit [www.shapinghearts.sg](https://shapinghearts.sg/) to view and purchase the artworks and merchandise online, supporting the cause and learning more about Shaping Hearts and the people that are a part of it.
