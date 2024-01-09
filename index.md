@@ -25,6 +25,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: CDC Vouchers Scheme 2024
+      description: Every Singaporean household will receive a total of $500 CDC in
+        2024. Claim yours today!
+      button: MORE DETAILS
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
+      image: /images/key_visual.png
+      alt: Image alt text
+  - infopic:
       title: The North East HeARTS Award
       id: infopic
       description: The North East HeARTS Award aims to support and enable the pursuit
@@ -32,14 +40,6 @@ sections:
       button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/programmes/neheartsaward/
       image: /images/R85_5236.jpg
-      alt: Image alt text
-  - infopic:
-      title: Shaping Hearts 2023
-      description: Join us in the return of our annual Shaping Hearts event, the
-        largest inclusive arts festival in Singapore!
-      button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/events/upcoming-events/permalink/shapinghearts2023/
-      image: /images/Media Files for Shaping Hearts/sh - web banner.jpg
       alt: Image alt text
   - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
@@ -56,14 +56,6 @@ sections:
       button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
       image: /images/cwss 2023.png
-      alt: Image alt text
-  - infopic:
-      title: CDC Vouchers Scheme 2023
-      description: Every Singaporean household will receive a total of $300 CDC
-        Vouchers on 3 January 2023.
-      button: MORE DETAILS
-      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
-      image: /images/CDC BANNER.png
       alt: Image alt text
   - infopic:
       title: Support @ North East

@@ -7,7 +7,8 @@ variant: markdown
 ---
 **Looking for a job? Together with our placement centres, North East CDC brings job opportunities closer to your home. Check out our upcoming job fairs below!**
 
+![](/images/BRP_11_Jna.PNG)
 
-![](/images/Job%20Fairs/sss%20front.png)
+![](/images/edm_11Jan2024_P21CC.jpg)
 
-![](/images/Job%20Fairs/sss%20back.png)
+![](/images/edm_31Jan2024.jpg)
