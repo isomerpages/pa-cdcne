@@ -16,6 +16,8 @@ sections:
             url: programmes/financial-and-social-assistance/north-east-growth-fund
           - title: School Transport Subsidy
             url: /programmes/financial-and-social-assistance/school-transport-subsidy
+          - title: Cancer Warrior Support
+            url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
           - title: Dedicated Ambulance Service
             url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
           - title: Job Placement Centres
