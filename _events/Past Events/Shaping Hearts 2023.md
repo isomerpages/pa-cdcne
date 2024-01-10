@@ -15,5 +15,5 @@ Shaping Hearts 2023 was not just an arts exhibition, but it was also a celebrati
 
 We are grateful for the overwhelming support from our partners, donors, and art enthusiasts who joined us in this journey. Together, we raised close to $500,000, a testament to the collective commitment to fostering an inclusive society. These funds will play a pivotal role in supporting persons with disabilities in their pursuit of the arts, creating opportunities
 for them.
-      
-			Stay tuned for Shaping Hearts 2024!
+
+Stay tuned for Shaping Hearts 2024!
