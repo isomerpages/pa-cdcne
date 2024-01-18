@@ -2,19 +2,16 @@
 title: Corporate Social Responsibility
 permalink: /giving-back/corporate-social-responsibility/
 description: ""
+variant: markdown
 ---
 North East CDC is always looking for opportunities to work with various corporate and community partners for CSR collaborations, to benefit residents in the North East district.
 
 **Our Past CSR Initiatives**
 
-Aztech Global Ltd sponsored 100 pieces of their house brand kettles, as well as purchased cookies from the Heart Bakers programme, which were warmly received by our Project Refresh beneficiaries.
+Boustead Projects committed $100,000, to the 'Boustead Cares' Community Partnership programme, aiming to bring wellness to 750 active aging centres with new exercise equipment.
 
-![](/images/Giving%20Back/CSR/Aztech.jpg)
+![](/images/BOUSTEAD.PNG)
 
-Peh Clan Association packed and distributed grocery care packs to 100 families, who were referred by Pasir Ris Senior Activity Centre (SAC) and Family Service Centre (FSC). This was completed on 18 June 2022.
+Applied Materials donated 70 laptops which helped less privileged families in the North East community gain digital skills and access new opportunities.
 
-![](/images/Giving%20Back/CSR/Peh.jpg)
-
-Jabil Singapore packed and distributed grocery care packs in an ongoing initiative, which benefitted over 1,000 families this year.
-
-![](/images/Giving%20Back/CSR/Jabil.jpg)
+![](/images/Applied_Materials.PNG)
