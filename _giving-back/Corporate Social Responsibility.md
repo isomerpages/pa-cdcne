@@ -8,10 +8,10 @@ North East CDC is always looking for opportunities to work with various corporat
 
 **Our Past CSR Initiatives**
 
-Boustead Projects committed $100,000, to the 'Boustead Cares' Community Partnership programme, aiming to bring wellness to 750 active aging centres with new exercise equipment.
+**Boustead Projects** committed $100,000, to the 'Boustead Cares' Community Partnership programme, aiming to bring wellness to 750 active aging centres with new exercise equipment.
 
 ![](/images/BOUSTEAD.PNG)
 
-Applied Materials donated 70 laptops which helped less privileged families in the North East community gain digital skills and access new opportunities.
+**Applied Materials** donated 70 laptops which helped less privileged families in the North East community gain digital skills and access new opportunities.
 
 ![](/images/Applied_Materials.PNG)
