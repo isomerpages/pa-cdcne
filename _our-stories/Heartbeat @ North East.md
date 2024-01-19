@@ -2,6 +2,7 @@
 title: Heartbeat @ North East
 permalink: /our-stories/heartbeat/
 description: ""
+variant: markdown
 ---
 #### Catch up on our monthly happenings with our Heartbeat @ North East Newsletter! 
 
@@ -35,3 +36,11 @@ description: ""
 [Newsletter May 2023](https://pa.imail-host.com/email/view/64a0ddf115f1d158324324)
 
 [Newsletter Jun 2023](https://pa.imail-host.com/email/view/64c9c5c73d32e485446973)
+
+[Newsletter Jul 2023](https://pa.imail-host.com/email/view/64f7940980455559288816)
+
+[Newsletter Aug 2023](https://pa.imail-host.com/email/view/6532dd34d8fbe562731508)
+
+[Newsletter Oct 2023](https://pa.imail-host.com/email/view/656806e6d3ebe481263238)
+
+[Newsletter Nov 2023](https://pa.imail-host.com/email/view/6584b56a0a721622827003)
