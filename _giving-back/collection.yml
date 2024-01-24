@@ -1,0 +1,7 @@
+collections:
+  giving-back:
+    output: true
+    order:
+      - Volunteer.md
+      - Donate.md
+      - Corporate Social Responsibility.md

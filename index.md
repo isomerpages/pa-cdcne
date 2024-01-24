@@ -1,0 +1,89 @@
+---
+layout: homepage
+title: North East CDC
+description: Official website of North East Community Development Council (NE CDC)
+image: /images/isomer-logo.svg
+permalink: /
+notification: ""
+sections:
+  - hero:
+      dropdown:
+        title: How can we assist you?
+        options:
+          - title: WeCare @ North East Fund
+            url: /programmes/financial-and-social-assistance/wecare-at-north-east
+          - title: North East Growth Fund
+            url: programmes/financial-and-social-assistance/north-east-growth-fund
+          - title: School Transport Subsidy
+            url: /programmes/financial-and-social-assistance/school-transport-subsidy
+          - title: Cancer Warrior Support
+            url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
+          - title: Dedicated Ambulance Service
+            url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
+          - title: Job Placement Centres
+            url: /programmes/employment-and-lifelong-learning/job-placement-centres
+          - title: SkillsFuture Advice Workshops
+            url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
+      background: /images/Homepage/Hero Image.jpg
+      title: Building a caring and inclusive community
+  - infopic:
+      title: CDC Vouchers Scheme 2024
+      description: Every Singaporean household will receive a total of $500 CDC in
+        2024. Claim yours today!
+      button: MORE DETAILS
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
+      image: /images/key_visual.png
+      alt: Image alt text
+  - infopic:
+      title: The North East HeARTS Award
+      id: infopic
+      description: The North East HeARTS Award aims to support and enable the pursuit
+        of artistic dreams for people with disabilities.
+      button: FIND OUT MORE
+      url: https://northeast.cdc.gov.sg/programmes/neheartsaward/
+      image: /images/R85_5236.jpg
+      alt: Image alt text
+  - infopic:
+      title: School Transport Assistance and Relief Scheme (STARS)
+      description: Financial assistance for students to pursue their academic journey
+        without the burden of transportation expenses.
+      button: Find out more
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/stars/
+      image: /images/stars scheme.png
+      alt: Image alt text
+  - infopic:
+      title: North East Cancer Warrior Support Scheme
+      description: Ladies, take charge of your health and sign up for a free mammogram
+        screening today!
+      button: FIND OUT MORE
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
+      image: /images/cwss 2023.png
+      alt: Image alt text
+  - infopic:
+      title: Support @ North East
+      description: Know more about our various financial, social, and employment
+        assistance schemes.
+      button: Find Out More
+      url: /supportatnortheast
+      alt: Image alt text
+      image: /images/assistance.jpg
+  - infopic:
+      title: Which District am I in?
+      description: Enter your postal code in our District Locator to find out your
+        District's information. Scroll to the bottom of the page to locate it.
+      button: Find Out Now
+      url: https://www.gowhere.gov.sg/cdc
+      image: /images/Homepage/District Locator 2.png
+      alt: Image alt text
+  - infobar:
+      title: Subscribed to our monthly EDM yet?
+      description: Keep up to date on the latest happenings!
+      button: Subscribe Now
+      url: https://form.gov.sg/62dfa95050c946001247dc25
+  - infobar:
+      title: Make a Donation
+      description: Keen to help needy and disadvantaged residents? Your generous
+        donation will be entitled to 2.5 times of tax deduction.
+      button: Find out more
+      url: /giving-back/donate
+---

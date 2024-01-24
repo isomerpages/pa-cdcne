@@ -1,0 +1,14 @@
+logo: /images/NECDC Logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Events
+    collection: events
+  - title: Our Stories
+    collection: our-stories
+  - title: Giving Back
+    collection: giving-back
+  - title: Contact Us
+    url: /contact-us/
