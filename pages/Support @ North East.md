@@ -23,7 +23,7 @@ variant: tiptap
 <p>The Dedicated North East Ambulance Service provides subsidised ambulance
 services to low-income residents with chronic health problems and are immobile.
 <br>
-<br>Click <a href="www.northeast.cdc.gov.sg/programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>Click <a href="https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service/" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 more details.</p>
 </td>
 </tr>
