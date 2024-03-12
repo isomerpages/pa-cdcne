@@ -35,15 +35,6 @@ sections:
       image: /images/key_visual.png
       alt: Image alt text
   - infopic:
-      title: The North East HeARTS Award
-      id: infopic
-      description: The North East HeARTS Award aims to support and enable the pursuit
-        of artistic dreams for people with disabilities.
-      button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/programmes/neheartsaward/
-      image: /images/R85_5236.jpg
-      alt: Image alt text
-  - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
       description: Financial assistance for students to pursue their academic journey
         without the burden of transportation expenses.
