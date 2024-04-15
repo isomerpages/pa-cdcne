@@ -30,7 +30,7 @@ sections:
       title: Online Donation Campaign
       subtitle: Donate today
       id: infopic
-      description: Donate and Support Low-Income Families in Your Community
+      description: Donate and Support Low-Income Families in Your Community!
       button: Find out more
       url: https://northeast.cdc.gov.sg/online-fundraising-campaign/
       image: /images/NE_CDC_Donation_Drive_Top_Panel_Screen__jpg__01.jpg
