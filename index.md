@@ -27,6 +27,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Online Donation Campaign
+      subtitle: Donate today
+      id: infopic
+      description: Donate and Support Low-Income Families in Your Community!
+      button: Find out more
+      url: https://northeast.cdc.gov.sg/online-fundraising-campaign/
+      image: /images/NE_CDC_Donation_Drive_Top_Panel_Screen__jpg__01.jpg
+      alt: Image alt text
+  - infopic:
       title: CDC Vouchers Scheme 2024
       description: Every Singaporean household will receive a total of $500 CDC in
         2024. Claim yours today!
