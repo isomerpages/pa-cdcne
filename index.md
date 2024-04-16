@@ -27,8 +27,7 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Online Donation Campaign
-      subtitle: Donate today
+      title: Donate Today!
       id: infopic
       description: Donate and Support Low-Income Families in Your Community!
       button: Find out more
