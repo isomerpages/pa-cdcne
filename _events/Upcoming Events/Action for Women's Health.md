@@ -10,25 +10,132 @@ third_nav_title: Upcoming Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Action_For_Women_s_Health_Finalised_KV.png">
 </div>
 <p></p>
-<p>Mark your calendars for May 11th and 12th, and don’t miss out on this
-incredible opportunity to prioritize your well-being at Our Tampines Hub!</p>
-<p></p>
+<p>Mark your calendars for <strong>May 11th and 12th</strong>, and don’t miss
+out on this incredible opportunity to prioritize your well-being at <strong>Our Tampines Hub</strong>!</p>
 <p>Join us for two days filled with activities, expert advice, and discussions,
-all aimed at empowering you to take charge of your health journey. Here's
-what you can look forward to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Dive into action with workouts and on-site health consultations.</p>
-</li>
-<li>
-<p>Engage in a panel discussion on breast health led by Dr. Veronique Tan,
-Head of SingHealth Duke-NUS Breast Centre, alongside Pan Ling Ling, a celebrity
-cancer survivor. Gain valuable insights and learn how to prioritize your
-breast health with confidence.</p>
-</li>
-</ul>
-<p>🎁 Plus, as a token of our appreciation, every attendee will receive an
-exclusive door gift valued at more than $10!</p>
-<p>Rally your friends, mark your calendars, and get ready to prioritize your
-health. See you there!</p>
+all aimed at empowering you to take charge of your health journey.</p>
+<p>🎁 Plus, registered participants will each receive an activity card on
+the day of the event. Upon completion, you will receive a goodie bag worth
+$10! While stock lasts!&nbsp;</p>
+<p>Rally your friends, mark your calendars, and get ready to take action
+for your health. See you there!</p>
+<p>Here's what you can look forward to on <strong>11 May 2024</strong>:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Main Stage Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.45am - 11.55am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Be hype, be happy dance by Singapore Cancer Society cancer survivors</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.55am - 12.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Opening Address by Mayor Desmond Choo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.00pm - 12.05pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Speech by Guest-of-Honour Minister Masagos Zulklifli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.05pm - 12.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Partners' Appreciation Ceremony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.15pm - 1.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Panel Discussion on breast health with Head of SingHealth Duke-NUS Breast
+Centre, Dr Veronique Tan and breast cancer survivor, Pan Ling Ling</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mini Stage Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12pm – 1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Chair Yoga</strong>
+</p>
+<p>By:<strong> </strong>Heena Ashok Chablani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2pm – 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>My Journey with Breast Cancer Foundation</strong>
+</p>
+<p>By: Aisha Jiffry, The Warrior!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3pm – 4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Breast Cancer Awareness – Doctors’ Sharing</strong>
+</p>
+<p>By: SingHealth (Dr Joshua Tan Zhi Chien, Dr Lim Sue Zann and Dr Mok Chi
+Wei)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4pm – 5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Exercise Against Cancer</strong>
+</p>
+<p>By: Singapore Cancer Society</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5pm – 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>The Strength from Within: How your Mind helps your Body</strong>
+</p>
+<p>By:<strong>&nbsp; </strong>Ms Hong Dou, Senior Counsellor, 365 Cancer
+Prevention Society</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
