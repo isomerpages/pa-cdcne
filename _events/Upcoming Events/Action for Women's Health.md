@@ -11,7 +11,8 @@ third_nav_title: Upcoming Events
 </div>
 <p></p>
 <p>Mark your calendars for <strong>May 11th and 12th</strong>, and don’t miss
-out on this incredible opportunity to prioritize your well-being at <strong>Our Tampines Hub</strong>!</p>
+out on this incredible opportunity to prioritize your well-being at <strong>Our Tampines Hub</strong>.
+Sign up <a href="https://form.gov.sg/65f11a16ef5d3fbd8a7b5e0b" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p>Join us for two days filled with activities, expert advice, and discussions,
 all aimed at empowering you to take charge of your health journey.</p>
 <p>🎁 Plus, registered participants will each receive an activity card on
@@ -20,6 +21,7 @@ $10! While stock lasts!&nbsp;</p>
 <p>Rally your friends, mark your calendars, and get ready to take action
 for your health. See you there!</p>
 <p>Here's what you can look forward to on <strong>11 May 2024</strong>:</p>
+<h3>Main Stage Programme</h3>
 <table>
 <tbody>
 <tr>
@@ -27,7 +29,7 @@ for your health. See you there!</p>
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Main Stage Programme</p>
+<p>Programme</p>
 </th>
 </tr>
 <tr>
@@ -73,7 +75,7 @@ Centre, Dr Veronique Tan and breast cancer survivor, Pan Ling Ling</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h3>Mini Stage Programme</h3>
 <table>
 <tbody>
 <tr>
@@ -81,7 +83,7 @@ Centre, Dr Veronique Tan and breast cancer survivor, Pan Ling Ling</p>
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mini Stage Programme</p>
+<p>Programme</p>
 </th>
 </tr>
 <tr>
