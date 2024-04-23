@@ -33,7 +33,7 @@ sections:
       description: Join us for two days filled with activities, expert advice, and
         discussions, all aimed at empowering you to take charge of your health
         journey!
-      button: Button Text
+      button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/action-for-women-s-health/
       image: /images/AFWH_2024_TC_Top_Screen_revised.png
       alt: Image alt text
