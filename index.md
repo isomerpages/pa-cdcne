@@ -27,6 +27,17 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Take Charge of Your Health!
+      subtitle: action for women's health
+      id: infopic
+      description: Join us for two days filled with activities, expert advice, and
+        discussions, all aimed at empowering you to take charge of your health
+        journey!
+      button: Button Text
+      url: https://northeast.cdc.gov.sg/action-for-women-s-health/
+      image: /images/AFWH_2024_TC_Top_Screen_revised.png
+      alt: Image alt text
+  - infopic:
       title: Donate Today!
       id: infopic
       description: Donate and Support Low-Income Families in Your Community!
