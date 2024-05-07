@@ -3,6 +3,7 @@ title: Job Placement Centres
 permalink: /programmes/employment-and-lifelong-learning/job-placement-centres/
 description: ""
 third_nav_title: Employment & Lifelong Learning
+variant: markdown
 ---
 Four Job Placement Centres are set up in collaboration with the Grassroots Organisations to provide employment assistance for residents in the North East District. Coaches are on hand to provide job matching and career coaching. 
 
@@ -30,4 +31,4 @@ Check out the list of Job Placement Centres in North East here:
 
 | Address | Contact Details |
 | -------- | ------- |
-| Blk 670, Bedok North Street 3, #01-07, Singapore 469627 | 6242 3884 / 9167 2217 |
+| Blk 670, Bedok North Street 3, #01-07, Singapore 469627 | 6242 3884 / 8468 8362 |
