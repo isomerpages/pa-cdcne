@@ -33,7 +33,7 @@ sections:
       button: FIND OUT MORE
       image: /images/EDM__1_.png
       alt: Image alt text
-      url: https://northeast.cdc.gov.sg/heart-bakers/
+      url: https://staging-lite.d2f0ulbwog6scu.amplifyapp.com/heart-bakers/
   - infopic:
       title: Donate Today!
       id: infopic
