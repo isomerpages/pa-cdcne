@@ -28,7 +28,6 @@ sections:
       title: Building a caring and inclusive community
   - infopic:
       title: Heart Bakers
-      subtitle: Add an image and text
       id: infopic
       description: Spread love with every bite. Indulge while supporting a worthy cause!
       button: FIND OUT MORE
