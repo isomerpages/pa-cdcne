@@ -13,11 +13,9 @@ at Our Tampines Hub.</p>
 <p>Over two action-packed days, attendees were treated to a plethora of activities
 from Zumba to chair yoga, expert advice, and insightful discussions aimed
 at empowering individuals to take charge of their health journey.</p>
-<p>The event kicked off with an electrifying performance by cancer survivors
-from the Singapore Cancer Society, setting the tone for a day filled with
-inspiration and empowerment. Esteemed speakers including Mayor Desmond
-Choo and Guest-of-Honour Minister Masagos Zulklifli delivered impactful
-addresses, emphasizing the importance of proactive health management.</p>
+<p>The event kicked off with esteemed speakers including Mayor Desmond Choo
+and Guest-of-Honour Minister Masagos Zulklifli delivered impactful addresses,
+emphasizing the importance of proactive health management.</p>
 <p>A highlight of the event was the engaging panel discussion on breast health,
 featuring Head of SingHealth Duke-NUS Breast Centre, Dr. Veronique Tan,
 and breast cancer survivor, Pan Ling Ling. Their compelling narratives
