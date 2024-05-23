@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FINAL_KV.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FINAL_KV.png">
 </div>
 <p>Nourish your heart with every bite! Our Eggless Matcha Butter Cookies,
 lovingly crafted with care by our talented Heart Bakers and bakers with
