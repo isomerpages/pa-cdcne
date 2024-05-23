@@ -27,6 +27,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Heart Bakers
+      subtitle: Add an image and text
+      id: infopic
+      description: Spread love with every bite. Indulge while supporting a worthy cause!
+      button: Button Text
+      image: /images/EDM.png
+      alt: Image alt text
+  - infopic:
       title: Donate Today!
       id: infopic
       description: Donate and Support Low-Income Families in Your Community!
