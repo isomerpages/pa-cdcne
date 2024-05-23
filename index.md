@@ -31,7 +31,7 @@ sections:
       id: infopic
       description: Spread love with every bite. Indulge while supporting a worthy cause!
       button: FIND OUT MORE
-      image: /images/EDM_2.png
+      image: /images/EDM__1_.png
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/heart-bakers/
   - infopic:
