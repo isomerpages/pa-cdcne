@@ -34,6 +34,7 @@ sections:
       button: Button Text
       image: /images/EDM.png
       alt: Image alt text
+      url: https://northeast.cdc.gov.sg/heart-bakers/
   - infopic:
       title: Donate Today!
       id: infopic
