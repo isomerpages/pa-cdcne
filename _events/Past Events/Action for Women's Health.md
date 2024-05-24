@@ -29,6 +29,6 @@ role of regular screenings and early detection in combating breast cancer.</p>
 <p>Participants also visited the participating partner booths, gaining invaluable
 knowledge about cancer and the diverse range of support services available.</p>
 <p>We thank all partners and participant for supporting this event and strongly
-encourage all to <a href="https://form.gov.sg/641ae50b868d810012bb1188" rel="noopener noreferrer nofollow" target="_blank"><u>register</u></a> and
-go for the free mammogram screenings!*. Click <a href="https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
-more details about the scheme.</p>
+encourage all to take charge of your health today!</p>
+<p>If you are aged 50 and above, sign up for a free mammogram through our
+North East Cancer Warrior Support Scheme: <a href="http://go.gov.sg/necwss" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/necwss</a> t</p>
