@@ -34,5 +34,5 @@ encourage all to take charge of your health today!</p>
 mammogram though our North East Cancer Warrior Support Scheme. *. Click
 <a href="https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>for more details about the scheme.</p>
-<p><em>*Limited to 1,000 slots only.r</em>
+<p><em>*Limited to 1,000 slots only.</em>
 </p>
