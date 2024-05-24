@@ -30,5 +30,5 @@ role of regular screenings and early detection in combating breast cancer.</p>
 knowledge about cancer and the diverse range of support services available.</p>
 <p>We thank all partners and participant for supporting this event and strongly
 encourage all to take charge of your health today!</p>
-<p>If you are aged 50 and above, sign up for a free mammogram through our
-North East Cancer Warrior Support Scheme: <a href="http://go.gov.sg/necwss" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/necwss</a> t</p>
+<p>If you are aged 50 and above, sign up for a free mammogram th.rough our
+North East Cancer Warrior Support Scheme</p>
