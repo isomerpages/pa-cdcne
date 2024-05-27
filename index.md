@@ -29,7 +29,8 @@ sections:
   - infopic:
       title: Heart Bakers
       id: infopic
-      description: Spread love with every bite. Indulge while supporting a worthy cause!
+      description: Spread love with every bite. Indulge in our Eggless Matcha Butter
+        Cookies while supporting a worthy cause!
       button: FIND OUT MORE
       image: /images/EDM__1_.png
       alt: Image alt text
