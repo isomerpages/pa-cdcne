@@ -30,6 +30,6 @@ of Dilmah Tea Bags)</p>
 <p>Enjoy a 10% discount on purchases of 150 bottles or 300 packets and more!</p>
 </li>
 </ul>
-<p>Place your orders <a href="https://go.gov.sg/hborder" rel="noopener noreferrer nofollow" target="_blank">here. </a>
+<p>Place your orders <a href="https://go.gov.sg/hborder" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>Learn more about Heart Bakers @ North East <a href="https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/heart-bakers-north-east/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
