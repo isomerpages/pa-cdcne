@@ -9,10 +9,10 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart Bakers/FINAL_KV.png">
 </div>
-<p>Nourish your heart with every bite! Our Eggless Matcha Butter Cookies,
-lovingly crafted with care by our talented Heart Bakers and bakers with
-intellectual disabilities from Metta Cafe, go beyond mere indulgence –
-they're a symbol of empowerment, providing them a means to make a living!</p>
+<p>Spread love with every bite! Our Eggless Matcha Butter Cookies, lovingly
+crafted with care by our talented Heart Bakers and bakers with intellectual
+disabilities from Metta Cafe, go beyond mere indulgence – they're a symbol
+of empowerment, providing them a means to make a living!</p>
 <p>Mark your calendars! From 3 May 2024 to 31 October 2024, join us in supporting
 this meaningful cause by treating yourself to these delightful offerings:</p>
 <ul data-tight="true" class="tight">
