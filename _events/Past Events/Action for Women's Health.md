@@ -8,23 +8,21 @@ third_nav_title: Past Events
 <p>On May 11th and 12<sup>th</sup> 2024, the Action for Women’s Health took
 place at Our Tampines Hub.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_2785.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actions for Women's Health/DSC_2785.jpg">
 </div>
 <p>Over two action-packed days, participants were treated to a plethora of
 activities from Zumba to chair yoga, expert advice, and insightful discussions
 aimed at empowering individuals to take charge of their health journey.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_3372.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actions for Women's Health/DSC_3372.jpg">
 </div>
 <p>A highlight of the event was the engaging panel discussion on breast health,
 featuring Head of SingHealth Duke-NUS Breast Centre, Dr. Veronique Tan,
 and breast cancer survivor, Pan Ling Ling. Their compelling narratives
 and insights deeply resonated with participants, highlighting the critical
 role of regular screenings and early detection in combating breast cancer.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_3419.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actions for Women's Health/DSC_3419.jpg">
 </div>
 <p>Participants also visited the participating partner booths, gaining invaluable
 knowledge about cancer and the diverse range of support services available.</p>
