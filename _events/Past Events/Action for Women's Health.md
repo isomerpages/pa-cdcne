@@ -26,6 +26,10 @@ role of regular screenings and early detection in combating breast cancer.</p>
 </div>
 <p>Participants also visited the participating partner booths, gaining invaluable
 knowledge about cancer and the diverse range of support services available.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actions for Women's Health/AFWHPG1D2_061.jpg">
+</div>
+<p></p>
 <p>We thank all partners and participant for supporting this event and strongly
 encourage all to take charge of your health today!</p>
 <p>If you are aged 50 and above, <a href="https://form.gov.sg/641ae50b868d810012bb1188" rel="noopener noreferrer nofollow" target="_blank">sign up</a> for a free
