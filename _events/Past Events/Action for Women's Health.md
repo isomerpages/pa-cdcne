@@ -5,8 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Past Events
 ---
-<p>On May 11th and 12<sup>th</sup> 2024, the Action for Women’s Health took
-place at Our Tampines Hub.</p>
+<p>On May 11th and 12th 2024, the Action for Women’s Health took place at
+Our Tampines Hub.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Actions for Women's Health/DSC_2785.jpg">
 </div>
