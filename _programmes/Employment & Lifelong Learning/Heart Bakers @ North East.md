@@ -11,6 +11,6 @@ When enrolled in Heart Bakers, participants attend a baking masterclass conducte
 
 Upon completing the training, Heartbakers will bake the cookies for sale. Proceeds goes to Heartbakers to supplement their household income and support them in starting their own business.
 
-Place your orders  [here](https://go.gov.sg/hborder).
+Join us in supporting this meaningful cause, place your orders  [here](https://go.gov.sg/hborder).
 
 ![](/images/Programmes/Employment%20&%20Lifelong%20Learning/Heart%20Bakers%20@%20North%20East.jpg)
