@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events/Heart Bakers.md
-      - Upcoming Events/Action for Women's Health.md
       - Upcoming Events/Online Fundraising Campaign.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
