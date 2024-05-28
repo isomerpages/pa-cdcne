@@ -27,16 +27,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Take Charge of Your Health!
-      subtitle: action for women's health
+      title: Heart Bakers
       id: infopic
-      description: Join us for two days filled with activities, expert advice, and
-        discussions, all aimed at empowering you to take charge of your health
-        journey!
+      description: Spread love with every bite. Indulge in our Eggless Matcha Butter
+        Cookies while supporting a worthy cause!
       button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/action-for-women-s-health/
-      image: /images/AFWH_2024_TC_Top_Screen_revised.png
+      image: /images/Heart Bakers/EDM__2_.png
       alt: Image alt text
+      url: https://staging-lite.d2f0ulbwog6scu.amplifyapp.com/heart-bakers/
   - infopic:
       title: Donate Today!
       id: infopic
