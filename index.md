@@ -32,9 +32,9 @@ sections:
       description: Spread love with every bite. Indulge in our Eggless Matcha Butter
         Cookies while supporting a worthy cause!
       button: FIND OUT MORE
-      image: /images/Heart Bakers/EDM__2_.png
+      image: /images/EDM.png
       alt: Image alt text
-      url: https://staging-lite.d2f0ulbwog6scu.amplifyapp.com/heart-bakers/
+      url: https://northeast.cdc.gov.sg/heart-bakers/
   - infopic:
       title: Donate Today!
       id: infopic
