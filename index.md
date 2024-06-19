@@ -28,7 +28,6 @@ sections:
       title: Building a caring and inclusive community
   - infopic:
       title: Careers & Skills Level Up
-      subtitle: Add an image and text
       id: infopic
       description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
         Pathway to New Opportunities Starts Here!
