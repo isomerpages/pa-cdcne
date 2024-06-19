@@ -30,7 +30,8 @@ sections:
       title: Careers & Skills Level Up
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
+      description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
+        Pathway to New Opportunities Starts Here!
       button: find out more
       url: https://northeast.cdc.gov.sg/career-skills-level-up/
       alt: Image alt text
