@@ -27,6 +27,16 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Careers & Skills Level Up
+      subtitle: Add an image and text
+      id: infopic
+      description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
+        Pathway to New Opportunities Starts Here!
+      button: find out more
+      url: https://northeast.cdc.gov.sg/career-skills-level-up/
+      alt: Image alt text
+      image: /images/Career____Skills_Level_Up.png
+  - infopic:
       title: Heart Bakers
       id: infopic
       description: Spread love with every bite. Indulge in our Eggless Matcha Butter
