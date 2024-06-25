@@ -53,7 +53,7 @@ sections:
       image: /images/NE_CDC_Donation_Drive_Top_Panel_Screen__jpg__01.jpg
       alt: Image alt text
   - infopic:
-      title: CDC Vouchers Scheme 2024
+      title: CDC Vouchers Scheme 2024 (June)
       description: Every Singaporean household will receive an additional $300 CDC in
         June 2024. Claim yours today!
       button: MORE DETAILS
