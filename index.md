@@ -58,7 +58,7 @@ sections:
         June 2024. Claim yours today!
       button: MORE DETAILS
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
-      image: /images/Banner_with_words.png
+      image: /images/CDC/Banner_with_words.png
       alt: Image alt text
   - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
