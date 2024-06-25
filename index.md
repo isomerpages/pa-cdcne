@@ -54,11 +54,11 @@ sections:
       alt: Image alt text
   - infopic:
       title: CDC Vouchers Scheme 2024
-      description: Every Singaporean household will receive a total of $500 CDC in
-        2024. Claim yours today!
+      description: Every Singaporean household will receive an additional $300 CDC in
+        June 2024. Claim yours today!
       button: MORE DETAILS
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cdc-vouchers
-      image: /images/key_visual.png
+      image: /images/Banner_with_words.png
       alt: Image alt text
   - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
