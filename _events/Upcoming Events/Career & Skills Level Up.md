@@ -16,7 +16,6 @@ the digital and care sectors through a variety of talks and activities,
 explore the latest in-demand courses, and discover exciting stores at the
 marketplace. Don't miss the chance to visit the jobs fair on level 3, where
 you can connect with potential employers and explore new career pathways.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publicity_A5_Flyers_R6_1_n_3.jpg">
 </div>
