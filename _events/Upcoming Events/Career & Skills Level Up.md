@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career____Skills_Level_Up.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career___Skills_Level_Up_Updated.jpg">
 </div>
 <p>This year’s Career &amp; Skills Level-Up SkillsFuture Festival @ North
 East is specially designed to support mid-career transitions with a wealth
@@ -16,6 +16,9 @@ the digital and care sectors through a variety of talks and activities,
 explore the latest in-demand courses, and discover exciting stores at the
 marketplace. Don't miss the chance to visit the jobs fair on level 3, where
 you can connect with potential employers and explore new career pathways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Career___Skill_Level_Up.jpg">
+</div>
 <p>Key highlights include a "Mental Wellness Talk" by the Singapore Association
 for Mental Health (SAMH), a session on "Career Transition Support for the
 Community/Senior Care Sector" by the Agency for Integrated Care (AIC),
