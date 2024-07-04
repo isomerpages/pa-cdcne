@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career____Skills_Level_Up.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career___Skills_Level_Up_Updated.jpg">
 </div>
 <p>This year’s Career &amp; Skills Level-Up SkillsFuture Festival @ North
 East is specially designed to support mid-career transitions with a wealth
