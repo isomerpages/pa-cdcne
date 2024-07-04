@@ -17,7 +17,7 @@ explore the latest in-demand courses, and discover exciting stores at the
 marketplace. Don't miss the chance to visit the jobs fair on level 3, where
 you can connect with potential employers and explore new career pathways.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Career___Skill_Level_Up.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hi_res_Career___Skill_Level_Up.jpg">
 </div>
 <p>Key highlights include a "Mental Wellness Talk" by the Singapore Association
 for Mental Health (SAMH), a session on "Career Transition Support for the
