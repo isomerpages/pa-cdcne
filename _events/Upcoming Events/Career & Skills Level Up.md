@@ -26,3 +26,10 @@ and an engaging virtual reality experience by Trickavu. Sign up now to
 take your first step towards enhancing your skills and career prospects.</p>
 <p>To sign up for the talks and workshops, click <a href="https://form.gov.sg/665ecee56b248fc866b5f9d4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>To sign up for the job fair, click <a href="https://event.e2i.com.sg/view-event/career-skills-level-up-skillsfuture-festival-at-north-east-main-page" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/In_Partnership_With__1__page_0001.jpg">
+</div>
+<p></p>
