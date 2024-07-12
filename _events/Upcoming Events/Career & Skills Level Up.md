@@ -29,8 +29,7 @@ take your first step towards enhancing your skills and career prospects.</p>
 <p></p>
 <hr>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confirm_Career_Logo__2_.jpg">
 </div>
 <p></p>
