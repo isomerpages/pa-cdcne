@@ -30,6 +30,6 @@ take your first step towards enhancing your skills and career prospects.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confirm_Career_Logo__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Confirm_Career_Logo__5_.jpg">
 </div>
 <p></p>
