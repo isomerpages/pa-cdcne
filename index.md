@@ -34,7 +34,7 @@ sections:
       button: find out more
       url: https://northeast.cdc.gov.sg/career-skills-level-up/
       alt: Image alt text
-      image: /images/Career___Skills_Level_Up_Updated.jpg
+      image: /images/Branding_R13_08July_min.jpg
   - infopic:
       title: Heart Bakers
       id: infopic
