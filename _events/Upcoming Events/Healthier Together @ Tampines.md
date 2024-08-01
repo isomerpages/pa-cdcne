@@ -28,4 +28,4 @@ activity card during the event.</p>
 </ul>
 <p>Don’t miss out on this great opportunity to embark on your journey to
 wellness and discover how you can make healthier choices for a better tomorrow.
-Sign up now!</p>
+<a href="https://go.gov.sg/healthiertampines" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a>!</p>
