@@ -22,9 +22,8 @@ access to health, care and support services in Tampines.</p>
 <p>Exclusive discounts on a range of health products.</p>
 </li>
 <li>
-<p>Fun and Rewarding Activities: Complete the "Journey to Wellness" activity
-card and redeem a gift worth over $10.</p>
-<p></p>
+<p>Redeem a gift worth over $10 upon completion of the "Journey to Wellness"
+activity card during the event.</p>
 </li>
 </ul>
 <p>Sign up now! Don't miss out on this opportunity to connect, learn, and
