@@ -26,6 +26,6 @@ access to health, care and support services in Tampines.</p>
 activity card during the event.</p>
 </li>
 </ul>
-<p>Sign up now! Don't miss out on this opportunity to connect, learn, and
-thrive. Embark on your wellness journey with us at Healthier Together @
-Tampines!</p>
+<p>Sign up now to embark on your journey to wellness and discover how you
+can make healthier choices for a better tomorrow. Don’t miss this opportunity
+to connect, learn, and thrive together.</p>
