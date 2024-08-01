@@ -27,6 +27,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Healthier Together @ Tampines
+      id: infopic
+      description: Don’t miss your chance to have one-stop access to Health, Care, and
+        Support Services at Our Tampines Hub!
+      button: find out more
+      url: https://northeast.cdc.gov.sg/healthier-together-tampines/
+      image: /images/Healther_Together.jpg
+      alt: Image alt text
+  - infopic:
       title: Careers & Skills Level Up
       id: infopic
       description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
