@@ -15,8 +15,8 @@ in our community. This two-day event offers:</p>
 <p><strong>1)</strong>  <strong>A one-stop access</strong> to health, care,
 and support services tailored to every life stage. Dedicated zones for
 Children, Youth, Families, and Seniors.</p>
-<p><strong>2) Health Screenings:</strong> Access to functional and fall-risks
-screening.</p>
+<p><strong>2)</strong>  <strong>Access to functional and fall-risks screening.</strong>
+</p>
 <p><strong>3) Exclusive Discounts and Health Products:</strong> Enjoy special
 offers on a wide range of health products at Our Tampines Hub.</p>
 <p>Journey to Wellness: Complete the "Journey to Wellness" activity card
