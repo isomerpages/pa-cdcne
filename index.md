@@ -27,6 +27,14 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Healthier Together @ Tampines
+      id: infopic
+      description: Infopic description
+      button: find out more
+      url: https://northeast.cdc.gov.sg/healthier-together-tampines/
+      image: /images/Healther_Together.jpg
+      alt: Image alt text
+  - infopic:
       title: Careers & Skills Level Up
       id: infopic
       description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
