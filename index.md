@@ -29,9 +29,8 @@ sections:
   - infopic:
       title: Healthier Together @ Tampines
       id: infopic
-      description: Ready to embark on your journey to wellness? Don’t Miss Your Chance
-        for One-Stop Access to Health, Care, and Support Services at Our
-        Tampines Hub!
+      description: Don’t miss your chance to have One-Stop Access to Health, Care, and
+        Support Services at Our Tampines Hub!
       button: find out more
       url: https://northeast.cdc.gov.sg/healthier-together-tampines/
       image: /images/Healther_Together.jpg
