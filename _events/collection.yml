@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Healthier Together @ Tampines.md
       - Upcoming Events/Career & Skills Level Up.md
       - Upcoming Events/Heart Bakers.md
       - Upcoming Events/Online Fundraising Campaign.md
