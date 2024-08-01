@@ -9,12 +9,24 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTTampines_KV_A4_copy_page_0001.jpg">
 </div>
-<p>Join us on 17-18 August 2024 at Our Tampines Hub for Healthier Together
-@ Tampines, a vibrant event dedicated to promoting health and wellness
-in our community.</p>
-<p>This two-day event offers a<strong> one-stop access to health, care, and support services in Tampines tailored to different life stage. Access to functional and fall-risks screening as well as Exclusive Discounts on Health Products offers</strong>
+<p>Dive into a weekend dedicated to your health and wellness! Join us on
+17-18 August 2024 for the Healthier Together @ Tampines event, a one-stop
+access to health, care and support services in Tampines.</p>
+<p><strong>What to Expect:</strong>
 </p>
-<p>Sign up now to embark on your journey to wellness and discover how you
-can make healthier choices for a better tomorrow. Complete the "Journey
-to Wellness" activity card during the event and redeem a gift worth over
-$10. Don’t miss this opportunity to connect, learn, and thrive together.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Access to functional and fall-risk screening.</p>
+</li>
+<li>
+<p>Exclusive discounts on a range of health products.</p>
+</li>
+<li>
+<p>Fun and Rewarding Activities: Complete the "Journey to Wellness" activity
+card and redeem a gift worth over $10.</p>
+<p></p>
+</li>
+</ul>
+<p>Sign up now! Don't miss out on this opportunity to connect, learn, and
+thrive. Embark on your wellness journey with us at Healthier Together @
+Tampines!</p>
