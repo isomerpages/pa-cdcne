@@ -50,7 +50,7 @@ flute, learning Indian dance hand gestures, and folding origami cranes.</p>
 <details class="isomer-details">
 <summary>20 Sep 2024, 5pm – 8pm | Brahmastra</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Brahmastra </strong>
+<p><strong>About Brahmastra</strong>
 </p>
 <p>Brahmastra Ensemble is an Indian fusion collective led by Indian classical
 flautist, Niranjan Pandian, which harmonises Indian folk, fusion, and traditional
@@ -69,7 +69,46 @@ and choreography by various dance collectives and institutions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="(Image Credit: Birabu Photography)" src="/images/Brahmastra___My_Identity_To_Seek_Within_.jpg">
 </div>
 <p>(Image Credit: Birabu Photography)</p>
+<hr>
+<p><strong>Fringe Activities</strong>
+<br>Presented by Brahmastra, Damaru Singapore, and Manimaran Creations
+<br>
+<br><strong>Parai &amp; Karagam Workshop</strong>
+<br>Learn the basics of playing the parai and performing the karakattam in
+this music and dance workshop.
+<br>
+<br><strong>Mayil &amp; Puppet Photo Booth and Exhibition</strong>
+<br>Take photos with mayil (peacock) props and puppets at the photo booth
+and learn more about how these elements feature in Indian art.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>18 Oct 2024, 5pm - 8pm | NADI Singapura</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About NADI Singapura Ltd</strong> 
+</p>
+<p>Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
+young and aspiring musos who believe in uplifting their traditional drums
+and percussions like no other. The ensemble is led by two renowned individuals
+in the Singapore Malay Arts scene, Rebana artisan, Yaziz Hassan and prominent
+drummer/percussionist, Riduan Zalani. Both founders aim to position NADI
+Singapura Ltd as a dynamic ensemble which adopts an innovative approach
+in the use of the Malay Archipelago drums. NADI Singapura Ltd is a recipient
+of the National Arts Council’s Major Grant for the period from 1 April
+2022 to 31March 2025. They have received admirable reviews and participated
+in various local and international cultural showcases.</p>
 <p></p>
+<p><strong>Kito dan Kita</strong> 
+</p>
+<p>Presented by NADI Singapura Ltd Be captivated by <em>Kito dan Kita</em>,
+a Malay drumming and music performance inspired by the customs and traditions
+of the Malay community in Singapore and the Nusantara. This dynamic performance
+will feature the Rebana, Gendang, Jidur, Marwas and Talempong, among other
+instruments, while incorporating dancing and singing.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi_Kito_Kita_03_compressed__1_.jpg">
+</div>
 </div>
 </details>
 </div>
