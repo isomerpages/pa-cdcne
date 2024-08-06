@@ -125,7 +125,6 @@ and imagine Singapore's rainforests, where rustling leaves and chirping
 birds are joined by traditional Malay drumbeats. Dance with prancing mousedeer
 and celebrate Singapore's arts, culture, and biodiversity through playful
 cardboard creativity.</p>
-<p></p>
 <p><strong>Make Your Own Spinning Rattle Drum: </strong>Let's drum up some
 wild and wacky fun by creating your own spinning rattle drum with Didier
 Ng and Cherie Ng, and get ready to march to the rhythm with Nadi Singapura!</p>
@@ -159,6 +158,8 @@ beloved melodies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Official_Photo_credit_Ding_Yi_Music_Company_Ltd_compressed.jpg">
 </div>
 <p>(Image credit: Ding Yi Music Company Ltd)</p>
+<hr>
+<p></p>
 </div>
 </details>
 </div>
