@@ -126,10 +126,10 @@ birds are joined by traditional Malay drumbeats. Dance with prancing mousedeer
 and celebrate Singapore's arts, culture, and biodiversity through playful
 cardboard creativity.</p>
 <p><strong>Make Your Own Spinning Rattle Drum: </strong>Let's drum up some
-wild and wacky fun by creating your own spinning rattle drum with Didier
-Ng and Cherie Ng, and get ready to march to the rhythm with Nadi Singapura!</p>
+wild and wacky fun by creating your own spinning rattle drum, and get ready
+to march to the rhythm with Nadi Singapura!</p>
 <p><strong>'Otter-ly’ Fun! Eco Workshop: </strong>Join eco-artists Didier
-Ng and Cherie Ng as they show you how to create an otter shaped handphone
+and Cherie Ng as they show you how to create an otter shaped handphone
 and stationery holder out of recycled materials.</p>
 </div>
 </details>
@@ -159,22 +159,27 @@ beloved melodies.</p>
 </div>
 <p>(Image credit: Ding Yi Music Company Ltd)</p>
 <hr>
-<p><strong>Fringe Activities</strong> 
+<p><strong>Fringe Activities</strong>
 </p>
-<p><em>Presented by Didier Ng and Cherie Ng </em>
+<p><em>Presented by Didier Ng and Cherie Ng</em>
 </p>
 <p><strong>Make Your Own Chinese Spinning Rattle Drum: </strong>Let's drum
-up some wild and wacky fun by creating your own spinning rattle drum with
-Didier Ng and Cherie Ng.</p>
+up some wild and wacky fun by creating your own spinning rattle drum.</p>
 <p><strong>Make Your Own <em>Ruan Qin</em> Fan:</strong> Join eco-artists
-Didier Ng and Cherie Ng as they show you how to create a fan out of recycled
+Didier and Cherie Ng as they show you how to create a fan out of recycled
 materials, inspired by the Chinese music instrument, <em>Ruan</em>.</p>
 <p><strong>Echoes in Bloom (Art Installation):</strong> Close your eyes and
-let your imagination run wild as you find yourself whisked away to the
-Chinese mountains. Amidst the symphony of rustling leaves and chirping
-birds, let’s sway to the rhythm of nature's melody. Inspired by a Chinese
-painting, it's a celebration of Singapore's rich tapestry of arts, culture,
-and biodiversity, all wrapped up in the playful embrace of cardboard creativity.</p>
+imagine yourself whisked away to the Chinese mountains. Amidst the symphony
+of rustling leaves and chirping birds, let’s sway to the rhythm of nature's
+melody. Inspired by a Chinese painting, it's a celebration of Singapore's
+rich tapestry of arts, culture, and biodiversity, all wrapped up in the
+playful embrace of cardboard creativity.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>20 Dec 2024, 5pm – 8pm | Philwinds</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
