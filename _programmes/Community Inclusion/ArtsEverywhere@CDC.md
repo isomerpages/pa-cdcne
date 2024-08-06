@@ -220,7 +220,6 @@ in a drum circle!</p>
 </div>
 </details>
 </div>
-<p></p>
 <p>Click <a href="http://go.gov.sg/artseverywhere-cdc" rel="noopener noreferrer nofollow" target="_blank">here </a>to
 learn more about this initiative.</p>
 <p></p>
