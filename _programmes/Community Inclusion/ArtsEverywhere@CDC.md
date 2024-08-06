@@ -159,7 +159,22 @@ beloved melodies.</p>
 </div>
 <p>(Image credit: Ding Yi Music Company Ltd)</p>
 <hr>
-<p></p>
+<p><strong>Fringe Activities</strong> 
+</p>
+<p><em>Presented by Didier Ng and Cherie Ng </em>
+</p>
+<p><strong>Make Your Own Chinese Spinning Rattle Drum: </strong>Let's drum
+up some wild and wacky fun by creating your own spinning rattle drum with
+Didier Ng and Cherie Ng.</p>
+<p><strong>Make Your Own <em>Ruan Qin</em> Fan:</strong> Join eco-artists
+Didier Ng and Cherie Ng as they show you how to create a fan out of recycled
+materials, inspired by the Chinese music instrument, <em>Ruan</em>.</p>
+<p><strong>Echoes in Bloom (Art Installation):</strong> Close your eyes and
+let your imagination run wild as you find yourself whisked away to the
+Chinese mountains. Amidst the symphony of rustling leaves and chirping
+birds, let’s sway to the rhythm of nature's melody. Inspired by a Chinese
+painting, it's a celebration of Singapore's rich tapestry of arts, culture,
+and biodiversity, all wrapped up in the playful embrace of cardboard creativity.</p>
 </div>
 </details>
 </div>
