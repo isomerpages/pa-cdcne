@@ -85,7 +85,7 @@ and learn more about how these elements feature in Indian art.</p>
 <details class="isomer-details">
 <summary>18 Oct 2024, 5pm - 8pm | NADI Singapura</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About NADI Singapura Ltd</strong> 
+<p><strong>About NADI Singapura Ltd</strong>
 </p>
 <p>Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
 young and aspiring musos who believe in uplifting their traditional drums
@@ -98,7 +98,7 @@ of the National Arts Council’s Major Grant for the period from 1 April
 2022 to 31March 2025. They have received admirable reviews and participated
 in various local and international cultural showcases.</p>
 <p></p>
-<p><strong>Kito dan Kita</strong> 
+<p><strong>Kito dan Kita</strong>
 </p>
 <p>Presented by NADI Singapura Ltd Be captivated by <em>Kito dan Kita</em>,
 a Malay drumming and music performance inspired by the customs and traditions
@@ -109,6 +109,7 @@ instruments, while incorporating dancing and singing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi_Kito_Kita_03_compressed__1_.jpg">
 </div>
+<p>(Image Credit: NADI Singapura Ltd)</p>
 </div>
 </details>
 </div>
