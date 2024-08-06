@@ -221,6 +221,5 @@ in a drum circle!</p>
 </div>
 <p></p>
 <p>Visit <a href="http://go.gov.sg/artseverywhere-cdc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/artseverywhere-cdc</a> to
-learn more about this initiative and head over to <a href="http://go.gov.sg/artseverywhere-cdc" rel="noopener noreferrer nofollow" target="_blank">https://www.catch.sg/</a> to
-discover ArtsEverywhere@CDC programmes in your heartlands.</p>
+learn more about this initiative.</p>
 <p></p>
