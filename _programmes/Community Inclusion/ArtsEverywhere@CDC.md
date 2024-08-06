@@ -198,7 +198,23 @@ songs that reflect our multicultural heritage!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PhilBrass__resized_.jpg">
 </div>
 <hr>
-<p></p>
+<p><strong>Fringe Activities</strong> 
+</p>
+<p><em>Presented by Philharmonic Wind Orchestra Ensemble</em>
+</p>
+<p><strong>Make It and Play It! Percussion Workshop (Buckets &amp; Pails)</strong> 
+</p>
+<p>Roll up your sleeves and get active with our musicians as you make and
+personalise your own percussion instruments and join in the samba percussion
+drum circle! Guided by our percussion instructors, experience the fun rhythmic
+patterns and be introduced to more percussion instruments too.</p>
+<p><strong>Make It and Play It! Percussion Workshop (Shakers)</strong> 
+</p>
+<p>Come join the percussionists of the Philharmonic Wind Orchestra in a home-made
+percussion instrument samba session! Make your own percussion instruments
+out of recycled materials such as shakers! Explore the various sounds you
+can produce with your hand-made instruments by being a one-day percussionist
+in a drum circle!</p>
 </div>
 </details>
 </div>
