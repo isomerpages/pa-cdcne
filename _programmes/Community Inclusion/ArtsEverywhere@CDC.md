@@ -182,6 +182,10 @@ playful embrace of cardboard creativity.</p>
 <details class="isomer-details">
 <summary>20 Dec 2024, 5pm – 8pm | Philwinds</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__PWO__resized_.jpg">
+</div>
 <p><strong>About Philharmonic Wind Orchestra Ensemble</strong>
 </p>
 <p>Philharmonic Wind Orchestra (PWO) is recognised as one of the premier
@@ -196,10 +200,6 @@ music to anywhere it believes it can make a difference.</p>
 performance as the musicians enthral you with a delectable spread of songs
 from English and Mandarin pop songs, evergreens, festive favourites, to
 songs that reflect our multicultural heritage!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PhilBrass__resized_.jpg">
-</div>
 <hr>
 <p><strong>Fringe Activities</strong>
 </p>
