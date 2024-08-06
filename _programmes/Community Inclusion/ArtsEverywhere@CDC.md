@@ -26,6 +26,10 @@ in North East CDC at Our Tampines Hub.</p>
 <summary>16 Aug 2024, 5pm - 8pm | yIN Harmony (A Bird's Journey)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__yIN_Harmony_Photo_1_credit_yIN_Harmony.jpg">
+</div>
+<p>(Image Credit: yIN Harmony)</p>
 <p><strong>About yIN Harmony</strong>
 </p>
 <p>yIN Harmony is a multi-ethnic music group that infuses various cultural
@@ -40,10 +44,6 @@ for its own kind. This performance, accompanied by live traditional music,
 weaves in cultural elements unique to Singapore. Audience members will
 have the chance to engage interactively by playing the bird flute, learning
 Indian dance hand gestures, and folding origami cranes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bird_flute_workshop_credit_NAC.jpg">
-</div>
-<p>(Image Credit: yIN Harmony)</p>
 <p></p>
 </div>
 </details>
