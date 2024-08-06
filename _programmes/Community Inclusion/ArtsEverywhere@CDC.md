@@ -85,6 +85,11 @@ about how these elements feature in Indian art.</p>
 <details class="isomer-details">
 <summary>18 Oct 2024, 5pm - 8pm | NADI Singapura</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi_Kito_Kita_01_compressed.jpg">
+</div>
+<p>(Image Credit: NADI Singapura Ltd)</p>
+<p></p>
 <p><strong>About NADI Singapura Ltd</strong>
 </p>
 <p>Formed in November 2011, the NADI Singapura Ltd ensemble is made up of
@@ -105,11 +110,6 @@ inspired by the customs and traditions of the Malay community in Singapore
 and the Nusantara. This dynamic performance will feature the Rebana, Gendang,
 Jidur, Marwas and Talempong, among other instruments, while incorporating
 dancing and singing.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi_Kito_Kita_03_compressed__1_.jpg">
-</div>
-<p>(Image Credit: NADI Singapura Ltd)</p>
 <hr>
 <p><strong>Fringe Activities</strong>
 </p>
