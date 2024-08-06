@@ -50,6 +50,12 @@ Indian dance hand gestures, and folding origami cranes.</p>
 <details class="isomer-details">
 <summary>20 Sep 2024, 5pm – 8pm | Brahmastra</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__BAA_My_Identity_02__Dancers___Band_.jpg">
+</div>
+<p>(Image Credit: Birabu Photography)</p>
+<p></p>
 <p><strong>About Brahmastra</strong>
 </p>
 <p>Brahmastra Ensemble is an Indian fusion collective led by Indian classical
@@ -64,11 +70,6 @@ film, music, and dance. Come experience their stories and how creativity
 is woven into the fabric of their existence. Featuring compositions by
 multi-award-winning composer and accomplished flautist Niranjan Pandian,
 and choreography by various dance collectives and institutions.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="(Image Credit: Birabu Photography)" src="/images/Brahmastra___My_Identity_To_Seek_Within_.jpg">
-</div>
-<p>(Image Credit: Birabu Photography)</p>
 <hr>
 <p><strong>Fringe Activities</strong>
 <br><em>Presented by Brahmastra, Damaru Singapore, and Manimaran Creations </em>
