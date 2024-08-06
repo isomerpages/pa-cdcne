@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Community Inclusion
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STREETBANNER_ArtsEverywhere__NE__13x3ft_FA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NAC_corpsite_page__5_.png">
 </div>
 <h3>About ArtsEverywhere@CDC</h3>
 <p>ArtsEverywhere@CDC brings arts experiences to communities where they live,
