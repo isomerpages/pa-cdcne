@@ -32,14 +32,13 @@ in North East CDC at Our Tampines Hub.</p>
 instruments together on a singular platform to reflect the multi-racial
 facets of Singapore.</p>
 <p></p>
-<p><strong>A Bird’s Journey</strong>
-</p>
-<p>Presented by yIN Harmony inspired by the classic story of <em>The Ugly Duckling</em>,
-our musicians' quest to discover what "Singapore Music" means mirrors the
-duckling's search for its own kind. This performance, accompanied by live
-traditional music, weaves in cultural elements unique to Singapore. Audience
-members will have the chance to engage interactively by playing the bird
-flute, learning Indian dance hand gestures, and folding origami cranes.</p>
+<p><strong>A Bird’s Journey </strong>(Presented by yIN Harmony)</p>
+<p>Inspired by the classic story of <em>The Ugly Duckling</em>, our musicians'
+quest to discover what "Singapore Music" means mirrors the duckling's search
+for its own kind. This performance, accompanied by live traditional music,
+weaves in cultural elements unique to Singapore. Audience members will
+have the chance to engage interactively by playing the bird flute, learning
+Indian dance hand gestures, and folding origami cranes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bird_flute_workshop_credit_NAC.jpg">
 </div>
@@ -98,18 +97,40 @@ of the National Arts Council’s Major Grant for the period from 1 April
 2022 to 31March 2025. They have received admirable reviews and participated
 in various local and international cultural showcases.</p>
 <p></p>
-<p><strong>Kito dan Kita</strong>
-</p>
-<p>Presented by NADI Singapura Ltd Be captivated by <em>Kito dan Kita</em>,
-a Malay drumming and music performance inspired by the customs and traditions
-of the Malay community in Singapore and the Nusantara. This dynamic performance
-will feature the Rebana, Gendang, Jidur, Marwas and Talempong, among other
-instruments, while incorporating dancing and singing.</p>
+<p><strong>Kito dan Kita </strong>(Presented by NADI Singapura Ltd)</p>
+<p>Be captivated by <em>Kito dan Kita</em>, a Malay drumming and music performance
+inspired by the customs and traditions of the Malay community in Singapore
+and the Nusantara. This dynamic performance will feature the Rebana, Gendang,
+Jidur, Marwas and Talempong, among other instruments, while incorporating
+dancing and singing.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Nadi_Kito_Kita_03_compressed__1_.jpg">
 </div>
 <p>(Image Credit: NADI Singapura Ltd)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>15 Nov 2024, 5pm- 8pm | Ding Yi</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>About Ding Yi Music Company Ltd</strong> 
+</p>
+<p>Founded in 2007, Ding Yi Music Company Ltd is Singapore's leading Chinese
+chamber ensemble, renowned for its innovative spirit and commitment to
+excellence in the realm of Chinese chamber music. The ensemble is a National
+Arts Council Major Company Scheme Recipient since 2016 and was the recipient
+of the prestigious Singapore Chinese Cultural Contribution Award in 2019.
+Ding Yi has represented Singapore at numerous prestigious international
+festivals and performances.</p>
+<p></p>
+<p><strong>Evergreen Classics </strong>
+</p>
+<p>Presented by Ding Yi Music Company Ltd Join us for an enchanting hour
+of evergreen classics with your family, featuring music from the legendary
+Teresa Teng and Fei Yu-ching. Experience the magic of songs that have transcended
+decades, including an ABBA Medley and lively Malay and Indian folk songs.
+This eclectic mix of tunes offers a unique opportunity to bond with loved
+ones as you sing along to these beloved melodies.</p>
 </div>
 </details>
 </div>
