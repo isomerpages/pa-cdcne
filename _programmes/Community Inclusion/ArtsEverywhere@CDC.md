@@ -137,6 +137,12 @@ and stationery holder out of recycled materials.</p>
 <details class="isomer-details">
 <summary>15 Nov 2024, 5pm- 8pm | Ding Yi</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Official_Photo_credit_Ding_Yi_Music_Company_Ltd_compressed.jpg">
+</div>
+<p>(Image credit: Ding Yi Music Company Ltd)</p>
+<p></p>
 <p><strong>About Ding Yi Music Company Ltd</strong>
 </p>
 <p>Founded in 2007, Ding Yi Music Company Ltd is Singapore's leading Chinese
@@ -155,10 +161,6 @@ the magic of songs that have transcended decades, including an ABBA Medley
 and lively Malay and Indian folk songs. This eclectic mix of tunes offers
 a unique opportunity to bond with loved ones as you sing along to these
 beloved melodies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Official_Photo_credit_Ding_Yi_Music_Company_Ltd_compressed.jpg">
-</div>
-<p>(Image credit: Ding Yi Music Company Ltd)</p>
 <hr>
 <p><strong>Fringe Activities</strong>
 </p>
