@@ -179,7 +179,7 @@ playful embrace of cardboard creativity.</p>
 <details class="isomer-details">
 <summary>20 Dec 2024, 5pm – 8pm | Philwinds</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>About Philharmonic Wind Orchestra Ensemble</strong> 
+<p><strong>About Philharmonic Wind Orchestra Ensemble</strong>
 </p>
 <p>Philharmonic Wind Orchestra (PWO) is recognised as one of the premier
 wind orchestras in Singapore, founded in 2000, and has won international
@@ -187,7 +187,7 @@ accolades for its performances overseas. The group also strongly supports
 Singaporean composers by performing and premiering their works. Its long-standing
 artistic mission is to advance wind music in Singapore and aims to bring
 music to anywhere it believes it can make a difference.</p>
-<p><strong>Music in the heART_lands! </strong>
+<p><strong>Music in the heART_lands!</strong>
 </p>
 <p>Join the ensemble from the Philharmonic Wind Orchestra (PWO) for an exciting
 performance as the musicians enthral you with a delectable spread of songs
