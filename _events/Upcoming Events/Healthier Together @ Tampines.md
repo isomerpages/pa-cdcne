@@ -26,8 +26,9 @@ event, a one-stop access to health, care and support services in Tampines.</p>
 activity card during the event</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__3_.png">
 </div>
 <p>Don’t miss out on this great opportunity to embark on your journey to
 wellness and discover how you can make healthier choices for a better tomorrow.
