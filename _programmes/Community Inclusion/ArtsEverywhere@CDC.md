@@ -197,6 +197,8 @@ songs that reflect our multicultural heritage!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PhilBrass__resized_.jpg">
 </div>
+<hr>
+<p></p>
 </div>
 </details>
 </div>
