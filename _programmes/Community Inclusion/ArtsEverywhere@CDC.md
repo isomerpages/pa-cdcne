@@ -19,5 +19,6 @@ People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>View the calendar of events below to discover ArtsEverywhere@CDC programmes
 in North East CDC.</p>
+<h4>Calendar of Events</h4>
 <p></p>
 <p></p>
