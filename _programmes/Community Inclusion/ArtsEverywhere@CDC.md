@@ -149,14 +149,18 @@ festivals and performances.</p>
 <p></p>
 <p><strong>Evergreen Classics</strong>
 </p>
-<p>Presented by Ding Yi Music Company Ltd Join us for an enchanting hour
-of evergreen classics with your family, featuring music from the legendary
-Teresa Teng and Fei Yu-ching. Experience the magic of songs that have transcended
-decades, including an ABBA Medley and lively Malay and Indian folk songs.
-This eclectic mix of tunes offers a unique opportunity to bond with loved
-ones as you sing along to these beloved melodies.</p>
-<p></p>
+<p>Join us for an enchanting hour of evergreen classics with your family,
+featuring music from the legendary Teresa Teng and Fei Yu-ching. Experience
+the magic of songs that have transcended decades, including an ABBA Medley
+and lively Malay and Indian folk songs. This eclectic mix of tunes offers
+a unique opportunity to bond with loved ones as you sing along to these
+beloved melodies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ding_Yi_Official_Photo_credit_Ding_Yi_Music_Company_Ltd_compressed.jpg">
+</div>
+<p>(Image credit: Ding Yi Music Company Ltd)</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
