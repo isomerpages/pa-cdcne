@@ -73,13 +73,12 @@ and choreography by various dance collectives and institutions.</p>
 <p><strong>Fringe Activities</strong>
 <br><em>Presented by Brahmastra, Damaru Singapore, and Manimaran Creations </em>
 <br>
-<br><strong>Parai &amp; Karagam Workshop</strong>
-<br>Learn the basics of playing the parai and performing the karakattam in
-this music and dance workshop.
+<br><strong>Parai &amp; Karagam Workshop: </strong>Learn the basics of playing
+the parai and performing the karakattam in this music and dance workshop.
 <br>
-<br><strong>Mayil &amp; Puppet Photo Booth and Exhibition</strong>
-<br>Take photos with mayil (peacock) props and puppets at the photo booth
-and learn more about how these elements feature in Indian art.</p>
+<br><strong>Mayil &amp; Puppet Photo Booth and Exhibition: </strong>Take photos
+with mayil (peacock) props and puppets at the photo booth and learn more
+about how these elements feature in Indian art.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -98,7 +97,7 @@ of the National Arts Council’s Major Grant for the period from 1 April
 2022 to 31March 2025. They have received admirable reviews and participated
 in various local and international cultural showcases.</p>
 <p></p>
-<p><strong>Kito dan Kita </strong>
+<p><strong>Kito dan Kita</strong>
 </p>
 <p>Be captivated by <em>Kito dan Kita</em>, a Malay drumming and music performance
 inspired by the customs and traditions of the Malay community in Singapore
@@ -111,39 +110,28 @@ dancing and singing.</p>
 </div>
 <p>(Image Credit: NADI Singapura Ltd)</p>
 <hr>
-<p><strong>Fringe Activities</strong> 
+<p><strong>Fringe Activities</strong>
 </p>
 <p><em>Presented by NADI Singapura Ltd</em>
 </p>
-<p><strong>Paper Tanjak Workshop</strong> 
+<p><strong>Paper Tanjak Workshop: </strong>Come join us and make your own
+paper tanjak (Malay headgear) in this workshop.</p>
+<p><strong>Drum Circle: </strong>Try your hand at drumming with NADI Singapura
+in this fun and energetic drumming workshop.</p>
+<p><em>Presented by Didier Ng and Cherie Ng</em>
 </p>
-<p>Come join us and make your own paper tanjak (Malay headgear) in this workshop.</p>
-<p><strong>Drum Circle</strong> 
-</p>
-<p>Try your hand at drumming with NADI Singapura in this fun and energetic
-drumming workshop.</p>
-<p><em>Presented by Didier Ng and Cherie Ng</em> 
-</p>
-<p><strong>Echoes of the Forest (Art Installation)</strong> 
-</p>
-<p>Close your eyes and let your imagination run wild as you find yourself
-whisked away to the lush rainforests of Singapore. Amidst the symphony
-of rustling leaves and chirping birds, there's an unexpected twist – the
-distant beat of drums! But not just any drums, these are the heart-pounding
-rhythms of traditional Malay drums! Let’s dance to the beat of nature's
-drumline, where the graceful mousedeer prances alongside the pulsating
-cadence of the drums. It's a celebration of Singapore's rich tapestry of
-arts, culture, and biodiversity, all wrapped up in the playful embrace
-of cardboard creativity.</p>
-<p><strong>Make Your Own Spinning Rattle Drum </strong>
-</p>
-<p>Let's drum up some wild and wacky fun by creating your own spinning rattle
-drum with Didier Ng and Cherie Ng, and get ready to march to the rhythm
-with Nadi Singapura!</p>
-<p><strong>'Otter-ly’ Fun! Eco Workshop</strong> 
-</p>
-<p>Join eco-artists Didier Ng and Cherie Ng as they show you how to create
-an otter shaped handphone and stationery holder out of recycled materials.</p>
+<p><strong>Echoes of the Forest (Art Installation): </strong>Close your eyes
+and imagine Singapore's rainforests, where rustling leaves and chirping
+birds are joined by traditional Malay drumbeats. Dance with prancing mousedeer
+and celebrate Singapore's arts, culture, and biodiversity through playful
+cardboard creativity.</p>
+<p></p>
+<p><strong>Make Your Own Spinning Rattle Drum: </strong>Let's drum up some
+wild and wacky fun by creating your own spinning rattle drum with Didier
+Ng and Cherie Ng, and get ready to march to the rhythm with Nadi Singapura!</p>
+<p><strong>'Otter-ly’ Fun! Eco Workshop: </strong>Join eco-artists Didier
+Ng and Cherie Ng as they show you how to create an otter shaped handphone
+and stationery holder out of recycled materials.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -167,6 +155,7 @@ Teresa Teng and Fei Yu-ching. Experience the magic of songs that have transcende
 decades, including an ABBA Medley and lively Malay and Indian folk songs.
 This eclectic mix of tunes offers a unique opportunity to bond with loved
 ones as you sing along to these beloved melodies.</p>
+<p></p>
 </div>
 </details>
 </div>
