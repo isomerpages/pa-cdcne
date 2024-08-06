@@ -30,10 +30,6 @@ activity card during the event</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__2_.png">
 </div>
 <p>Don’t miss out on this great opportunity to embark on your journey to
-wellness and discover how you can make healthier choices for a better tomorrow.</p>
-<p>Sign up <a href="https://form.gov.sg/5c45c47aaf7dc60010e5dbb5" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the Functional Screening.</p>
-<p>Sign up <a href="https://form.gov.sg/6690c5f654c44bb0bbeaee80" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-both the Fall Risk Screening and Assessment and the Functional Screening
-for Active Ageing (Talk).</p>
+wellness and discover how you can make healthier choices for a better tomorrow.
+Sign up <a href="https://form.gov.sg/6690c5f654c44bb0bbeaee80" rel="noopener noreferrer nofollow" target="_blank">here</a> !</p>
 <p></p>
