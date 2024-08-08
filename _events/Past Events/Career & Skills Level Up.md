@@ -13,8 +13,7 @@ particularly in the digital and care sectors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__39_.jpg">
 </div>
-<p><strong>Highlights of the Event</strong>
-</p>
+<h4><strong>Highlights of the Event</strong></h4>
 <p><strong>Expert Insights:</strong> Training providers and industry experts
 showcased relevant upskilling courses and shared valuable insights into
 pathways for mid-career transitions, helping participants stay relevant
