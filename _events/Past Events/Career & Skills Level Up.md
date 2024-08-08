@@ -7,9 +7,9 @@ third_nav_title: Past Events
 ---
 <p>This year’s two-day Career &amp; Skills Level-Up SkillsFuture Festival
 @ North East event shed light on supporting mid-career transitions. With
-over 20 employees and more than 2,000 job vacancies offered, residents
-were introduced to many career and upskilling opportunities in the digital
-and care sectors.</p>
+over 20 employers and more than 2,000 job vacancies available, residents
+were introduced to a wide range of career and upskilling opportunities,
+particularly in the digital and care sectors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__77_.jpg">
 </div>
@@ -17,13 +17,17 @@ and care sectors.</p>
 </p>
 <p>Training providers and industry experts were on hand to share and showcase
 relevant upskilling courses and provide insights into available pathways
-for mid-career transitions in the changing employment landscape.</p>
+for mid-career transitions to stay relevant in the changing employment
+landscape.</p>
 <p></p>
-<p>Residents are able to seek relevant information from the Social service
+<p>Residents are also able to seek relevant information from the Social service
 agencies booths on assistance schemes and support programs for back-to-work
 locals.</p>
 <p></p>
-<p>Our event also conducted a walk-in interviews</p>
+<p>The event also serves as a platform to provide job opportunities through
+conducting a walk-in interviews.</p>
+<p></p>
+<p></p>
 <p></p>
 <hr>
 <p></p>
