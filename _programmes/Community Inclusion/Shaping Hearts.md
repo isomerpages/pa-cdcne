@@ -9,7 +9,7 @@ An inclusive arts festival that is held annually, Shaping Hearts celebrates the 
 
 North East CDC aims to increase awareness and support for differently-abled artists, and the larger special needs community. It also hopes to garner support from corporate sponsors, partners and individuals for differently-abled artists, in the form of donations to support this cause. 
 
-For more information, visit [Shaping Hearts](www.shapinghearts.sg) website.
+For more information, visit [Shaping Hearts](https://shapinghearts.cdc.gov.sg/) website.
 
 ![](/images/Media%20Files%20for%20Shaping%20Hearts/Shaping%20Hearts%20Photo%201%20.jpg)
 
