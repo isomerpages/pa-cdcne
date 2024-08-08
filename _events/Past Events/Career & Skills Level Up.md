@@ -30,9 +30,9 @@ in the evolving job market.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__24_.jpg">
 </div>
-<p><strong>Support Information:</strong> Booths provided residents with information
-on assistance schemes and support programs for individuals re-entering
-the workforce.</p>
+<p><strong>Support Information:</strong> Support Booths provided residents
+with information on assistance schemes and support programs for individuals
+re-entering the workforce.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__90_.jpg">
 </div>
