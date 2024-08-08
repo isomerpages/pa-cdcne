@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Past Events
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__23_.jpg">
+</div>
 <p>This year’s two-day Career &amp; Skills Level-Up SkillsFuture Festival
 @ North East event shed light on supporting mid-career transitions. With
 over 20 employers and more than 2,000 job vacancies available, residents
