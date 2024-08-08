@@ -22,6 +22,9 @@ in the evolving job market.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__6_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__24_.jpg">
+</div>
 <p><strong>Support Information:</strong> Social service agency booths provided
 residents with information on assistance schemes and support programs for
 individuals re-entering the workforce.</p>
