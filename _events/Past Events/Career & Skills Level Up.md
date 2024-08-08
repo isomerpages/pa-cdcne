@@ -15,18 +15,20 @@ particularly in the digital and care sectors.</p>
 </div>
 <p><strong>Highlights of the Event</strong>
 </p>
-<p>Training providers and industry experts were on hand to share and showcase
-relevant upskilling courses and provide insights into available pathways
-for mid-career transitions to stay relevant in the changing employment
-landscape.</p>
+<p><strong>Expert Insights:</strong> Training providers and industry experts
+showcased relevant upskilling courses and shared valuable insights into
+pathways for mid-career transitions, helping participants stay relevant
+in the evolving job market.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__6_.jpg">
+</div>
+<p><strong>Support Information:</strong> Social service agency booths provided
+residents with information on assistance schemes and support programs for
+individuals re-entering the workforce.</p>
 <p></p>
-<p>Residents are also able to seek relevant information from the Social service
-agencies booths on assistance schemes and support programs for back-to-work
-locals.</p>
-<p></p>
-<p>The event also serves as a platform to provide job opportunities through
-conducting a walk-in interviews.</p>
-<p></p>
+<p><strong>Job Opportunities:</strong> The event featured walk-in interviews,
+offering immediate job opportunities and connecting job seekers directly
+with potential employers.</p>
 <p></p>
 <p></p>
 <hr>
