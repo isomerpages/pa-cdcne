@@ -12,3 +12,5 @@ North East CDC aims to increase awareness and support for differently-abled arti
 ![](/images/Media%20Files%20for%20Shaping%20Hearts/Shaping%20Hearts%20Photo%201%20.jpg)
 
 ![](/images/Media%20Files%20for%20Shaping%20Hearts/Shaping%20Hearts%20Photo%202.jpg)
+
+For more information, visit [Shaping Hearts](www.shapinghearts.sg) website.
