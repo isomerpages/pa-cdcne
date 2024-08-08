@@ -36,15 +36,6 @@ sections:
       image: /images/Healther_Together.jpg
       alt: Image alt text
   - infopic:
-      title: Careers & Skills Level Up
-      id: infopic
-      description: Ready to Boost Your Career with Fun and Future-Ready Skills? Your
-        Pathway to New Opportunities Starts Here!
-      button: find out more
-      url: https://northeast.cdc.gov.sg/career-skills-level-up/
-      alt: Image alt text
-      image: /images/Branding_R13_08July_min.jpg
-  - infopic:
       title: Heart Bakers
       id: infopic
       description: Spread love with every bite. Indulge in our Eggless Matcha Butter
