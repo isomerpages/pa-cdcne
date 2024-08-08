@@ -11,7 +11,7 @@ over 20 employers and more than 2,000 job vacancies available, residents
 were introduced to a wide range of career and upskilling opportunities,
 particularly in the digital and care sectors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__77_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__39_.jpg">
 </div>
 <p><strong>Highlights of the Event</strong>
 </p>
@@ -22,6 +22,7 @@ in the evolving job market.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__6_.jpg">
 </div>
+<p></p>
 <p><strong>Support Information:</strong> Social service agency booths provided
 residents with information on assistance schemes and support programs for
 individuals re-entering the workforce.</p>
