@@ -18,6 +18,7 @@ particularly in the digital and care sectors.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__39_.jpg">
 </div>
 <h4><strong>Highlights of the Event</strong></h4>
+<p>Residents are exposed to:</p>
 <p><strong>Expert Insights:</strong> Training providers and industry experts
 showcased relevant upskilling courses and shared valuable insights into
 pathways for mid-career transitions, helping participants stay relevant
