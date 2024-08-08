@@ -36,7 +36,9 @@ individuals re-entering the workforce.</p>
 <p><strong>Job Opportunities:</strong> The event featured walk-in interviews,
 offering immediate job opportunities and connecting job seekers directly
 with potential employers.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__10_.jpg">
+</div>
 <p></p>
 <hr>
 <p></p>
