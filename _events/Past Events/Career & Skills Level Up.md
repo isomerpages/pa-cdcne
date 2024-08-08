@@ -7,26 +7,46 @@ third_nav_title: Past Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Branding_R13_08July_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__23_.jpg">
 </div>
-<p>This year’s Career &amp; Skills Level-Up SkillsFuture Festival @ North
-East is specially designed to support mid-career transitions with a wealth
-of upskilling opportunities and courses. Residents can gain insights into
-the digital and care sectors through a variety of talks and activities,
-explore the latest in-demand courses, and discover exciting stores at the
-marketplace. Don't miss the chance to visit the jobs fair on level 3, where
-you can connect with potential employers and explore new career pathways.</p>
+<p>This year’s two-day Career &amp; Skills Level-Up SkillsFuture Festival
+@ North East event shed light on supporting mid-career transitions. With
+over 20 employers and more than 2,000 job vacancies available, participants
+were introduced to a wide range of career and upskilling opportunities,
+particularly in the digital and care sectors.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publicity_A5_Flyers_second_page__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__39_.jpg">
 </div>
-<p>Key highlights include a "Mental Wellness Talk" by the Singapore Association
-for Mental Health (SAMH), a session on "Career Transition Support for the
-Community/Senior Care Sector" by the Agency for Integrated Care (AIC),
-and an engaging virtual reality experience by Trickavu. Sign up now to
-take your first step towards enhancing your skills and career prospects.</p>
-<p>To sign up for the talks and workshops, click <a href="https://form.gov.sg/665ecee56b248fc866b5f9d4" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>To sign up for the job fair, click <a href="https://event.e2i.com.sg/view-event/career-skills-level-up-skillsfuture-festival-at-north-east-main-page" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><strong>Highlights of the Event</strong></h4>
+<p>Participants were exposed to:</p>
+<p><strong>Expert Insights:</strong> Training providers and industry experts
+showcased relevant upskilling courses and shared valuable insights into
+pathways for mid-career transitions, helping participants stay relevant
+in the evolving job market.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__6_.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__24_.jpg">
+</div>
+<p><strong>Support Information:</strong> Participants were also able to seek
+information from social service agencies on assistance schemes and support
+programs for those that are re-entering the workforce.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__82_.jpg">
+</div>
+<p><strong>Job Opportunities:</strong> Walk-in interviews were also offered,
+providing participants with immediate job opportunities and connecting
+job seekers directly with potential employers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__10_.jpg">
+</div>
+<p>We extend our heartfelt thanks to all the participants, employers, training
+providers, and social service agencies who contributed to the success of
+the event. Your support and engagement made a significant impact, and we
+look forward to continuing to work together to support mid-career transitions
+and career development in our community.</p>
 <hr>
 <p></p>
 <p></p>
