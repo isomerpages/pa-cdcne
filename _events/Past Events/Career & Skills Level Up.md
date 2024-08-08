@@ -31,8 +31,8 @@ in the evolving job market.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__24_.jpg">
 </div>
 <p><strong>Support Information:</strong> Participants were also able to seek
-information on assistance schemes and support programs for those that are
-re-entering the workforce.</p>
+information from relevant social service agencies on assistance schemes
+and support programs for those that are re-entering the workforce.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG__82_.jpg">
 </div>
