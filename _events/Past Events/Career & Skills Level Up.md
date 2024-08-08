@@ -23,6 +23,8 @@ employment landscape.</p>
 agencies booths on assistance schemes and support programs for back-to-work
 locals.</p>
 <p></p>
+<p>Our event also conducted a walk-in interviews</p>
+<p></p>
 <hr>
 <p></p>
 <p></p>
