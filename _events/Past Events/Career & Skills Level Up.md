@@ -16,8 +16,8 @@ and care sectors.</p>
 <p><strong>Highlights of the Event</strong>
 </p>
 <p>Training providers and industry experts were on hand to share and showcase
-relevant upskilling courses to support mid-career transitions in the changing
-employment landscape.</p>
+relevant upskilling courses and provide insights into available pathways
+for mid-career transitions in the changing employment landscape.</p>
 <p></p>
 <p>Residents are able to seek relevant information from the Social service
 agencies booths on assistance schemes and support programs for back-to-work
