@@ -7,7 +7,7 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/HTTampines_KV_A4_copy_page_0001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTTampines_KV_A4_page_0001.jpg">
 </div>
 <p>Dive into a weekend dedicated to your health and wellness! Join us on
 the 17th and 18th of August 2024 for the Healthier Together @ Tampines
