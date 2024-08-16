@@ -27,12 +27,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: TampinesCaresGoWhere
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: NECDC and SingHealth launched Singapore’s first town-specific
+        one-stop access platform for aggregated healthcare, community and
+        government services.
+      button: Find out more
       alt: Image alt text
+      url: www.go.gov.sg/tampinescares
+      image: /images/TampinesCares1.png
   - infopic:
       title: Healthier Together @ Tampines
       id: infopic
