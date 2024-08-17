@@ -34,7 +34,7 @@ sections:
         government services.
       button: Find out more
       alt: Image alt text
-      url: <a href="go.gov.sg/tampinescares"></a>
+      url: go.gov.sg/tampinescares
       image: /images/TampinesCares1.png
   - infopic:
       title: Healthier Together @ Tampines
