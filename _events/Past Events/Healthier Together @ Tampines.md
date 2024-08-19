@@ -5,13 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Past Events
 ---
+<p>On 17th and 18th August 2024, Healthier Together @ Tampines took place
+at Our Tampines Hub, marking the launch of the new website, TampinesCaresGoWhere.
+This platform offers residents a one-stop solution for accessing various
+health, care, and support services.</p>
+<p>As part of the Health Journey, the event highlighted essential health-related
+resources available for every stage of life in Tampines Town. Residents
+explored different zones, making it easy to identify the services and support
+systems that can enhance their well-being.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HTTampines_KV_A4_page_0001.jpg">
-</div>
-<p>Dive into a weekend dedicated to your health and wellness! Join us on
-the 17th and 18th of August 2024 for the Healthier Together @ Tampines
-event, a one-stop access to health, care and support services in Tampines.</p>
 <p><strong>What to Expect:</strong>
 </p>
 <ul data-tight="true" class="tight">
