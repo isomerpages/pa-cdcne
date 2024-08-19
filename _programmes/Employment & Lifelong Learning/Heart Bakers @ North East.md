@@ -7,7 +7,7 @@ variant: markdown
 ---
 The Heart Bakers @ North East programme equips lower income stay-home mothers and aspiring home bakers with baking, business and marketing skills, to start their own home baking business.
 
-When enrolled in Heart Bakers, participants attend a baking masterclass conducted by a celebrity chef, where they will learn how to bake cookies using a specially handcrafted recipe. They will also participate in a social media and e-marketing course that equips them with skills to start a home business.
+When enrolled in Heart Bakers, participants attend a baking masterclass conducted by a professional chef, where they will learn how to bake cookies using a specially handcrafted recipe. They will also participate in a social media and e-marketing course that equips them with skills to start a home business.
 
 Upon completing the training, Heartbakers will bake the cookies for sale. Proceeds goes to Heartbakers to supplement their household income and support them in starting their own business.
 
