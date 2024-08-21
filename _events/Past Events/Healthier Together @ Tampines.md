@@ -30,5 +30,6 @@ government, and community services in Tampines Town.</p>
 <p>We extend our heartfelt thanks to all partners and residents. Your participation
 and enthusiasm made the event a great success, and together, we continue
 to build a healthier and more caring community.</p>
-<p>Find out the nearest healthcare, government, and community services in
-your area <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Discover the nearest healthcare, government, and community services in
+your area <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
