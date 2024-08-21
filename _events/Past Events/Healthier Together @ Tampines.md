@@ -30,4 +30,3 @@ government, and community services in Tampines Town.</p>
 <p>We extend our heartfelt thanks to all partners and residents. Your participation
 and enthusiasm made the event a great success, and together, we continue
 to build a healthier and more caring community.</p>
-<p></p>
