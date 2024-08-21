@@ -32,7 +32,8 @@ the Healthier Together @ Tampines event.</p>
 <p>In partnership with Government Technology Agency (GovTech), TampinesCaresGoWhere
 simplifies the process for families, especially those with members of different
 life stages and varying needs, to find all the support they require in
-one place.</p>
+one place, eliminating the need to search across multiple sources.</p>
+<p>This initiative als</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
