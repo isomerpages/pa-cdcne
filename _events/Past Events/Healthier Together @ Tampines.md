@@ -17,7 +17,7 @@ and support systems that can enhance their well-being.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_092.jpg">
 </div>
-<p>Residents were also given access to free functional and fall-risk screening.</p>
+<p>Residents were also given access to free functional and fall-risk screenings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_429.jpg">
 </div>
