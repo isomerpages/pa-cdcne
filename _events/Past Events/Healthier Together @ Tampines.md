@@ -31,7 +31,9 @@ and community services in Tampines Town - <a href="https://www.gowhere.gov.sg/ta
 the Healthier Together @ Tampines event.</p>
 <p>In partnership with Government Technology Agency (GovTech), TampinesCaresGoWhere
 simplifies the process for families, especially those with members of different
-life stages and varying</p>
+life stages and varying needs, to find all the support they require in
+one place.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
 </div>
