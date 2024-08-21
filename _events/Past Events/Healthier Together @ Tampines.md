@@ -24,9 +24,10 @@ and support systems that could enhance their well-being.</p>
 <p>Additionally, the event marked the launch of the <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a> website,
 a platform offering residents a one-stop access to various healthcare,
 government, and community services in Tampines Town.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
 </div>
-<p>We thank all partners and residents for supporting the launch of the
-<a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>website.</p>
+<p>We extend our heartfelt thanks to all partners and residents. Your participation
+and enthusiasm made the event a great success, and together, we continue
+to build a healthier and more caring community.</p>
+<p></p>
