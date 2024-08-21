@@ -14,7 +14,6 @@ Town for every stage of life.</p>
 </div>
 <p>Residents explored different zones, making it easy to identify the services
 and support systems that can enhance their well-being.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_092.jpg">
 </div>
