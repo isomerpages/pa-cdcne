@@ -24,9 +24,9 @@ and support systems that could enhance their well-being.</p>
 <p>Additionally, the event marked the launch of the <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a> website,
 a platform offering residents a one-stop access to various health, care,
 and support services in Tampines Town.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TampinesCares1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
+</div>
 <p>We thank all partners and residents for supporting the launch of the
 <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>website.</p>
