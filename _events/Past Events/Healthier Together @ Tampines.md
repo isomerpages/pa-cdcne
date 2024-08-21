@@ -10,6 +10,10 @@ at Our Tampines Hub. Featured as a Health Journey, the event was highlighted
 as a one-stop showcase of key health-related resources available in Tampines
 Town for every stage of life.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_485.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_479.jpg">
 </div>
 <p>Residents explored different zones, making it easy to identify services
