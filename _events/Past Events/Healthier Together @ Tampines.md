@@ -27,6 +27,7 @@ that can enhance their well-being.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_429.jpg">
 </div>
-<p></p>
+<p>We thank all partners and residents for supporting the launch of the
+<a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>website.</p>
 <p></p>
 <p></p>
