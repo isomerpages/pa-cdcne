@@ -6,9 +6,13 @@ description: ""
 third_nav_title: Past Events
 ---
 <p>On 17th and 18th August 2024, Healthier Together @ Tampines took place
-at Our Tampines Hub, marking the launch of the new website, TampinesCaresGoWhere.
+at Our Tampines Hub, marking the launch of the new website, <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>.
 This platform offers residents a one-stop solution for accessing various
 health, care, and support services.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
+</div>
+<p></p>
 <p>As part of the Health Journey, the event highlighted essential health-related
 resources available for every stage of life in Tampines Town. Residents
 explored different zones, making it easy to identify the services and support
