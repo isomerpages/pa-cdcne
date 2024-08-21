@@ -2,11 +2,11 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Healthier Together @ Tampines.md
       - Upcoming Events/Heart Bakers.md
       - Upcoming Events/Online Fundraising Campaign.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
+      - Past Events/Healthier Together @ Tampines.md
       - Past Events/Career & Skills Level Up.md
       - Past Events/Action for Women's Health.md
       - Past Events/Shaping Hearts 2023.md
