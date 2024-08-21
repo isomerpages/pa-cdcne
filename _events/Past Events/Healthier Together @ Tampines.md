@@ -32,9 +32,11 @@ services in Tampines Town - <a href="https://www.gowhere.gov.sg/tampinescares/" 
 simplifies the process for families, especially those with members of different
 life stages and varying needs, to find all the support they require in
 one place, eliminating the need to search across multiple sources.</p>
-<p>This initiative also helps foster collaborations among NECDC's partner
-- Singhealth. Playing a pivotal role in forging and coordinating community
-partnerships to ensure well-being of the population.</p>
+<p>This initiative also fosters collaborations among NECDC's partners, Singhealth,
+playing a pivotal role in forging and coordinating community partnerships
+to ensure the well-being of the population. It helps identify and address
+the diverse health needs of residents.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
