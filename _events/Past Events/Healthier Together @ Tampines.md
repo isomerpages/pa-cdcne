@@ -6,14 +6,14 @@ description: ""
 third_nav_title: Past Events
 ---
 <p>On 17th and 18th August 2024, Healthier Together @ Tampines took place
-at Our Tampines Hub. Being featured as a Health Journey, the event is highlighted
-as a one-stop showcase of key health-related assets available in Tampines
+at Our Tampines Hub. Featured as a Health Journey, the event was highlighted
+as a one-stop showcase of key health-related resources available in Tampines
 Town for every stage of life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_479.jpg">
 </div>
-<p>Residents explored different zones, making it easy to identify the services
-and support systems that can enhance their well-being.</p>
+<p>Residents explored different zones, making it easy to identify services
+and support systems that could enhance their well-being.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_092.jpg">
 </div>
