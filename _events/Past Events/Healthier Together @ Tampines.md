@@ -25,9 +25,9 @@ and support systems that could enhance their well-being.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_429.jpg">
 </div>
-<p>Additionally, the event marked the launch of Singapore's first town-specific
-one-stop access platform for aggregated healthcare, government, and community
-services in Tampines Town - <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>.</p>
+<p>Additionally, together with Singhealth, we launched Singapore's first
+town-specific one-stop access platform for aggregated healthcare, government,
+and community services in Tampines Town - <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
