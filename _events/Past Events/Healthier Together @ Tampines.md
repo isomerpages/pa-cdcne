@@ -17,7 +17,11 @@ assets available in Tampines Town for every stage of life. Residents explored
 different zones, making it easy to identify the services and support systems
 that can enhance their well-being.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_479.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_092.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
