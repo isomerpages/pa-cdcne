@@ -27,8 +27,11 @@ and support systems that could enhance their well-being.</p>
 </div>
 <p>Additionally, together with Singhealth, we launched Singapore's first
 town-specific one-stop access platform for aggregated healthcare, government,
-and community services in Tampines Town - <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a>.</p>
-<p></p>
+and community services in Tampines Town - <a href="https://www.gowhere.gov.sg/tampinescares/" rel="noopener noreferrer nofollow" target="_blank">TampinesCaresGoWhere</a> at
+the Healthier Together @ Tampines event.</p>
+<p>In partnership with Government Technology Agency (GovTech), TampinesCaresGoWhere
+simplifies the process for families, especially those with members of different
+life stages and varying</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
 </div>
