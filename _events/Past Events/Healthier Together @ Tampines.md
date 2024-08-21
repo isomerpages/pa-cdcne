@@ -12,31 +12,11 @@ health, care, and support services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
 </div>
-<p></p>
 <p>As part of the Health Journey, the event highlighted essential health-related
-resources available for every stage of life in Tampines Town. Residents
+resources available in Tampines Town for every stage of life. Residents
 explored different zones, making it easy to identify the services and support
 systems that can enhance their well-being.</p>
-<p></p>
-<p><strong>What to Expect:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Access to functional and fall-risk screening</p>
-</li>
-<li>
-<p>Exclusive discounts on a range of health products</p>
-</li>
-<li>
-<p>Redeem a gift worth over $10 upon completion of the "Journey to Wellness"
-activity card during the event</p>
-</li>
-</ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Untitled_design__4_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_092.jpg">
 </div>
-<p>Don’t miss out on this great opportunity to embark on your journey to
-wellness and discover how you can make healthier choices for a better tomorrow.
-Sign up <a href="https://form.gov.sg/6690c5f654c44bb0bbeaee80" rel="noopener noreferrer nofollow" target="_blank">here</a> !</p>
 <p></p>
