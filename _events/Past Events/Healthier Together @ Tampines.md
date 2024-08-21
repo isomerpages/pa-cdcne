@@ -34,9 +34,8 @@ life stages and varying needs, to find all the support they require in
 one place, eliminating the need to search across multiple sources.</p>
 <p>This initiative also fosters collaborations among NECDC's partners, Singhealth,
 playing a pivotal role in forging and coordinating community partnerships
-to ensure the well-being of the population. It helps identify and address
+to ensure the well-being of the population. Helpsing to identify and address
 the diverse health needs of residents.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/HSGNECDC_118.jpg">
 </div>
