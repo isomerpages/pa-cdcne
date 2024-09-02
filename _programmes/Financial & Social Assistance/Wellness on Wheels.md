@@ -15,3 +15,8 @@ fruits. This initiative was made possible thanks to the collaboration with
 Hao Ren Hao Shi and the generous support from Geoscan Pte Ltd. Their contributions
 have turned this year-long programme into a reality, ensuring that vital
 health resources are within easy reach for our seniors.</p>
+<p>Thanks to the combined efforts of our partners, volunteers, and community,
+Wellness on Wheels continues to make a significant difference in the lives
+of our seniors. Together, we’re not just delivering supplies—we’re delivering
+care, dignity, and hope to those who need it most.</p>
+<p></p>
