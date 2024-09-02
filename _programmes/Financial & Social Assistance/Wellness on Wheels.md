@@ -5,9 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-<p>As part of the 24th edition of Project Refresh, our Wellness on Wheels
-mobile health supplies truck embarked on its journey, bringing essential
-items directly to the homes of more than 350 seniors from low-income families
+<p></p>
+<p>Launched as part of the 24th edition of Project Refresh, our <strong>Wellness on Wheels</strong> mobile
+health supplies truck embarked on its journey, bringing essential items
+directly to the homes of more than 350 seniors from low-income families
 across the North East district.</p>
 <p>These seniors were able to select from a range of health supplies, including
 adult diapers, medicinal plasters, and nutritious groceries like milk and
