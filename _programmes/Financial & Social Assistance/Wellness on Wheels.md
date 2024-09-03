@@ -20,6 +20,9 @@ the North East district.</p>
 adult diapers, medicinal plasters, and nutritious groceries like milk and
 fruits.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ZC17691.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6889.jpg">
 </div>
 <div class="isomer-image-wrapper">
