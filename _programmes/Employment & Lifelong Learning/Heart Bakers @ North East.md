@@ -14,3 +14,4 @@ Upon completing the training, participants will bake the cookies for sale. Proce
 Join us in supporting this meaningful cause, place your orders  [here](https://go.gov.sg/hborder).
 
 ![](/images/Programmes/Employment%20&%20Lifelong%20Learning/Heart%20Bakers%20@%20North%20East.jpg)
+
