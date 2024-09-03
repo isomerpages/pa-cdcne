@@ -20,9 +20,4 @@ income and support them in starting their own business.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment%20&amp;%20Lifelong%20Learning/Heart%20Bakers%20@%20North%20East.jpg">
 </div>
-<hr>
-<h4><strong>What to do with your Mooncake Bags and Boxes?</strong></h4>
-<p>After enjoying your delicious mooncakes, don't toss those beautiful bags
-and boxes just yet! Here are some creative upcycling ideas to give them
-a new life:</p>
 <p></p>
