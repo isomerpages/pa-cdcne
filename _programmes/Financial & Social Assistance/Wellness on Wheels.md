@@ -30,7 +30,7 @@ fruits.</p>
 <p>This initiative was brought to life through the invaluable partnership
 with Hao Ren Hao Shi and the generous donation from Geoscan Pte Ltd. Their
 contributions have been instrumental in making this year-long programme
-a reality, ensuring that essential health resources are readily accessible
+successful, ensuring that essential health resources are readily accessible
 to our seniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6046.jpg">
