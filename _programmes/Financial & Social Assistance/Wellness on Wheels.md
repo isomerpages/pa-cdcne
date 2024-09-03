@@ -16,7 +16,7 @@ the North East district.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6278.jpg">
 </div>
-<p>These seniors were able to select from a range of health supplies, including
+<p>Seniors were able to select from a range of health supplies, including
 adult diapers, medicinal plasters, and healthier groceries like milk and
 fruits.</p>
 <div class="isomer-image-wrapper">
