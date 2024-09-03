@@ -29,7 +29,9 @@ a new life:</p>
 <details class="isomer-details">
 <summary>Make a crafts caddy from mooncake box</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_1.png">
+</div>
 </div>
 </details>
 </div>
