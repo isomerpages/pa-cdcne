@@ -20,7 +20,7 @@ the North East district.</p>
 adult diapers, medicinal plasters, and nutritious groceries like milk and
 fruits.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ZC17691.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ZC18207.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6889.jpg">
@@ -32,7 +32,6 @@ fruits.</p>
 Ren Hao Shi and the generous donation from Geoscan Pte Ltd. Their contributions
 have turned this year-long programme into a reality, ensuring that vital
 health resources are within easy reach for our seniors.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6046.jpg">
 </div>
