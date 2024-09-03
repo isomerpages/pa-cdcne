@@ -25,14 +25,4 @@ income and support them in starting their own business.</p>
 <p>After enjoying your delicious mooncakes, don't toss those beautiful bags
 and boxes just yet! Here are some creative upcycling ideas to give them
 a new life:</p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Make a crafts caddy from mooncake box</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CC_1.png">
-</div>
-</div>
-</details>
-</div>
 <p></p>
