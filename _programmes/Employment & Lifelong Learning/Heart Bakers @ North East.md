@@ -28,8 +28,32 @@ a new meaning:</p>
 <details class="isomer-details">
 <summary>Making a Craft Caddy from Mooncake Box</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/6.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
 <p></p>
