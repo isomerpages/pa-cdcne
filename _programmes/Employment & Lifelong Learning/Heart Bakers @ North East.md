@@ -59,10 +59,43 @@ just yet! Here are some creative upcycling ideas to give them a new meaning:</p>
 <details class="isomer-details">
 <summary>Making a Diorama Playset from Mooncake Box</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/D11.png">
+</div>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
