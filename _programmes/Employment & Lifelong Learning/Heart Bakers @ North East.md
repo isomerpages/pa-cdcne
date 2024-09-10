@@ -20,10 +20,9 @@ income and support them in starting their own business.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment%20&amp;%20Lifelong%20Learning/Heart%20Bakers%20@%20North%20East.jpg">
 </div>
-<h4>What to do with your Mooncake Bags and Boxes?</h4>
-<p>After enjoying your delicious mooncakes, don't toss those beautiful bags
-and boxes just yet! Here are some creative upcycling ideas to give them
-a new meaning:</p>
+<h4>What to do with your Mooncake Boxes?</h4>
+<p>After enjoying your delicious mooncakes, don't toss those beautiful boxes
+just yet! Here are some creative upcycling ideas to give them a new meaning:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Making a Craft Caddy from Mooncake Box</summary>
@@ -58,7 +57,7 @@ a new meaning:</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Making a Diorama Playset from Mooncake Box</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
