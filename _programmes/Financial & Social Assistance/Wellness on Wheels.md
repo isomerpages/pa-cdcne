@@ -27,11 +27,10 @@ fruits.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6242.jpg">
 </div>
-<p>This initiative was brought to life through the invaluable partnership
-with Hao Ren Hao Shi and the generous donation from Geoscan Pte Ltd. Their
-contributions have been instrumental in making this year-long programme
-possible, ensuring that essential health supplies are readily accessible
-to our seniors.</p>
+<p>A big thank you to Hao Ren Hao Shi for partnering with us and the to Geoscan
+Pte Ltd for their generous $75,000 donation. Their contributions have been
+instrumental in making this year-long programme possible, ensuring that
+essential health supplies are readily accessible to our seniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_6046.jpg">
 </div>
