@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Financial & Social Assistance
 ---
-<p>Launched as part of the 24th edition of Project Refresh, our <strong>Wellness on Wheels</strong> mobile
+<p>Launched as part of the 24th edition of Project Refresh, our <strong>Wellness on Wheels (WOW)</strong> mobile
 health supplies truck embarked on its journey, bringing essential items
 to the doorsteps of seniors from low-income families across the North East
 district.</p>
