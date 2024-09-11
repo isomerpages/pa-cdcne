@@ -7,8 +7,8 @@ third_nav_title: Financial & Social Assistance
 ---
 <p>Launched as part of the 24th edition of Project Refresh, our <strong>Wellness on Wheels</strong> mobile
 health supplies truck embarked on its journey, bringing essential items
-to the doorsteps of more than 350 seniors from low-income families across
-the North East district.</p>
+to the doorsteps of seniors from low-income families across the North East
+district.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DP8_5714.jpg">
 </div>
