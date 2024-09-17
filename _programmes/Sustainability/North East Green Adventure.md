@@ -11,3 +11,4 @@ This programme features Environmental ambassadors in the form of animated charac
 ![](/images/Green1.png)
 Through workshops which comprises of storytelling, hands-on activities and fun quizzes with pictorial presentation, children are brought on an adventure to learn about these eco-habits, gaining knowledge on environmental sustainability and ownership.
 ![](/images/Green3.jpg)
+![](/images/Green4.jpg)
