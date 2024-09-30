@@ -34,7 +34,7 @@ sections:
         fair for interviews and exciting training pathways today!
       button: find out more
       url: https://northeast.cdc.gov.sg/e2i-early-childhood-career-fair/
-      image: /images/e2i.png
+      image: /images/e2i_2.png
       alt: Image alt text
   - infopic:
       title: TampinesCaresGoWhere
