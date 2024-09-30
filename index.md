@@ -28,7 +28,6 @@ sections:
       title: Building a caring and inclusive community
   - infopic:
       title: e2i Early Childhood Career Fair
-      subtitle: Add an image and text
       id: infopic
       description: Start your journey in Early Childhood Education. Join our career
         fair for onsite interviews and explore exciting training pathways.
