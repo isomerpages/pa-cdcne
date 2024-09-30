@@ -30,8 +30,8 @@ sections:
       title: e2i Early Childhood Career Fair
       subtitle: Add an image and text
       id: infopic
-      description: Start your journey in Early Childhood Education! Join our career
-        fair for interviews and exciting training pathways today!
+      description: Start your journey in Early Childhood Education. Join our career
+        fair for onsite interviews and explore exciting training pathways.
       button: find out more
       url: https://northeast.cdc.gov.sg/e2i-early-childhood-career-fair/
       image: /images/e2i_2.png
