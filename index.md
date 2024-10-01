@@ -27,6 +27,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: e2i Early Childhood Career Fair
+      id: infopic
+      description: Start your journey in Early Childhood Education. Join our career
+        fair for onsite interviews and explore exciting training pathways.
+      button: find out more
+      url: https://northeast.cdc.gov.sg/e2i-early-childhood-career-fair/
+      image: /images/e2i_3.png
+      alt: Image alt text
+  - infopic:
       title: TampinesCaresGoWhere
       id: infopic
       description: NECDC and SingHealth launched Singapore’s first town-specific
