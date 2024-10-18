@@ -6,9 +6,9 @@ variant: markdown
 ---
 #### Catch up on our monthly happenings with our Heartbeat @ North East Newsletter! 
 
-[Newsletter Apr 2022](https://pa.imail-host.com/email/preview/5)
+[Newsletter Apr 2022](https://pa.imail-host.com/email/view/66fe0c8c7fb0a929781568)
 
-[Newsletter May 2022](https://pa.imail-host.com/email/preview/11)
+[Newsletter May 2022](https://pa.imail-host.com/email/view/66fe1091c85e3829309284)
 
 [Newsletter Jun 2022](https://pa.imail-host.com/email/preview/21)
 
