@@ -48,3 +48,5 @@ variant: markdown
 [Newsletter Jan 2024](https://pa.imail-host.com/email/view/65b2b55a72225574083153)
 
 [Newsletter Feb 2024](https://pa.imail-host.com/email/view/65dfdfa0bba3c093108577)
+
+[Newsletter Mar 2024](https://pa.imail-host.com/email/view/66fe198b16120116698215)
