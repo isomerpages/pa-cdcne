@@ -10,7 +10,7 @@ variant: markdown
 
 [Newsletter May 2022](https://pa.imail-host.com/email/view/66fe1091c85e3829309284)
 
-[Newsletter Jun 2022](https://pa.imail-host.com/email/preview/21)
+[Newsletter Jun 2022](https://pa.imail-host.com/email/view/66fe168317ffe989184592)
 
 [Newsletter Jul 2022](https://pa.imail-host.com/email/view/62ed424ab1b32560117371)
 
