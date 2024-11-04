@@ -31,5 +31,3 @@ awareness, acceptance, and community support for the special needs community.</p
 for artists to continue their creative pursuits.</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
