@@ -7,6 +7,9 @@ third_nav_title: Past Events
 ---
 <p>As the curtains close on another spectacular edition of Shaping Hearts,
 we look back on this journey we’ve embarked on together!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LSQ01226.jpg">
+</div>
 <p>Shaping Hearts 2024 was not only Singapore’s largest inclusive arts festival
 but also a true celebration of the spirit, resilience, and creativity of
 our “Heartists”—artists with disabilities who have overcome challenges
