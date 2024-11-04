@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/e2i Early Childhood Career Fair.md
       - Upcoming Events/Heart Bakers.md
       - Upcoming Events/Online Fundraising Campaign.md
       - Upcoming Events/.keep
