@@ -24,6 +24,9 @@ charity art auction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ8_4505.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DZ8_4553.jpg">
+</div>
 <p>A highlight of the event was the debut of the Neo Kah Kiat Arts Awards,
 an unprecedented initiative supported by a S$1 million, five-year commitment
 from Mr. Neo Kah Kiat, Founder of Neo Group. With awards such as the Neo
