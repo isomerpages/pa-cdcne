@@ -54,4 +54,3 @@ over $500,000, a testament to the collective commitment to fostering an
 inclusive society. These funds will play a pivotal role in supporting persons
 with disabilities in their pursuit of the arts, creating opportunities
 for them.</p>
-<p></p>
