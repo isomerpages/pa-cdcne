@@ -33,7 +33,9 @@ from Mr. Neo Kah Kiat, Founder of Neo Group. With awards such as the Neo
 Kah Kiat Painting of the Year and various recognition categories, these
 awards provide both recognition and financial rewards to artists across
 different stages of their journeys.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8025.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ESJ_7908.jpg">
 </div>
