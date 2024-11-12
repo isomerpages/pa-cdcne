@@ -33,6 +33,7 @@ from Mr. Neo Kah Kiat, Founder of Neo Group. With awards such as the Neo
 Kah Kiat Painting of the Year and various recognition categories, these
 awards provide both recognition and financial rewards to artists across
 different stages of their creative journeys.</p>
+<p></p>
 <p>Additionally, NECDC amplified its impact through several 2024 initiatives,
 including a partnership with SMRT to showcase Shaping Hearts artworks in
 public spaces, promoting visibility and awareness for artists with disabilities.</p>
