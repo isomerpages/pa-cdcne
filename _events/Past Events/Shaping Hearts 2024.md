@@ -48,9 +48,10 @@ public spaces, promoting visibility and awareness for artists with disabilities.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/24_09_24___Shaping_hearts__40.jpg">
 </div>
-<p>Through these collective efforts, the festival raised over S$500,000 to
-support artists with disabilities, strengthening NECDC’ commitment to fostering
-awareness, acceptance, and community support for the special needs community.</p>
+<p>Marking the conclusion of Shaping Hearts 2024 through these collective
+efforts, the festival raised over S$500,000 to support artists with disabilities,
+strengthening NECDC’ commitment to fostering awareness, acceptance, and
+community support for the special needs community.</p>
 <p>Proceeds will help fund future inclusive arts initiatives, opening doors
 for artists to continue their creative pursuits.</p>
 <p></p>
