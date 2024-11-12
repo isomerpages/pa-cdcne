@@ -39,8 +39,8 @@ different stages of their journeys.</p>
 <p>Additionally, NECDC amplified its impact through several 2024 initiatives,
 including a partnership with SMRT to showcase Shaping Hearts artworks in
 public spaces, promoting visibility and awareness for artists with disabilities.</p>
-<p>Through these collective efforts, the festival raised over S$XX to support
-artists with disabilities, strengthening NECDC’ commitment to fostering
+<p>Through these collective efforts, the festival raised over S$500,000 to
+support artists with disabilities, strengthening NECDC’ commitment to fostering
 awareness, acceptance, and community support for the special needs community.</p>
 <p>Proceeds will help fund future inclusive arts initiatives, opening doors
 for artists to continue their creative pursuits.</p>
