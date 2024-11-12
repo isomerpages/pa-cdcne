@@ -29,10 +29,10 @@ charity art auction.</p>
 </div>
 <p>A highlight of the event was the debut of the Neo Kah Kiat (NKK) Arts
 Awards, an unprecedented initiative supported by a S$1 million, five-year
-commitment from Mr. Neo Kah Kiat, Founder of Neo Group. With awards such
-as the Neo Kah Kiat Painting of the Year and various recognition categories,
-these awards provide both recognition and financial rewards to artists
-across different stages of their journeys.</p>
+commitment from the Founder, Chairman, Group CEO of NEO Group, Mr. Neo
+Kah Kiat BBM. With awards such as the Neo Kah Kiat Painting of the Year
+and various recognition categories, these awards provide both recognition
+and financial rewards to artists across different stages of their journeys.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8025.jpg">
 </div>
