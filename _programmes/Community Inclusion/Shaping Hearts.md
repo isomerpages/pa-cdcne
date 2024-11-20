@@ -41,6 +41,8 @@ art disciplines, showcasing exceptional work by persons with disabilities
 and promotes inclusivity. By honouring these achievements, we aim to elevate
 the visibility of artists with disabilities and their valuable contributions
 to the arts community.</p>
+<p></p>
+<p></p>
 <p>For more information, visit <a href="https://shapinghearts.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Shaping Hearts</a> website.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Media%20Files%20for%20Shaping%20Hearts/Shaping%20Hearts%20Photo%201%20.jpg">
