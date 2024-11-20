@@ -40,6 +40,6 @@ and promotes inclusivity. By honouring these achievements, we aim to elevate
 the visibility of artists with disabilities and their valuable contributions
 to the arts community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/neo_table.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/neo_table.png">
 </div>
 <p></p>
