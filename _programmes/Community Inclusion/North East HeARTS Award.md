@@ -7,12 +7,16 @@ third_nav_title: Community Inclusion
 ---
 ![](/images/R85_5236.jpg)
 
+#### SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE
 
+At North East CDC, we are committed to celebrate and uplift artists with disabilities. We introduced two prestigious awards: one recognising overall artistic achievement, and another honouring excellence in painting.
 
-The North East HeARTS Award is the first community-initiated effort to empower persons with disabilities by providing opportunities for creative expression and personal development through the visual arts. It not only celebrates artistic achievements but also serves as a crucial step in making art education more accessible. It ensures that persons with disabilities, particularly those facing financial constraints, can continue to progress and thrive through arts.
+**Kiat Lim-Shaping Hearts Awards**
 
-In its inaugural year, the North East HeARTS Award is projected to impact 60 beneficiaries. Each recipient will be awarded a quantum amount ranging from $2,000 to $5,000, providing them with the necessary resources to continue their artistic journey.
+The Kiat Lim-Shaping Hearts Award is designed to nurture artists with disabilities throughout their artistic journey, from early education to professional development. The award consists of a scholarship, bursary and early intervention grant category to provide financial assistance for persons with disabilities to pursue art. It recognises the artistic achievements of persons with disabilities (PWDs) and aims to make art education more accessible, especially for those facing financial constraints. The award is supported by a S$1,000,000 commitment over five years from Kiat Lim, a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities to facilitate their artistic pursuits, empowering them to explore their creativity and develop essential skills for personal growth and development.
 
-Application has now closed.
+**Neo Kah Kiat Arts Award**
 
-Look out for our next application announcement.
+The Neo Kah Kiat Arts Awards recognise artistic excellence among artists with disabilities. This award celebrates diverse talents across various art disciplines, showcasing exceptional work by persons with disabilities and promotes inclusivity. By honouring these achievements, we aim to elevate the visibility of artists with disabilities and their valuable contributions to the arts community.
+
+![](/images/neo_table.png)
