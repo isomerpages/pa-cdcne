@@ -7,7 +7,7 @@ third_nav_title: Community Inclusion
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/E1_01853.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
 <h4>SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE</h4>
 <p>At North East CDC, we are committed to celebrate and uplift artists with
