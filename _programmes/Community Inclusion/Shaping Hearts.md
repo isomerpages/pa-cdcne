@@ -18,6 +18,21 @@ artists, in the form of donations to support this cause.</p>
 <p>At North East CDC, we are committed to celebrate and uplift artists with
 disabilities. We introduced two prestigious awards: one recognising overall
 artistic achievement, and another honouring excellence in painting.</p>
+<p><strong>Kiat Lim-Shaping Hearts Awards</strong>
+</p>
+<p>The Kiat Lim-Shaping Hearts Award is designed to nurture artists with
+disabilities throughout their artistic journey, from early education to
+professional development. The award consists of a scholarship, bursary
+and early intervention grant category to provide financial assistance for
+persons with disabilities to pursue art. It recognises the artistic achievements
+of persons with disabilities (PWDs) and aims to make art education more
+accessible, especially for those facing financial constraints. The award
+is supported by a S$1,000,000 commitment over five years from Kiat Lim,
+a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities
+to facilitate their artistic pursuits, empowering them to explore their
+creativity and develop essential skills for personal growth and development.</p>
+<p></p>
+<p></p>
 <p><strong>Neo Kah Kiat Arts Award</strong>
 </p>
 <p>The Neo Kah Kiat Arts Awards recognise artistic excellence among artists
