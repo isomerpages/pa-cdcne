@@ -42,6 +42,9 @@ and promotes inclusivity. By honouring these achievements, we aim to elevate
 the visibility of artists with disabilities and their valuable contributions
 to the arts community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/neo_table.png">
+</div>
 <p></p>
 <p>For more information, visit <a href="https://shapinghearts.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Shaping Hearts</a> website.</p>
 <div class="isomer-image-wrapper">
