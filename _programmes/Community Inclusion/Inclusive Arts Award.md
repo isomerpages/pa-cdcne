@@ -43,3 +43,4 @@ to the arts community.</p>
 <img style="width: 95%;" height="auto" width="100%" alt="" src="/images/neo_table.png">
 </div>
 <p></p>
+<p>For more information, visit <a href="https://shapinghearts.cdc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Shaping Hearts</a> website.</p>
