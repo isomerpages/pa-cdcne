@@ -49,8 +49,8 @@ public spaces, promoting visibility and awareness for artists with disabilities.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/24_09_24___Shaping_hearts__40.jpg">
 </div>
 <p>We are grateful for the overwhelming support from our partners, donors,
-and art enthusiasts who joined us in this journey. Together, we raised
-over $500,000, a testament to the collective commitment to fostering an
-inclusive society. These funds will play a pivotal role in supporting persons
-with disabilities in their pursuit of the arts, creating opportunities
-for them.</p>
+and art enthusiasts who joined us in this journey. Together, we have raised
+a record-breaking amount of $787,567, a testament to the collective commitment
+to fostering an inclusive society. These funds will play a pivotal role
+in supporting persons with disabilities in their pursuit of the arts, creating
+opportunities for them.</p>
