@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Financial & Social Assistance/.keep
-      - Financial & Social Assistance/Wellness on Wheels.md
       - Financial & Social Assistance/WeCare @ North East.md
       - Financial & Social Assistance/North East Growth Fund.md
       - Financial & Social Assistance/School Transport Assistance and Relief
@@ -11,6 +10,7 @@ collections:
       - Financial & Social Assistance/North East Cancer Warrior Support Scheme.md
       - Financial & Social Assistance/Dedicated North East Ambulance Service.md
       - Financial & Social Assistance/CDC Vouchers.md
+      - Financial & Social Assistance/Wellness on Wheels.md
       - Financial & Social Assistance/Gift Of Love.md
       - Financial & Social Assistance/Pre School Transition Starter Kit.md
       - Employment & Lifelong Learning/.keep
