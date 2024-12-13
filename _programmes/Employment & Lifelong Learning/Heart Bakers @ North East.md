@@ -18,7 +18,7 @@ Proceeds from sales goes to the participants to supplement their household
 income and support them in starting their own business.</p>
 <p>Join us in supporting this meaningful cause, place your orders <a href="https://go.gov.sg/hborder" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment%20&amp;%20Lifelong%20Learning/Heart%20Bakers%20@%20North%20East.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart Bakers/223.jpg">
 </div>
 <h4>What to do with your Mooncake Boxes?</h4>
 <p>After enjoying your delicious mooncakes, don't toss those beautiful boxes
