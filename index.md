@@ -39,10 +39,10 @@ sections:
   - infopic:
       title: Heart Bakers
       id: infopic
-      description: Spread love with every bite. Indulge in our Eggless Matcha Butter
-        Cookies while supporting a worthy cause!
+      description: Every bite spreads joy and makes a difference. Indulge in our
+        Chocolate Chip Cookies while supporting a worthy cause!
       button: FIND OUT MORE
-      image: /images/EDM.png
+      image: /images/HB_Header.jpg
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/heart-bakers/
   - infopic:
