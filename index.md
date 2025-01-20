@@ -88,4 +88,14 @@ sections:
         donation will be entitled to 2.5 times of tax deduction.
       button: Find out more
       url: /giving-back/donate
+  - infopic:
+      title: CDC Vouchers Scheme 2025 (January)
+      subtitle: Add an image and text
+      id: infopic
+      description: $300 CDC Vouchers 2025 (January) for every Singaporean household to
+        help with daily expenses.
+      button: FIND OUT MORE
+      url: https://vouchers.cdc.gov.sg/about/
+      image: /images/Homepage/Landing_page_banner.png
+      alt: Image alt text
 ---
