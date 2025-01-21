@@ -27,6 +27,16 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: CDC Vouchers Scheme 2025 (January)
+      subtitle: Add an image and text
+      id: infopic
+      description: $300 CDC Vouchers 2025 (January) for every Singaporean household to
+        help with daily expenses.
+      button: FIND OUT MORE
+      url: https://vouchers.cdc.gov.sg/about/
+      image: /images/Homepage/Landing_page_banner.png
+      alt: Image alt text
+  - infopic:
       title: TampinesCaresGoWhere
       id: infopic
       description: NECDC and SingHealth launched Singapore’s first town-specific
