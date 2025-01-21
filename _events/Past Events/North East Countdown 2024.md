@@ -8,7 +8,7 @@ third_nav_title: Past Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Past Events/Aljunied_Hougang.jpg">
 </div>
-<p>Residents of the North East district ushered in 2024 with a series of
+<p>Residents of the North East district ushered in 2025 with a series of
 vibrant countdown celebrations that filled the air with excitement, joy,
 and hope.</p>
 <p></p>
