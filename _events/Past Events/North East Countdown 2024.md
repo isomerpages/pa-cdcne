@@ -10,6 +10,9 @@ vibrant countdown celebrations that filled the air with excitement, joy,
 and hope.</p>
 <p>At Aljunied-Hougang, <em>Igniting Sparks of Hope</em> brought neighbours
 together in a dazzling display of unity and optimism.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Events/Past Events/WhatsApp_Image_2025_01_21_at_09_28_41.jpg">
+</div>
 <p>Over at Tampines, the energy was electric at <em>Tampines Boogie</em>,
 where lively music and performances had the crowd dancing their way into
 the New Year.</p>
@@ -19,3 +22,4 @@ and wonder.</p>
 <p>No matter where they were, residents across the North East district were
 treated to breathtaking fireworks that painted the night sky in vibrant
 hues, symbolising the collective hope and joy shared by the community.</p>
+<p></p>
