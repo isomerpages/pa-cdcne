@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Community Inclusion
 ---
-<p></p>
+<h3>SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
 </div>
-<h3>SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE</h3>
 <p>At North East CDC, we are committed to celebrate and uplift artists with
 disabilities. We introduced two prestigious awards: one recognising overall
 artistic achievement, and another honouring excellence in painting.</p>
@@ -25,7 +24,7 @@ is supported by a S$1,000,000 commitment over five years from Kiat Lim,
 a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities
 to facilitate their artistic pursuits, empowering them to explore their
 creativity and develop essential skills for personal growth and development.</p>
-<p>Application for 2025 Awards open now till 31 Jan 2025: <a href="https://Go.gov.sg/klsha25" rel="noopener nofollow" target="_blank">go.gov.sg/klsha25</a>
+<p>Application for 2025 Awards open now until 28 Feb 2025: <a href="https://Go.gov.sg/klsha25" rel="noopener nofollow" target="_blank">go.gov.sg/klsha25</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_at_5_42_02_PM.png">
