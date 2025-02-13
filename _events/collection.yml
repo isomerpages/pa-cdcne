@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Online Fundraising Campaign.md
       - Upcoming Events/.keep
       - Upcoming Events/Job Fairs.md
       - Past Events/North East Countdown 2024.md
