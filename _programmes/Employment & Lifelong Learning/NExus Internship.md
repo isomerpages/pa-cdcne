@@ -22,7 +22,6 @@ inspire positive change.</p>
 <p>Commit a minimum of 3 months (full-time, 5-day work week)</p>
 </li>
 </ul>
-<p>
-<br>🌟 Learn more and apply now: <a href="http://go.gov.sg/necdccip" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/necdccip</a>
+<p>🌟 Learn more and apply now: <a href="http://go.gov.sg/necdccip" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/necdccip</a>
 </p>
 <p></p>
