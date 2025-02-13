@@ -90,7 +90,7 @@ sections:
       title: Subscribed to our monthly EDM yet?
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
-      url: https://form.gov.sg/62dfa95050c946001247dc25
+      url: https://form.gov.sg/67ad6ebf42ebefeccff33fcc
   - infobar:
       title: Make a Donation
       description: Keen to help needy and disadvantaged residents? Your generous
