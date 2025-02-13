@@ -46,15 +46,6 @@ sections:
       url: https://www.gowhere.gov.sg/tampinescares/
       image: /images/TampinesCares1.png
   - infopic:
-      title: Heart Bakers
-      id: infopic
-      description: Every bite spreads joy and makes a difference. Indulge in our
-        Chocolate Chip Cookies while supporting a worthy cause!
-      button: FIND OUT MORE
-      image: /images/HB_Header.jpg
-      alt: Image alt text
-      url: https://northeast.cdc.gov.sg/heart-bakers/
-  - infopic:
       title: School Transport Assistance and Relief Scheme (STARS)
       description: Financial assistance for students to pursue their academic journey
         without the burden of transportation expenses.
@@ -87,7 +78,7 @@ sections:
       image: /images/Homepage/District Locator 2.png
       alt: Image alt text
   - infobar:
-      title: Subscribed to our monthly EDM yet?
+      title: Subscribed to our monthly e-newsletter yet?
       description: Keep up to date on the latest happenings!
       button: Subscribe Now
       url: https://form.gov.sg/67ad6ebf42ebefeccff33fcc
