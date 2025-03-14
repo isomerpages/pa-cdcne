@@ -5,7 +5,11 @@ description: Find the support you need if you are a North East Resident
 variant: tiptap
 ---
 <h5>Financial &amp; Social Assistance</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -81,7 +85,11 @@ more details.</p>
 </tbody>
 </table>
 <h5>Employment Assistance</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,7 +104,7 @@ more details.</p>
 <p>Job Placement Centres</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Four Job Placement Centres are set up in collaboration with the Grassroots
+<p>Five Job Placement Centres are set up in collaboration with the Grassroots
 Organisations to provide employment assistance for residents in the North
 East District. Coaches are on hand to provide job matching and career coaching.
 <br>
