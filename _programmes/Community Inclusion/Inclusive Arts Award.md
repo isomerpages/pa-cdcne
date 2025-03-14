@@ -24,7 +24,7 @@ is supported by a S$1,000,000 commitment over five years from Kiat Lim,
 a new patron of Shaping Hearts. The funds ensure that PWDs can access opportunities
 to facilitate their artistic pursuits, empowering them to explore their
 creativity and develop essential skills for personal growth and development.</p>
-<p>Application for 2025 Awards open now until <u>16 March 2025</u>: <a href="https://Go.gov.sg/klsha25" rel="noopener nofollow" target="_blank">go.gov.sg/klsha25</a>
+<p>Application for 2025 Awards open now until <u>31 March 2025</u>: <a href="https://Go.gov.sg/klsha25" rel="noopener nofollow" target="_blank">go.gov.sg/klsha25</a>
 </p>
 <p>Note: Application for the Kiat Lim-Shaping Hearts <strong>Shining Award</strong> is
 open until <u>28 February 2025</u>.</p>
