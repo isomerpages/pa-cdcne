@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
-      - Upcoming Events/Job Fairs.md
       - Past Events/North East Countdown 2024.md
       - Past Events/Shaping Hearts 2024.md
       - Past Events/Healthier Together @ Tampines.md
