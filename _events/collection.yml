@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Sunflower Pre School Recruitment Fair.md
       - Upcoming Events/OneAviation Community Fair.md
       - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/.keep
