@@ -40,6 +40,5 @@ helping attendees navigate their own career paths with confidence.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/349_250322PRPGCareerMarketplace.jpg">
 </div>
 <p></p>
-<p>A big thank you to our valued partners for making this event possible.
-We hope the attendees found it meaningful and gained valuable insights
-and opportunities for their career journey.</p>
+<p>A big thank you to our valued partners for making this event possible!
+We hope it has been a meaningful and insightful experience for all attendees.</p>
