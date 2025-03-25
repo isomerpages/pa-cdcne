@@ -46,11 +46,21 @@ Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
 <p></p>
 <p><strong>24 April @ Pasir Ris CC</strong>
 </p>
-<p>Discover exciting roles with leading companies like dnata, DHL, SingHealth,
-Econ Healthcare, and more! Positions from healthcare assistants and logistics
-coordinators to social workers and aviation staff are available.</p>
+<p>Discover a wide range of job opportunities, including roles in healthcare,
+social services, logistics, customer service, hospitality, and even the
+aviation industry!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
 </div>
 <p></p>
+<p><strong>29 April @ Buangkok CC</strong>
+</p>
+<p>SATS is hiring Customer Service Agents and Customer Service Officers with
+no experience needed! If you enjoy meeting new people and creating memorable
+experiences, this could be the perfect role for you.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm29Apr2025.jpg">
+</div>
 <p></p>
+<p>We hope these opportunities bring you one step closer to your next dream
+job.</p>
