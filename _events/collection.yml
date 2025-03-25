@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Walk In Interview @ Pasir Ris.md
+      - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/.keep
       - Past Events/Job Fair with ISS.md
       - Past Events/North East Countdown 2024.md
