@@ -5,7 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<p></p>
+<p>Looking for a career in aerospace and aviation? The <strong>OneAviation Community Fair</strong> is
+the place to connect with hiring companies offering roles in technical,
+operations, and corporate fields. Drop by <strong>Our Tampines Hub, Central Plaza on 3 April 2025</strong> for
+walk-in interviews and connect with industry professionals!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OneAviation_Community_Fair_.png">
 </div>
