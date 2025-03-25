@@ -6,9 +6,9 @@ description: ""
 third_nav_title: Upcoming Events
 ---
 <p>Looking for a job or a career switch? Here's a series of walk-in interviews
-happening all around North East this April.</p>
-<p>Don’t miss this chance to connect with employers, explore new opportunities,
-and take the next step in your career!</p>
+happening all around North East this April. Don’t miss this chance to connect
+with employers, explore new opportunities, and take the next step in your
+career!</p>
 <p></p>
 <p><strong>1st April @ Pasir Ris Elias CC</strong>
 </p>
