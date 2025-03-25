@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/OneAviation Community Fair.md
       - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/.keep
       - Past Events/Job Fair with ISS.md
