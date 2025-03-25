@@ -19,7 +19,7 @@ hospitality, security, healthcare, and more!</p>
 </div>
 <p></p>
 <p></p>
-<p><strong>10 April @ Sengkang CC</strong>
+<p><strong>10th April @ Sengkang CC</strong>
 </p>
 <p>Top employers are hiring for security, logistics, education, engineering,
 F&amp;B, and transport roles with full-time and part-time positions available!</p>
@@ -27,7 +27,7 @@ F&amp;B, and transport roles with full-time and part-time positions available!</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_10Apr2025_SengkangCC_latest.jpg">
 </div>
 <p></p>
-<p><strong>15 April @ Tampines East CC</strong>
+<p><strong>15th April @ Tampines East CC</strong>
 </p>
 <p>ST Engineering is hiring Trainee Aircraft Technicians with no experience
 required! Simply just drop by for an interview and take your first step
@@ -36,7 +36,7 @@ towards a career in the aviation industry.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_Engr_Commercial_latest_17Mar2025_page_0001.jpg">
 </div>
 <p></p>
-<p><strong>17 April @ Paya Lebar Kovan CC</strong>
+<p><strong>17th April @ Paya Lebar Kovan CC</strong>
 </p>
 <p>Join SATS Aviation and be part of Changi Airport’s leading solutions provider.
 Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
@@ -44,7 +44,7 @@ Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_Apr_Paya_Lebar_Kovan_CC_eDM.jpg">
 </div>
 <p></p>
-<p><strong>24 April @ Pasir Ris CC</strong>
+<p><strong>24th April @ Pasir Ris CC</strong>
 </p>
 <p>Discover a wide range of job opportunities, including roles in healthcare,
 social services, logistics, customer service, hospitality, and even the
@@ -53,7 +53,7 @@ aviation industry!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
 </div>
 <p></p>
-<p><strong>29 April @ Buangkok CC</strong>
+<p><strong>29th April @ Buangkok CC</strong>
 </p>
 <p>SATS is hiring Customer Service Agents and Customer Service Officers with
 no experience needed! If you enjoy meeting new people and creating memorable
