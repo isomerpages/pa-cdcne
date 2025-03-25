@@ -44,7 +44,13 @@ Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_Apr_Paya_Lebar_Kovan_CC_eDM.jpg">
 </div>
 <p></p>
-<p>24 April @</p>
-<p></p>
+<p><strong>24 April @ Pasir Ris CC</strong>
+</p>
+<p>Discover exciting roles with leading companies like dnata, DHL, SingHealth,
+Econ Healthcare, and more! Positions from healthcare assistants and logistics
+coordinators to social workers and aviation staff are available.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
+</div>
 <p></p>
 <p></p>
