@@ -62,5 +62,5 @@ experiences, this could be the perfect role for you.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm29Apr2025.jpg">
 </div>
 <p></p>
-<p>We hope these opportunities bring you one step closer to your next dream
-job. Take the next step with confidence and good luck!</p>
+<p>We hope these opportunities will bring you one step closer to your next
+dream job. Take the next step with confidence and good luck!</p>
