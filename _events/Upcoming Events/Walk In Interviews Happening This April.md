@@ -63,4 +63,4 @@ experiences, this could be the perfect role for you.</p>
 </div>
 <p></p>
 <p>We hope these opportunities bring you one step closer to your next dream
-job.</p>
+job. Take the next step with confidence and good luck!</p>
