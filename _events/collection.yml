@@ -2,12 +2,12 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Early Childhood Career Fair.md
       - Upcoming Events/.keep
       - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/OneAviation Community Fair.md
       - Upcoming Events/Sunflower Pre School Recruitment Fair.md
       - Upcoming Events/Career Success Job Fair.md
+      - Upcoming Events/Early Childhood Career Fair.md
       - Past Events/Pasir Ris Punggol Career Marketplace.md
       - Past Events/Job Fair with ISS.md
       - Past Events/North East Countdown 2024.md
