@@ -10,15 +10,6 @@ happening all around North East this April. Don’t miss this chance to connect
 with employers, explore new opportunities, and take the next step in your
 career!</p>
 <p></p>
-<p><strong>1st April @ Pasir Ris Elias CC</strong>
-</p>
-<p>Explore exciting career opportunities in aerospace, logistics, retail,
-hospitality, security, healthcare, and more!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walk_in_interview_1Apr_2025_PS.jpg">
-</div>
-<p></p>
-<p></p>
 <p><strong>10th April @ Sengkang CC</strong>
 </p>
 <p>Top employers are hiring for security, logistics, education, engineering,
@@ -64,3 +55,13 @@ experiences, this could be the perfect role for you.</p>
 <p></p>
 <p>We hope these opportunities will bring you one step closer to your next
 dream job. Take the next step with confidence and good luck!</p>
+<p><strong><em>[Completed]</em></strong>
+</p>
+<p><strong>1st April @ Pasir Ris Elias CC</strong>
+</p>
+<p>Explore exciting career opportunities in aerospace, logistics, retail,
+hospitality, security, healthcare, and more!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walk_in_interview_1Apr_2025_PS.jpg">
+</div>
+<p></p>
