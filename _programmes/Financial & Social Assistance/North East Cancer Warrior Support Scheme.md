@@ -3,6 +3,7 @@ title: North East Cancer Warrior Support Scheme
 permalink: /programmes/financial-and-social-assistance/cwss/
 description: ""
 third_nav_title: Financial & Social Assistance
+variant: markdown
 ---
 ![](/images/cwss%202023.png)
 
@@ -26,4 +27,5 @@ The scheme will also provide **up to $10,000 in financial assistance**, should e
 1.	Complete the [Online Form](https://form.gov.sg/641ae50b868d810012bb1188) and upload relevant supporting documents. You may submit additional documents to [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).
 If you have any further queries, you may email us at [Northeast_CDC@pa.gov.sg](Northeast_CDC@pa.gov.sg).
 
-*Please note that North East CDC will not collect any upfront payment from applicants to our scheme. If you received any suspicious message - please alert at NortheastCDC@pa.gov.sg*
+*Please note that North East CDC will not collect any upfront payment from applicants to our scheme. If you received any suspicious message - please alert at Northeast_CDC@pa.gov.sg*
+
