@@ -10,32 +10,6 @@ happening all around North East this April. Don’t miss this chance to connect
 with employers, explore new opportunities, and take the next step in your
 career!</p>
 <p></p>
-<p><strong>1st April @ Pasir Ris Elias CC</strong>
-</p>
-<p>Explore exciting career opportunities in aerospace, logistics, retail,
-hospitality, security, healthcare, and more!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walk_in_interview_1Apr_2025_PS.jpg">
-</div>
-<p></p>
-<p></p>
-<p><strong>10th April @ Sengkang CC</strong>
-</p>
-<p>Top employers are hiring for security, logistics, education, engineering,
-F&amp;B, and transport roles with full-time and part-time positions available!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_10Apr2025_SengkangCC_latest.jpg">
-</div>
-<p></p>
-<p><strong>15th April @ Tampines East CC</strong>
-</p>
-<p>ST Engineering is hiring Trainee Aircraft Technicians with no experience
-required! Simply just drop by for an interview and take your first step
-towards a career in the aviation industry.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_Engr_Commercial_latest_17Mar2025_page_0001.jpg">
-</div>
-<p></p>
 <p><strong>17th April @ Paya Lebar Kovan CC</strong>
 </p>
 <p>Join SATS Aviation and be part of Changi Airport’s leading solutions provider.
@@ -64,3 +38,30 @@ experiences, this could be the perfect role for you.</p>
 <p></p>
 <p>We hope these opportunities will bring you one step closer to your next
 dream job. Take the next step with confidence and good luck!</p>
+<p><strong><em>[Past Walk-In Interviews]</em></strong>
+</p>
+<p><strong>1st April @ Pasir Ris Elias CC</strong>
+</p>
+<p>Explore exciting career opportunities in aerospace, logistics, retail,
+hospitality, security, healthcare, and more!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/walk_in_interview_1Apr_2025_PS.jpg">
+</div>
+<p></p>
+<p><strong>10th April @ Sengkang CC</strong>
+</p>
+<p>Top employers are hiring for security, logistics, education, engineering,
+F&amp;B, and transport roles with full-time and part-time positions available!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_10Apr2025_SengkangCC_latest.jpg">
+</div>
+<p></p>
+<p><strong>15th April @ Tampines East CC</strong>
+</p>
+<p>ST Engineering is hiring Trainee Aircraft Technicians with no experience
+required! Simply just drop by for an interview and take your first step
+towards a career in the aviation industry.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_Engr_Commercial_latest_17Mar2025_page_0001.jpg">
+</div>
+<p></p>

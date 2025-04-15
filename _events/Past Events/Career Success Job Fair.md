@@ -3,7 +3,7 @@ title: Career Success Job Fair
 permalink: /career-success-job-fair/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p><strong>Opportunities are waiting for you!</strong> The Career Success
 Job Fair @ Kaki Bukit is happening on <strong>12th April 2025</strong>,

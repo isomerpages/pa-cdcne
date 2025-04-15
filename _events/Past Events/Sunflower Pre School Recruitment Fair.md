@@ -3,7 +3,7 @@ title: Sunflower Pre School Recruitment Fair
 permalink: /sunflower-pre-school-recruitment-fair/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p>Passionate about nurturing young minds? Sunflower Preschool is hiring!
 Visit the <strong>Sunflower Preschool Recruitment Fair</strong> happening

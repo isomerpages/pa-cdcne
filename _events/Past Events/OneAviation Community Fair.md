@@ -3,7 +3,7 @@ title: OneAviation Community Fair
 permalink: /oneaviation-community-fair/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p>Ready to take off in the aerospace and aviation industry? The <strong>OneAviation Community Fair</strong> is
 the place to connect with hiring companies offering roles in technical,
