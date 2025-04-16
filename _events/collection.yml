@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Start Your Career In Avaition.md
       - Upcoming Events/.keep
       - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/Early Childhood Career Fair.md
