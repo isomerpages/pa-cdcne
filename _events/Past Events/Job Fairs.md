@@ -6,6 +6,14 @@ description: ""
 third_nav_title: Past Events
 ---
 <p></p>
+<h3>Sunflower Preschool Recruitment Fair</h3>
+<p>Passionate about nurturing young minds? Sunflower Preschool is hiring!
+Visit the <strong>Sunflower Preschool Recruitment Fair</strong> happening
+on <strong>5th April 2025</strong> at <strong>Tampines East Community Club</strong> to
+explore job opportunities and connect with the team!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunflower_Pre_school_Recruitment_Fair.png">
+</div>
 <h3>OneAviation Community Fair</h3>
 <p>Ready to take off in the aerospace and aviation industry? The <strong>OneAviation Community Fair</strong> is
 the place to connect with hiring companies offering roles in technical,
