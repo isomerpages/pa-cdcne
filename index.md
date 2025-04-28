@@ -4,7 +4,9 @@ title: North East CDC
 description: Official website of North East Community Development Council (NE CDC)
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "-\tGovernment officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam."
 sections:
   - hero:
       dropdown:
