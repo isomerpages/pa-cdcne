@@ -27,7 +27,7 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
-      title: Fundraising 2025
+      title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
       description: Donate to provide milk formula, diapers, and transportation relief
         for families in need.
