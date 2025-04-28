@@ -27,6 +27,15 @@ sections:
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
   - infopic:
+      title: Fundraising 2025
+      id: infopic
+      description: Donate to provide milk formula, diapers, and transportation relief
+        for families in need.
+      button: Find out more
+      url: https://go.gov.sg/northeastcare
+      image: /images/fundraising_kv.png
+      alt: Image alt text
+  - infopic:
       title: CDC Vouchers Scheme 2025 (January)
       id: infopic
       description: $300 CDC Vouchers 2025 (January) for every Singaporean household to
