@@ -42,7 +42,7 @@ that homes became more comfortable and inviting.</p>
 <p></p>
 <p>The day’s true impact came from the genuine connections formed between
 volunteers and the community, reminding us how compassion has the power
-to bring people together and lift spirits.</p>
+to bring people together.</p>
 <p></p>
 <p></p>
 <p></p>
