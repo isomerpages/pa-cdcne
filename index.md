@@ -33,7 +33,7 @@ sections:
         for families in need.
       button: Find out more
       url: https://go.gov.sg/northeastcare
-      image: /images/fundraising_kv.png
+      image: /images/fundraising_website.jpg
       alt: Image alt text
   - infopic:
       title: CDC Vouchers Scheme 2025 (January)
