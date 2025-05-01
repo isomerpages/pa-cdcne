@@ -4,7 +4,9 @@ title: North East CDC
 description: Official website of North East Community Development Council (NE CDC)
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       dropdown:
@@ -26,6 +28,15 @@ sections:
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
       background: /images/Homepage/Hero Image.jpg
       title: Building a caring and inclusive community
+  - infopic:
+      title: "Fundraising 2025: Step Up For Brighter Smiles!"
+      id: infopic
+      description: Donate to provide milk formula, diapers, and transportation relief
+        for families in need.
+      button: Find out more
+      url: https://go.gov.sg/northeastcare
+      image: /images/fundraising_website.jpg
+      alt: Image alt text
   - infopic:
       title: CDC Vouchers Scheme 2025 (January)
       id: infopic

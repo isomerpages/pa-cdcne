@@ -9,24 +9,6 @@ third_nav_title: Upcoming Events
 happening all around North East this April. Don’t miss this chance to connect
 with employers, explore new opportunities, and take the next step in your
 career!</p>
-<p></p>
-<p><strong>17th April @ Paya Lebar Kovan CC</strong>
-</p>
-<p>Join SATS Aviation and be part of Changi Airport’s leading solutions provider.
-Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_Apr_Paya_Lebar_Kovan_CC_eDM.jpg">
-</div>
-<p></p>
-<p><strong>24th April @ Pasir Ris CC</strong>
-</p>
-<p>Discover a wide range of job opportunities, including roles in healthcare,
-social services, logistics, customer service, hospitality, and even the
-aviation industry!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
-</div>
-<p></p>
 <p><strong>29th April @ Buangkok CC</strong>
 </p>
 <p>SATS is hiring Customer Service Agents and Customer Service Officers with
@@ -64,4 +46,22 @@ towards a career in the aviation industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ST_Engr_Commercial_latest_17Mar2025_page_0001.jpg">
 </div>
+<p></p>
+<p><strong>17th April @ Paya Lebar Kovan CC</strong>
+</p>
+<p>Join SATS Aviation and be part of Changi Airport’s leading solutions provider.
+Enjoy competitive salaries, great benefits, and attractive joining bonuses!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_Apr_Paya_Lebar_Kovan_CC_eDM.jpg">
+</div>
+<p></p>
+<p><strong>24th April @ Pasir Ris CC</strong>
+</p>
+<p>Discover a wide range of job opportunities, including roles in healthcare,
+social services, logistics, customer service, hospitality, and even the
+aviation industry!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
+</div>
+<p></p>
 <p></p>
