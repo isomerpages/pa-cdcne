@@ -3,25 +3,13 @@ title: Walk In Interviews Happening This April
 permalink: /walk-in-interview-pasir-ris/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p>Looking for a job or a career switch? Here's a series of walk-in interviews
 happening all around North East this April. Don’t miss this chance to connect
 with employers, explore new opportunities, and take the next step in your
 career!</p>
-<p><strong>29th April @ Buangkok CC</strong>
-</p>
-<p>SATS is hiring Customer Service Agents and Customer Service Officers with
-no experience needed! If you enjoy meeting new people and creating memorable
-experiences, this could be the perfect role for you.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm29Apr2025.jpg">
-</div>
 <p></p>
-<p>We hope these opportunities will bring you one step closer to your next
-dream job. Take the next step with confidence and good luck!</p>
-<p><strong><em>[Past Walk-In Interviews]</em></strong>
-</p>
 <p><strong>1st April @ Pasir Ris Elias CC</strong>
 </p>
 <p>Explore exciting career opportunities in aerospace, logistics, retail,
@@ -64,4 +52,15 @@ aviation industry!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm_24Apr2025_new.jpg">
 </div>
 <p></p>
+<p><strong>29th April @ Buangkok CC</strong>
+</p>
+<p>SATS is hiring Customer Service Agents and Customer Service Officers with
+no experience needed! If you enjoy meeting new people and creating memorable
+experiences, this could be the perfect role for you.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edm29Apr2025.jpg">
+</div>
+<p></p>
+<p>We hope these opportunities will bring you one step closer to your next
+dream job. Take the next step with confidence and good luck!</p>
 <p></p>

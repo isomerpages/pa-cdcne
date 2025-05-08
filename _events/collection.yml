@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
-      - Upcoming Events/Walk In Interviews Happening This April.md
       - Upcoming Events/Early Childhood Career Fair.md
       - Upcoming Events/Start Your Career In Aviation.md
       - Upcoming Events/CSS Walk In Interview.md
+      - Past Events/Walk In Interviews Happening This April.md
       - Past Events/Project Refresh x Wellness On Wheels.md
       - Past Events/Arts Everywhere @ OTH.md
       - Past Events/Job Fairs 2025.md
