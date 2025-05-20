@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/UEMS Solutions Is Hiring!.md
       - Upcoming Events/.keep
       - Upcoming Events/CSS Walk In Interview.md
       - Past Events/Walk In Interviews Happening This April.md
