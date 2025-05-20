@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Arts Everywhere June 2025.md
       - Upcoming Events/.keep
       - Upcoming Events/CSS Walk In Interview.md
       - Upcoming Events/Walk In Interview with UEMS Solutions.md
