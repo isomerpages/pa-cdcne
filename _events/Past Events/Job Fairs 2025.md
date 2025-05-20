@@ -5,6 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Past Events
 ---
+<h3>Career in Aviation with dnata</h3>
+<p>Looking for a job in the aviation industry? dnata is now hiring for a
+variety of positions across cargo, ground handling, catering, and support
+functions. If you're passionate about providing excellent service and being
+at the frontline of operations, this could be the perfect opportunity for
+you. Scan the QR code and register today!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/dnata_15_May_2025.png">
+</div>
 <h3>Early Childhood Career Fair</h3>
 <p>Empower young minds while building a meaningful career! Join us at the<strong> e2i Early Childhood Career Fair</strong> on <strong>16–17 May 2025</strong> at <strong>One Punggol, Level 1, The Plaza</strong>.
 Connect with employers for on-site interviews, receive career guidance,
