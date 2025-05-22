@@ -27,7 +27,7 @@ sections:
             url: /programmes/employment-and-lifelong-learning/job-placement-centres
           - title: SkillsFuture Advice Workshops
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
-      background: /images/Homepage/Hero Image.jpg
+      background: /images/Landing_page_banner_3.png
       title: Building a caring and inclusive community
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
