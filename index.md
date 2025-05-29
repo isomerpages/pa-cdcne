@@ -10,29 +10,21 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      dropdown:
-        title: How can we help?
-        options:
-          - title: WeCare @ North East Fund
-            url: /programmes/financial-and-social-assistance/wecare-at-north-east
-          - title: North East Growth Fund
-            url: programmes/financial-and-social-assistance/north-east-growth-fund
-          - title: School Transport Subsidy
-            url: /programmes/financial-and-social-assistance/school-transport-subsidy
-          - title: Cancer Warrior Support
-            url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
-          - title: Dedicated Ambulance Service
-            url: programmes/financial-and-social-assistance/dedicated-north-east-ambulance-service
-          - title: Job Placement Centres
-            url: /programmes/employment-and-lifelong-learning/job-placement-centres
-          - title: SkillsFuture Advice Workshops
-            url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
-      background: /images/Building_A_Caring_and_Inclusive_District.png
-      title: Building a Caring and Inclusive District
-      variant: floating
+      background: /images/Building_A_Caring_and_Inclusive_District__1_.png
+      variant: image
       alignment: right
       size: sm
       backgroundColor: gray
+      key_highlights:
+        - title: Financial Assistance
+          description: ""
+          url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/wecare-at-north-east/
+        - title: employment support
+          description: ""
+          url: https://staging-lite.d2f0ulbwog6scu.amplifyapp.com/nexus-internship/
+        - title: Shaping Hearts
+          description: ""
+          url: https://shapinghearts.cdc.gov.sg/
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
