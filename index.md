@@ -11,7 +11,7 @@ notification: Government officials will never ask you to transfer money or
 sections:
   - hero:
       dropdown:
-        title: How can we assist you?
+        title: How can we help?
         options:
           - title: WeCare @ North East Fund
             url: /programmes/financial-and-social-assistance/wecare-at-north-east
@@ -28,7 +28,7 @@ sections:
           - title: SkillsFuture Advice Workshops
             url: /programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops
       background: /images/Building_A_Caring_and_Inclusive_District.png
-      title: Building a caring and inclusive community
+      title: Building a Caring and Inclusive District
       variant: floating
       alignment: right
       size: sm
