@@ -15,7 +15,6 @@ sections:
       alignment: right
       size: sm
       backgroundColor: gray
-      subtitle: ""
       key_highlights:
         - title: Financial Assistance
           description: ""
