@@ -10,7 +10,7 @@ notification: Government officials will never ask you to transfer money or
   href="https://www.scamshield.gov.sg/">Click here for more information</a>.
 sections:
   - hero:
-      background: /images/Building_A_Caring_and_Inclusive_District__1_.png
+      background: /images/Building_A_Caring_and_Inclusive_District.jpg
       variant: image
       alignment: right
       size: sm
