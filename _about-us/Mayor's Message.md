@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mayor_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mayor_website.jpg">
 </div>
 <p>Dear Residents of North East District,</p>
 <p>Warmest greetings to everyone!</p>
