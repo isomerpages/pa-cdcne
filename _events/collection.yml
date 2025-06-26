@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Upcoming Events/.keep
-      - Upcoming Events/Arts Everywhere June 2025.md
       - Past Events/Kindness Warrior 2025.md
       - Past Events/Walk In Interviews Happening This April.md
       - Past Events/Project Refresh x Wellness On Wheels.md
