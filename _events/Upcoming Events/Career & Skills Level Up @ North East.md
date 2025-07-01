@@ -140,4 +140,6 @@ you can use right away. <em>First 15 attendees per talk receive a free gift!</em
 <p>Build Your Future with WSQ City Farming</p>
 </li>
 </ul>
-<p>Sign up at:</p>
+<hr>
+<p><strong>Get Your Next Hire</strong>
+</p>
