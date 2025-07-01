@@ -104,4 +104,7 @@ posts stand out in today's crowded social media landscape.</p>
 </tr>
 </tbody>
 </table>
+<p><em>Certificate of Participation will be issued by the training provider to all attendees.</em>
+</p>
+<hr>
 <p></p>
