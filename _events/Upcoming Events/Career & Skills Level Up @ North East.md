@@ -31,6 +31,9 @@ be able to:</p>
 family care support</p>
 </li>
 </ul>
+<hr>
+<p><strong>Special Highlights:</strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -107,4 +110,32 @@ posts stand out in today's crowded social media landscape.</p>
 <p><em>Certificate of Participation will be issued by the training provider to all attendees.</em>
 </p>
 <hr>
-<p></p>
+<p><strong>Stage Programming (Level 1)</strong>
+</p>
+<p>Drop by our knowledge-packed sessions where industry leaders share their
+insights in bite-sized 30-45 minute talks. From future-ready skills to
+career wellness tips, these engaging speakers will share real-world advice
+you can use right away. <em>First 15 attendees per talk receive a free gift!</em>
+</p>
+<p>Topics include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Launch Your TikTok Side-Gig in a Week, Powered by AI</p>
+</li>
+<li>
+<p>Smart Resume Building – AI Edition</p>
+</li>
+<li>
+<p>Mental Wellness at the Workplace</p>
+</li>
+<li>
+<p>Scam Prevention</p>
+</li>
+<li>
+<p>Digital Career Pathways Possibilities</p>
+</li>
+<li>
+<p>Build Your Future with WSQ City Farming</p>
+</li>
+</ul>
+<p>Sign up at:</p>
