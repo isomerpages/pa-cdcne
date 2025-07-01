@@ -30,7 +30,79 @@ be able to:</p>
 <p>Learn about managing work-life balance, including mental wellness and
 family care support</p>
 <hr>
-<p></p>
 </li>
 </ul>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Activity</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time/Location</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>About</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sign-Up Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Professional Resume Makeover</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 - 16 Aug 2025, 10:00am - 12:00pm, 2:00pm - 5:00pm
+<br>(Level 1 - Atrium)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Get a professionally shot and AI-enhanced headshot for your LinkedIn profile,
+plus create a winning resume using proven templates that catch employers'
+attention.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masterclass by <em>OOM</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roll up your sleeves for hands-on workshops by industry experts and learn
+to master digital marketing and AI tools.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masterclass by <em>Vertical Institute</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Using the latest AI tools, you'll discover insider tricks to make your
+posts stand out in today's crowded social media landscape.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
