@@ -86,7 +86,8 @@ attention.</p>
 to master digital marketing and AI tools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025masterclass</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +103,8 @@ to master digital marketing and AI tools.</p>
 posts stand out in today's crowded social media landscape.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025masterclass</a>
+</p>
 </td>
 </tr>
 </tbody>
