@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Career Success Job Fair @ Hougang.md
       - Upcoming Events/Career & Skills Level Up @ North East.md
       - Upcoming Events/.keep
       - Past Events/Kindness Warrior 2025.md
