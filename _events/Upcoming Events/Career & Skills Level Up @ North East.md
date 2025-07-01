@@ -32,8 +32,6 @@ family care support</p>
 </li>
 </ul>
 <hr>
-<p><strong>Special Highlights:</strong>
-</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -70,7 +68,7 @@ plus create a winning resume using proven templates that catch employers'
 attention.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>No registration required.</p>
 </td>
 </tr>
 <tr>
@@ -141,5 +139,27 @@ you can use right away. <em>First 15 attendees per talk receive a free gift!</em
 </li>
 </ul>
 <hr>
-<p><strong>Get Your Next Hire</strong>
+<p><strong>Walk-In Interviews (Level 3 - Function Hall)</strong>
 </p>
+<p>Meet over 20 employers offering more than 2,500 job opportunities across
+healthcare, F&amp;B, aviation, logistics, and many other sectors. Leading
+companies like FairPrice Group, BreadTalk Group, and SATS are ready to
+hire! Whether you're looking for PMET positions or rank-and-file roles,
+full-time or flexible arrangements, we've got something for you.</p>
+<p>Take advantage of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Walk-in interviews with immediate hiring potential</p>
+</li>
+<li>
+<p>Free career coaching from Project Success and e2i experts</p>
+</li>
+<li>
+<p>Personalised advice to boost your job search</p>
+</li>
+</ul>
+<p>Sign up at: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025e2i</a>
+</p>
+<hr>
+<p>Register now at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025registration</a> and
+receive a welcome door gift on-site!</p>
