@@ -29,7 +29,6 @@ be able to:</p>
 <li>
 <p>Learn about managing work-life balance, including mental wellness and
 family care support</p>
-<hr>
 </li>
 </ul>
 <table style="minWidth: 100px">
