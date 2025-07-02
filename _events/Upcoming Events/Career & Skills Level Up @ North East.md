@@ -31,6 +31,8 @@ be able to:</p>
 family care support</p>
 </li>
 </ul>
+<p>Register now at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025registration</a> and
+receive a welcome door gift on-site!</p>
 <hr>
 <table style="minWidth: 100px">
 <colgroup>
@@ -160,6 +162,4 @@ full-time or flexible arrangements, we've got something for you.</p>
 </ul>
 <p>Sign up at: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025e2i</a>
 </p>
-<hr>
-<p>Register now at <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025registration</a> and
-receive a welcome door gift on-site!</p>
+<p></p>
