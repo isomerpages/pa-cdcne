@@ -33,6 +33,7 @@ sections:
       button: Button Text
       image: /images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg
       alt: Image alt text
+      url: https://northeast.cdc.gov.sg/careerskills-levelup/
   - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
