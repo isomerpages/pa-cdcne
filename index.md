@@ -26,6 +26,20 @@ sections:
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
+      title: North East Cancer Warrior Support Scheme
+      description: Ladies, take charge of your health and sign up for a free mammogram
+        screening today!
+      button: FIND OUT MORE
+      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
+      image: /images/cwss 2023.png
+      alt: Image alt text
+  - infobar:
+      title: Shaping Hearts
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
+  - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
       description: Donate to provide milk formula, diapers, and transportation relief
@@ -33,41 +47,6 @@ sections:
       button: Find out more
       url: https://go.gov.sg/northeastcare
       image: /images/fundraising_website.jpg
-      alt: Image alt text
-  - infopic:
-      title: CDC Vouchers Scheme 2025 (May)
-      id: infopic
-      description: $500 CDC Vouchers 2025 (May) for every Singaporean household to
-        help with daily expenses.
-      button: FIND OUT MORE
-      url: https://vouchers.cdc.gov.sg/about/
-      image: /images/Landing_page_banner_3.png
-      alt: Image alt text
-  - infopic:
-      title: TampinesCaresGoWhere
-      id: infopic
-      description: NECDC and SingHealth launched Singapore’s first town-specific
-        one-stop access platform for aggregated healthcare, community and
-        government services.
-      button: Find out more
-      alt: Image alt text
-      url: https://www.gowhere.gov.sg/tampinescares/
-      image: /images/TampinesCares1.png
-  - infopic:
-      title: School Transport Assistance and Relief Scheme (STARS)
-      description: Financial assistance for students to pursue their academic journey
-        without the burden of transportation expenses.
-      button: Find out more
-      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/stars/
-      image: /images/stars scheme.png
-      alt: Image alt text
-  - infopic:
-      title: North East Cancer Warrior Support Scheme
-      description: Ladies, take charge of your health and sign up for a free mammogram
-        screening today!
-      button: FIND OUT MORE
-      url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
-      image: /images/cwss 2023.png
       alt: Image alt text
   - infopic:
       title: Support @ North East
