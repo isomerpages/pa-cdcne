@@ -25,18 +25,6 @@ sections:
         - title: Shaping Hearts
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
-  - infobar:
-      title: SFF
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: SG60v
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
