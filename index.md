@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Join us for an exciting two-day event at Sengkang Grand Mall that
         brings together job opportunities, skills training, and career support!
-      button: Button Text
+      button: FIND OUT MORE
       image: /images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/careerskills-levelup/
