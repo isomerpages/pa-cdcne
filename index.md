@@ -27,7 +27,6 @@ sections:
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
       title: Career & Skills Level Up @ North East 2025
-      subtitle: Add an image and text
       id: infopic
       description: Join us for an exciting two-day event at Sengkang Grand Mall that
         brings together job opportunities, skills training, and career support!
