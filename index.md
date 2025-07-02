@@ -26,6 +26,15 @@ sections:
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
+      title: Career & Skills Level Up @ North East 2025
+      subtitle: Add an image and text
+      id: infopic
+      description: Join us for an exciting two-day event at Sengkang Grand Mall that
+        brings together job opportunities, skills training, and career support!
+      button: Button Text
+      image: /images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
         screening today!
@@ -33,12 +42,6 @@ sections:
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
       image: /images/cwss 2023.png
       alt: Image alt text
-  - infobar:
-      title: Shaping Hearts
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
