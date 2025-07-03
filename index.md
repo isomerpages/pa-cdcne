@@ -43,6 +43,7 @@ sections:
       button: Find out more
       url: https://vouchers.sg60.gov.sg/
       image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard.jpg
+      alt: Image alt text
   - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
@@ -60,6 +61,7 @@ sections:
       button: Find out more
       url: https://shapinghearts.cdc.gov.sg/art-exhibition/
       image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard__1_.jpg
+      alt: Image alt text
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
