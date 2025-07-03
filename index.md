@@ -41,7 +41,6 @@ sections:
         $600 in SG60 Vouchers and SC seniors aged 60 and above in 2025 will
         receive $200 more!
       button: Find out more
-      alt: Image alt text
       url: https://vouchers.sg60.gov.sg/
       image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard.jpg
   - infopic:
