@@ -35,6 +35,13 @@ sections:
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/careerskills-levelup/
   - infopic:
+      title: SG60v
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
         screening today!
