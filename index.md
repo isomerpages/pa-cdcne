@@ -30,9 +30,19 @@ sections:
       id: infopic
       description: Join us for an exciting two-day event at Sengkang Grand Mall that
         brings together job opportunities, skills training, and career support!
-      button: Button Text
+      button: FIND OUT MORE
       image: /images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg
       alt: Image alt text
+      url: https://northeast.cdc.gov.sg/careerskills-levelup/
+  - infopic:
+      title: SG60 Vouchers
+      id: infopic
+      description: All Singapore Citizens (SCs) aged 21 and above in 2025 will receive
+        $600 in SG60 Vouchers and SC seniors aged 60 and above in 2025 will
+        receive $200 more!
+      button: Find out more
+      url: https://vouchers.sg60.gov.sg/
+      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard.jpg
   - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
@@ -41,6 +51,15 @@ sections:
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
       image: /images/cwss 2023.png
       alt: Image alt text
+  - infopic:
+      title: "Art Beyond Limits: Shaping Hearts 2025"
+      id: infopic
+      description: Experience art beyond limits with Shaping Hearts this year,
+        showcasing over 700 paintings around Singapore. More exhibitions are
+        coming your way.
+      button: Find out more
+      url: https://shapinghearts.cdc.gov.sg/art-exhibition/
+      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard__1_.jpg
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
