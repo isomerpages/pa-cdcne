@@ -35,12 +35,15 @@ sections:
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/careerskills-levelup/
   - infopic:
-      title: SG60v
-      subtitle: Add an image and text
+      title: SG60 Vouchers
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: All Singapore Citizens (SCs) aged 21 and above in 2025 will receive
+        $600 in SG60 Vouchers and SC seniors aged 60 and above in 2025 will
+        receive $200 more!
+      button: Find out more
       alt: Image alt text
+      url: https://vouchers.sg60.gov.sg/
+      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard.jpg
   - infopic:
       title: North East Cancer Warrior Support Scheme
       description: Ladies, take charge of your health and sign up for a free mammogram
