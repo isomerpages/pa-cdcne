@@ -52,6 +52,15 @@ sections:
       image: /images/cwss 2023.png
       alt: Image alt text
   - infopic:
+      title: "Art Beyond Limits: Shaping Hearts 2025"
+      id: infopic
+      description: Experience art beyond limits with Shaping Hearts this year,
+        showcasing over 700 paintings around Singapore. More exhibitions are
+        coming your way!
+      button: Find out more
+      url: https://shapinghearts.cdc.gov.sg/art-exhibition/
+      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard__1_.jpg
+  - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
       id: infopic
       description: Donate to provide milk formula, diapers, and transportation relief
