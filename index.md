@@ -56,7 +56,7 @@ sections:
       id: infopic
       description: Experience art beyond limits with Shaping Hearts this year,
         showcasing over 700 paintings around Singapore. More exhibitions are
-        coming your way!
+        coming your way.
       button: Find out more
       url: https://shapinghearts.cdc.gov.sg/art-exhibition/
       image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard__1_.jpg
