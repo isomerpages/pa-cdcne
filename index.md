@@ -42,7 +42,7 @@ sections:
         receive $200 more!
       button: Find out more
       url: https://vouchers.sg60.gov.sg/
-      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard.jpg
+      image: /images/SG60_Artwork_Hero_Image_Adapted.png
       alt: Image alt text
   - infopic:
       title: North East Cancer Warrior Support Scheme
@@ -60,7 +60,7 @@ sections:
         coming your way.
       button: Find out more
       url: https://shapinghearts.cdc.gov.sg/art-exhibition/
-      image: /images/Black_and_White_Minimalist_Photo_Collage_Graduation_Postcard__1_.jpg
+      image: /images/sh.png
       alt: Image alt text
   - infopic:
       title: "Fundraising 2025: Step Up For Brighter Smiles!"
