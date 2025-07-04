@@ -31,7 +31,7 @@ be able to:</p>
 family care support</p>
 </li>
 </ul>
-<p>Register now at https://<a href="https://go.gov.sg/nesff2025registration" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025registration</a> and
+<p>Register now at <a href="https://go.gov.sg/nesff2025registration" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025registration</u></a> and
 receive a welcome door gift on-site!</p>
 <hr>
 <table style="minWidth: 100px">
@@ -86,7 +86,7 @@ attention.</p>
 to master digital marketing and AI tools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025masterclass</a>
+<p><a href="https://go.gov.sg/nesff2025masterclass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
 </p>
 </td>
 </tr>
@@ -103,7 +103,7 @@ to master digital marketing and AI tools.</p>
 posts stand out in today's crowded social media landscape.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025masterclass</a>
+<p><a href="https://go.gov.sg/nesff2025masterclass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
 </p>
 </td>
 </tr>
@@ -160,6 +160,6 @@ full-time or flexible arrangements, we've got something for you.</p>
 <p>Personalised advice to boost your job search</p>
 </li>
 </ul>
-<p>Sign up at: https://<a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/nesff2025e2i</a>
+<p>Sign up at: <a href="https://go.gov.sg/nesff2025e2i" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025e2i</a>
 </p>
 <p></p>
