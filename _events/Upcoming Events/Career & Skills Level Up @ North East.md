@@ -75,28 +75,11 @@ attention.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Masterclass by <em>OOM</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Roll up your sleeves for hands-on workshops by industry experts and learn
-to master digital marketing and AI tools.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/nesff2025masterclass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Masterclass by <em>Vertical Institute</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
+<p>15 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Using the latest AI tools, you'll discover insider tricks to make your
@@ -107,9 +90,26 @@ posts stand out in today's crowded social media landscape.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Masterclass by <em>OOM Institute</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Aug 2025, 10:00am - 12:30pm (Level 2 - Seminar Room)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Roll up your sleeves for hands-on workshops by industry experts and learn
+to master digital marketing and AI tools.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/nesff2025masterclass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><em>Certificate of Participation will be issued by the training provider to all attendees.</em>
+<p><em>Certificate of Participation will be issued by the training provider to all Masterclass attendees.</em>
 </p>
 <hr>
 <p><strong>Stage Programming (Level 1)</strong>
@@ -128,7 +128,7 @@ you can use right away. <em>First 15 attendees per talk receive a free gift!</em
 <p>Smart Resume Building – AI Edition</p>
 </li>
 <li>
-<p>Mental Wellness at the Workplace</p>
+<p>Building Positive Relationships in the Workplace</p>
 </li>
 <li>
 <p>Scam Prevention</p>
@@ -137,7 +137,11 @@ you can use right away. <em>First 15 attendees per talk receive a free gift!</em
 <p>Digital Career Pathways Possibilities</p>
 </li>
 <li>
-<p>Build Your Future with WSQ City Farming</p>
+<p>From Seeds to Skills:&nbsp;Build Your Future with WSQ City Farming</p>
+</li>
+<li>
+<p>The Importance of Advance Care Planning (ACP), Lasting Power of Attorney
+(LPA) and Will Writing</p>
 </li>
 </ul>
 <hr>
@@ -154,7 +158,7 @@ full-time or flexible arrangements, we've got something for you.</p>
 <p>Walk-in interviews with immediate hiring potential</p>
 </li>
 <li>
-<p>Free career coaching from Project Success and e2i experts</p>
+<p>Free career coaching from e2i experts</p>
 </li>
 <li>
 <p>Personalised advice to boost your job search</p>
