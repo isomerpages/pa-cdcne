@@ -37,7 +37,7 @@ receive a welcome door gift on-site!</p>
 <p><strong>Skills and Care Zones (Level 1)</strong>
 </p>
 <p>Explore SkillsFuture courses in Digital, Care, and Green sectors from
-10+ training partners, plus live drone and 3D printing demos.Get guidance
+10+ training partners, plus live drone and 3D printing demos. Get guidance
 on mental health, work-life balance, legal planning, and financial aid
 to support your learning and career journey.</p>
 <p></p>
@@ -108,7 +108,7 @@ you can use right away.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Masterclass by</strong>&nbsp;<em>OOm Institute </em><strong>“Generative AI Workshop”</strong>
+<p><strong>*Masterclass by</strong>&nbsp;<em>OOm Institute </em><strong>“Generative AI Workshop”</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,13 +122,13 @@ to master AI tools.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OOm_Institute_Masterclass_QR_Code.png">
 </div>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025masterclass2</a>
+<p><a href="https://form.gov.sg/686c8fe95f6c964e59a6007e" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025masterclass2</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Masterclass </strong>by&nbsp;<em>Vertical Institute </em><strong>“Content That Clicks: Create Scroll-Stopping Posts That Get Seen and Shared”</strong>
+<p><strong>*Masterclass </strong>by&nbsp;<em>Vertical Institute </em><strong>“Content That Clicks: Create Scroll-Stopping Posts That Get Seen and Shared”</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -155,7 +155,7 @@ posts stand out in today's crowded social media landscape.</p>
 <p>15 - 16 Aug 2025, 10:00am - 12:00pm, 2:00pm - 5:00pm (Level 1 - Atrium)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Get a professionally shot and AI-enhanced headshot for your LinkedIn profile,
+<p>Get a professional headshot with AI-enhancement for your LinkedIn profile,
 plus create a winning resume using proven templates that catch employers'
 attention.</p>
 </td>
