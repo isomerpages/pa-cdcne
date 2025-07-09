@@ -76,7 +76,7 @@ full-time or flexible arrangements, we've got something for you.</p>
 insights in bite-sized 30-45 minute talks. From future-ready skills to
 career wellness tips, these engaging speakers will share real-world advice
 you can use right away.&nbsp;</p>
-<p><em>* First 15 attendees per talk receive a free gif</em>
+<p><em>* First 15 attendees per talk receive a free gift</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images_for_Landing_Page_04.jpg">
@@ -155,7 +155,7 @@ posts stand out in today's crowded social media landscape.</p>
 <p>15 - 16 Aug 2025, 10:00am - 12:00pm, 2:00pm - 5:00pm (Level 1 - Atrium)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>et a professionally shot and AI-enhanced headshot for your LinkedIn profile,
+<p>Get a professionally shot and AI-enhanced headshot for your LinkedIn profile,
 plus create a winning resume using proven templates that catch employers'
 attention.</p>
 </td>
