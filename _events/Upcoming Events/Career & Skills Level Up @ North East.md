@@ -7,15 +7,15 @@ third_nav_title: Upcoming Events
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images_for_Landing_Page_01.jpg">
 </div>
 <p>Join us for an exciting two-day event at Sengkang Grand Mall that brings
 together job opportunities, skills training, and career support - all under
-one roof! This year's theme "Level Up For Life" reminds us that growing
-in our careers is a lifelong journey.</p>
-<p>Whether you're looking for a new job, wanting to learn new skills, or
-seeking guidance for your career journey, we've got you covered. You will
-be able to:</p>
+one roof!</p>
+<p>This year's theme "Level Up For Life" reminds us that growing in our careers
+is a lifelong journey. Whether you're looking for a new job, wanting to
+learn new skills, or seeking guidance for your career journey, we've got
+you covered. You will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Discover courses and training opportunities in growing industries</p>
@@ -30,9 +30,16 @@ be able to:</p>
 <p>Learn about managing work-life balance, including mental wellness and
 family care support</p>
 </li>
+<li>
+<p>Personalised advice to boost your job search</p>
+</li>
 </ul>
-<p>Register now at <a href="https://go.gov.sg/nesff2025registration" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025registration</u></a> and
-receive a welcome door gift on-site!</p>
+<p>Sign up at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025e2i</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images_for_Landing_Page_03.jpg">
+</div>
 <hr>
 <table style="minWidth: 100px">
 <colgroup>
@@ -166,4 +173,3 @@ full-time or flexible arrangements, we've got something for you.</p>
 </ul>
 <p>Sign up at: <a href="https://go.gov.sg/nesff2025e2i" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025e2i</a>
 </p>
-<p></p>
