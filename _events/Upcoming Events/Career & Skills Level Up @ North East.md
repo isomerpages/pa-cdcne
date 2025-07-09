@@ -31,7 +31,7 @@ you covered. You will be able to:</p>
 family care support</p>
 </li>
 </ul>
-<p>Register now at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025registration</a>&nbsp;and
+<p>Register now at&nbsp;<a href="https://form.gov.sg/684bff8ebd10300a2552ea0c" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025registration</a>&nbsp;and
 receive a welcome door gift on-site!</p>
 <hr>
 <p><strong>Skills and Care Zones (Level 1)</strong>
@@ -64,7 +64,7 @@ full-time or flexible arrangements, we've got something for you.</p>
 <p>Personalised advice to boost your job search</p>
 </li>
 </ul>
-<p>Sign up at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025e2i</a>
+<p>Sign up at:&nbsp;<a href="https://event.e2i.com.sg/view-event/career-skills-level-up-at-north-east-main-page" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025e2i</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images_for_Landing_Page_03.jpg">
@@ -76,7 +76,7 @@ full-time or flexible arrangements, we've got something for you.</p>
 insights in bite-sized 30-45 minute talks. From future-ready skills to
 career wellness tips, these engaging speakers will share real-world advice
 you can use right away.&nbsp;</p>
-<p><em>* First 15 attendees per talk receive a free gif</em>
+<p><em>* First 15 attendees per talk receive a free gift</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Images_for_Landing_Page_04.jpg">
@@ -142,7 +142,7 @@ posts stand out in today's crowded social media landscape.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vertical_Institute_Masterclass_QR_Code.png">
 </div>
-<p><a href="https://go.gov.sg/nesff2025masterclass" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
+<p><a href="https://form.gov.sg/68557094a940965af0073068" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
 </p>
 </td>
 </tr>
@@ -155,7 +155,7 @@ posts stand out in today's crowded social media landscape.</p>
 <p>15 - 16 Aug 2025, 10:00am - 12:00pm, 2:00pm - 5:00pm (Level 1 - Atrium)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>et a professionally shot and AI-enhanced headshot for your LinkedIn profile,
+<p>Get a professionally shot and AI-enhanced headshot for your LinkedIn profile,
 plus create a winning resume using proven templates that catch employers'
 attention.</p>
 </td>
