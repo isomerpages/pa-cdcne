@@ -128,7 +128,7 @@ to master AI tools.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>*Masterclass </strong>by&nbsp;<em>Vertical Institute </em><strong>“Content That Clicks: Create Scroll-Stopping Posts That Get Seen and Shared”</strong>
+<p><strong>*Masterclass </strong>by&nbsp;<em>Vertical Institute </em><strong>“Create Scroll-Stopping Social Media Posts with Gen AI”</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
