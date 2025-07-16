@@ -6,16 +6,17 @@ third_nav_title: Financial & Social Assistance
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cwss%202023.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CWSS.png">
 </div>
+<p>Breast cancer is the most common cancer amongst women in Singapore, and
+early detection can help save lives.</p>
 <p>North East Cancer Warrior Support Scheme aims at providing peace-of-mind
 assurance, financial assistance and support to women diagnosed with breast
 cancer.</p>
-<p>In collaboration with SingHealth and the Health Promotion Board’s Screen
-for Life programme, the scheme provides mammogram screening at no cost
-for eligible women in the North East district. North East CDC hopes to
-encourage Singaporeans to take proactive measures towards their health
-while promoting the benefits of early detection.</p>
+<p>In collaboration with SingHealth and Health Promotion Board, the scheme
+provides mammogram screening at no cost for eligible women in the North
+East district. North East CDC hopes to encourage Singaporeans to take proactive
+measures towards their health while promoting the benefits of early detection.</p>
 <p>The scheme will also provide <strong>up to $10,000 in financial assistance</strong>,
 should eligible beneficiaries receive a positive diagnosis of breast cancer
 following the mammogram screening that was completed through the NECDC
@@ -37,7 +38,8 @@ to support beneficiaries with their cost-of-living concerns.</p>
 <p>Singaporean Citizen residing in the North East District</p>
 </li>
 <li>
-<p>Per Capita Income (PCI) $1,500 and below OR a Blue CHAS Card Holder</p>
+<p>Per Capita Income (PCI) $2,300 and below, or a Blue or <strong><em>NEW!</em></strong> Orange
+CHAS Cardholder</p>
 </li>
 <li>
 <p>50 years old and above</p>
