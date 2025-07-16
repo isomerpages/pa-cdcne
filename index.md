@@ -50,7 +50,7 @@ sections:
         screening today!
       button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
-      image: /images/cwss 2023.png
+      image: /images/CWSS.png
       alt: Image alt text
   - infopic:
       title: "Art Beyond Limits: Shaping Hearts 2025"
