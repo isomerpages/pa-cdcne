@@ -38,7 +38,7 @@ to support beneficiaries with their cost-of-living concerns.</p>
 <p>Singaporean Citizen residing in the North East District</p>
 </li>
 <li>
-<p>Per Capita Income (PCI) $2,000 and below, or a Blue or <strong><em>NEW!</em></strong> Orange
+<p>Per Capita Income (PCI) $2,300 and below, or a Blue or <strong><em>NEW!</em></strong> Orange
 CHAS Cardholder</p>
 </li>
 <li>
