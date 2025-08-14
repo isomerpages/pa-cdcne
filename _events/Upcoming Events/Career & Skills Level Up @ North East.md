@@ -119,10 +119,7 @@ you can use right away.&nbsp;</p>
 to master AI tools.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OOm_Institute_Masterclass_QR_Code.png">
-</div>
-<p><a href="https://form.gov.sg/686c8fe95f6c964e59a6007e" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nesff2025masterclass2</a>
+<p><em>Registration is closed.</em>
 </p>
 </td>
 </tr>
@@ -139,10 +136,7 @@ to master AI tools.</p>
 posts stand out in today's crowded social media landscape.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Vertical_Institute_Masterclass_QR_Code.png">
-</div>
-<p><a href="https://form.gov.sg/68557094a940965af0073068" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/nesff2025masterclass</u></a>
+<p><em>Registration is closed.</em>
 </p>
 </td>
 </tr>
