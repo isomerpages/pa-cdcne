@@ -38,8 +38,8 @@ sections:
       title: Walking Trails@CDC
       id: infopic
       description: Complete all five specially curated trails, including the North
-        East Trail, and discover places of interest in your neighbourhood while
-        earning rewards!
+        East Trail to discover places of interest in your neighbourhood and earn
+        rewards!
       button: Find out more
       url: https://www.cdc.gov.sg/walking-trails-cdc/
       alt: Image alt text
