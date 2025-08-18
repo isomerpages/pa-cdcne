@@ -43,6 +43,7 @@ sections:
       button: Find out more
       url: https://www.cdc.gov.sg/walking-trails-cdc/
       alt: Image alt text
+      image: /images/Screenshot_2025_08_18_150812.png
   - infopic:
       title: SG60 Vouchers
       id: infopic
