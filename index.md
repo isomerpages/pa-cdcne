@@ -35,6 +35,15 @@ sections:
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/careerskills-levelup/
   - infopic:
+      title: Walking Trails@CDC
+      id: infopic
+      description: Complete all five specially curated trails, including the North
+        East Trail, and discover places of interest in your neighbourhood while
+        earning rewards!
+      button: Find out more
+      url: https://www.cdc.gov.sg/walking-trails-cdc/
+      alt: Image alt text
+  - infopic:
       title: SG60 Vouchers
       id: infopic
       description: All Singapore Citizens (SCs) aged 21 and above in 2025 will receive
