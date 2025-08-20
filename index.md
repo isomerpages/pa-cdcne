@@ -26,14 +26,24 @@ sections:
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
-      title: Career & Skills Level Up @ North East 2025
+      title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
-      description: Join us for an exciting two-day event at Sengkang Grand Mall that
-        brings together job opportunities, skills training, and career support!
+      description: Join us on 30 August to learn about colorectal cancer and aftercare
+        support, plus hear from specialist doctors at a panel session.
       button: FIND OUT MORE
-      image: /images/NECDC_Career___Skills_Level_Up_Branding_Selected.jpg
+      image: /images/TC_Top_Screen_CWSS_2_0_Colorectal_Cancer.png
       alt: Image alt text
-      url: https://northeast.cdc.gov.sg/careerskills-levelup/
+      url: https://northeast.cdc.gov.sg/north-east-cancer-warrior-support-scheme-colorectal-cancer/
+  - infopic:
+      title: Walking Trails@CDC
+      id: infopic
+      description: Complete all five specially curated trails, including the North
+        East Trail to discover places of interest in your neighbourhood and earn
+        rewards!
+      button: Find out more
+      url: https://www.cdc.gov.sg/walking-trails-cdc/
+      alt: Image alt text
+      image: /images/Screenshot_2025_08_18_150812.png
   - infopic:
       title: SG60 Vouchers
       id: infopic
