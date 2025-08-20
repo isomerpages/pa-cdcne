@@ -28,8 +28,8 @@ sections:
   - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
-      description: Join us on 30 August and learn about colorectal cancer and
-        aftercare support, plus hear from specialist doctors at a panel session.
+      description: Join us on 30 August to learn about colorectal cancer and aftercare
+        support, plus hear from specialist doctors at a panel session.
       button: FIND OUT MORE
       image: /images/TC_Top_Screen_CWSS_2_0_Colorectal_Cancer.png
       alt: Image alt text
