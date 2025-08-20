@@ -33,7 +33,7 @@ sections:
       button: FIND OUT MORE
       image: /images/TC_Top_Screen_CWSS_2_0_Colorectal_Cancer.png
       alt: Image alt text
-      url: https://northeast.cdc.gov.sg/careerskills-levelup/
+      url: https://northeast.cdc.gov.sg/north-east-cancer-warrior-support-scheme-colorectal-cancer/
   - infopic:
       title: Walking Trails@CDC
       id: infopic
