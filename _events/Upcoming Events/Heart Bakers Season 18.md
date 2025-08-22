@@ -14,7 +14,8 @@ into confidence and income.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>3 Bottles of Cookies
-<br>(Cranberry, Shortbread, Chocolate Macadamia Nuts)</p>
+<br><em>(Cranberry, Shortbread, Chocolate Macadamia Nuts)</em>
+</p>
 </li>
 <li>
 <p>3 mini St. Dalfour Jam 28g (Assorted Flavours) &nbsp; &nbsp;</p>
@@ -58,7 +59,8 @@ into confidence and income.</p>
 <p>Metta Cafe</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click to Order</p>
+<p><a href="https://go.gov.sg/hb18metta" rel="noopener nofollow" target="_blank">Click to Order</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +71,8 @@ into confidence and income.</p>
 <p>Bizlink</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click to Order</p>
+<p><a href="https://go.gov.sg/hb18bizlink" rel="noopener nofollow" target="_blank">Click to Order</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +83,8 @@ into confidence and income.</p>
 <p>APSN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click to Order</p>
+<p><a href="https://go.gov.sg/hb18apsn" rel="noopener nofollow" target="_blank">Click to Order</a>
+</p>
 </td>
 </tr>
 </tbody>
