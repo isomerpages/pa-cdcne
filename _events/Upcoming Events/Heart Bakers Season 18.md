@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart_Bakers_Season_18_KV_Without_CTA.png">
+</div>
 <p>We are thrilled to launch <strong>Heart Bakers Season 18</strong> @ North
 East (SSA Edition) – a meaningful initiative in collaboration with Social
 Service Agencies (SSAs) to support persons with disabilities (PWDs). Every
@@ -89,4 +93,4 @@ into confidence and income.</p>
 </tr>
 </tbody>
 </table>
-<p>Sale Period: Now until 31 October 2025.</p>
+<p>Sale Period: Now until <strong>31 October 2025</strong>.</p>
