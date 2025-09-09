@@ -61,7 +61,7 @@ Council for Private Education (CPE) or currently hold valid licenses.</p>
 <p>$650</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarterly</p>
+<p>Once-off</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ Council for Private Education (CPE) or currently hold valid licenses.</p>
 <p>$1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Quarterly</p>
+<p>Once-off</p>
 </td>
 </tr>
 </tbody>
