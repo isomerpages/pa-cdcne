@@ -114,14 +114,14 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SkillsFuture Advice Workshops</p>
+<p>SkillsFuture Advice @ CDC Workshops</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As part of the SkillsFuture initiative, various workshops are conducted
 throughout the year to raise awareness on the need for career and skills
 planning.
 <br>
-<br>Click <a href="https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>Click <a href="https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/skillsfuture-advice-cdc-workshops" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 </td>
 </tr>
