@@ -19,5 +19,4 @@ a greater appreciation for the arts through these shared experiences.</p>
 People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
 <p>Visit <a href="https://www.gowhere.gov.sg/artseverywherecdc/" rel="noopener noreferrer nofollow" target="_blank">gowhere.gov.sg/artseverywherecdc</a> to
-discover ArtsEverywhere @ CDC programmes in North East CDC.</p>
-<p></p>
+discover ArtsEverywhere @ CDC in near you.</p>
