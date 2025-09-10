@@ -121,7 +121,7 @@ more details.</p>
 throughout the year to raise awareness on the need for career and skills
 planning.
 <br>
-<br>Click <a href="https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/skillsfuture-advice-cdc-workshops" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>Click <a href="https://northeast.cdc.gov.sg/programmes/employment-and-lifelong-learning/skillsfuture-advice-workshops" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more details.</p>
 </td>
 </tr>
