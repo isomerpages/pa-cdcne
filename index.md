@@ -35,7 +35,7 @@ sections:
       alt: Image alt text
       url: https://northeast.cdc.gov.sg/north-east-cancer-warrior-support-scheme-colorectal-cancer/
   - infopic:
-      title: Walking Trails@CDC
+      title: Walking Trails @ CDC
       id: infopic
       description: Complete all five specially curated trails, including the North
         East Trail to discover places of interest in your neighbourhood and earn
