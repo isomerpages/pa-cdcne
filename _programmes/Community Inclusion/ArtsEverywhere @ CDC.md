@@ -18,5 +18,4 @@ a greater appreciation for the arts through these shared experiences.</p>
 <p>ArtsEverywhere @ CDC is a collaboration between the National Arts Council,
 People's Association,&nbsp;and the five Community Development Councils,
 and is supported by the Ministry of Culture, Community and Youth.</p>
-<p>Visit <a href="https://www.gowhere.gov.sg/artseverywherecdc/" rel="noopener noreferrer nofollow" target="_blank">gowhere.gov.sg/artseverywherecdc</a> to
-discover ArtsEverywhere @ CDC in near you.</p>
+<p>Discover ArtsEverywhere @ CDC events near you at <a href="https://www.gowhere.gov.sg/artseverywherecdc/" rel="noopener noreferrer nofollow" target="_blank">gowhere.gov.sg/artseverywherecdc</a>.</p>
