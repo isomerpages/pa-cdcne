@@ -90,7 +90,7 @@ sections:
       alt: Image alt text
       image: /images/assistance.jpg
   - infopic:
-      title: Which District am I in?
+      title: Which District Am I In?
       description: Enter your postal code in our District Locator to find out your
         District's information. Scroll to the bottom of the page to locate it.
       button: Find Out Now
