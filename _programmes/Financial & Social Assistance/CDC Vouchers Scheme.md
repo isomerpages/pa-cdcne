@@ -1,5 +1,5 @@
 ---
-title: CDC Vouchers
+title: CDC Vouchers Scheme
 permalink: /programmes/financial-and-social-assistance/cdc-vouchers/
 description: ""
 third_nav_title: Financial & Social Assistance
@@ -17,4 +17,4 @@ The CDC Vouchers Scheme 2025 (January) are valid till 31 December 2025.
 
 [Learn](https://vouchers.cdc.gov.sg/residents/info/) how you can claim your CDC Vouchers 2025 (January).
 
-[Search](https://www.gowhere.gov.sg/cdcvouchers) for participating hawkers, heartland merchants and supermarkets in North East
+[Search](https://www.gowhere.gov.sg/cdcvouchers) for participating hawkers, heartland merchants and supermarkets in North East.
