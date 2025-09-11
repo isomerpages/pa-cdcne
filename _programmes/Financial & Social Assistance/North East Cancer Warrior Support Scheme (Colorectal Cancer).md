@@ -55,7 +55,8 @@ in the past 10 years/abnormal FIT results in the past one year</p>
 <p><strong>Apply for the subsidised FIT Kit through the scheme</strong>:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the Online Form and upload relevant supporting documents.</p>
+<p>Complete the <a href="go.gov.sg/cwsscolorectal" rel="noopener nofollow" target="_blank">Online Form</a> and
+upload relevant supporting documents.</p>
 </li>
 <li>
 <p>You may submit additional documents to <a href="mailto:northeast_cdc@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">northeast_cdc@pa.gov.sg</a>
