@@ -30,7 +30,7 @@ after national subsidies</p>
 to support beneficiaries with their cost-of-living concerns</p>
 </li>
 </ul>
-<p><strong>Eligibility:</strong> 
+<p><strong>Eligibility:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,6 +46,10 @@ cardholder</p>
 <li>
 <p>Due for colorectal cancer screening (no FIT done in past year/colonoscopy
 in past 10 years)</p>
+</li>
+<li>
+<p>No pre-existing or previous colorectal cancer/abnormal colonoscopy findings
+in the past 10 years/abnormal FIT results in the past one year</p>
 </li>
 </ul>
 <p><strong>Apply for the subsidised FIT Kit through the scheme</strong>:</p>
