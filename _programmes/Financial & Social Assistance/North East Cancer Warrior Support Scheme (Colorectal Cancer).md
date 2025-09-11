@@ -14,7 +14,7 @@ women. FIT (Faecal Immunochemical Test) screening has been proven effective
 in reducing deaths from Colorectal Cancer through early detection and treatment.&nbsp;</p>
 <p>Building on the success of the North East Cancer Warrior Support Scheme
 for Breast Cancer, North East Community Development Council (CDC) and SingHealth
-are expanding their collaboration to include colorectal cancer, with a
+are expanding their collaboration to include Colorectal Cancer, with a
 focus on ensuring patients have peace of mind whilst going through screening,
 assessment, diagnosis, treatment and recovery.</p>
 <p>The North East Cancer Warrior Support Scheme (Colorectal Cancer) will
