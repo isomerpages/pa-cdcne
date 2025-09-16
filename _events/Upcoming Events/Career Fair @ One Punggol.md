@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<h3><strong>Explore Meaningful Careers at Career Plaza</strong></h3>
+<h2><strong>Career Fair @ One Punggol</strong></h2>
 <p><strong>Date:</strong> 25 September
 <br><strong>Location:</strong> Career Plaza, One Punggol</p>
 <p>Discover vibrant, people-centric careers in Singapore’s growing lifestyle
@@ -38,4 +38,6 @@ jobseekers from diverse backgrounds</p>
 <p>Join us at and take a step toward a rewarding and inclusive career journey!</p>
 <p>Sign up now at <a href="https://e2i.sg/careerplaza0925" rel="noopener noreferrer nofollow" target="_blank">https://e2i.sg/careerplaza0925</a>
 </p>
+<p></p>
+<h2>Job Fair @ Seng Kang</h2>
 <p></p>
