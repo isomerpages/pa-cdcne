@@ -42,6 +42,7 @@ jobseekers from diverse backgrounds</p>
 <h2>SATS Walk-In Interview</h2>
 <p><strong>Date:</strong> 2 October
 <br><strong>Location:</strong> Sengkang Community Club</p>
+<p></p>
 <p>Come for a walk-in interview and connect with SATS recruiters face-to-face!
 Openings include Passenger Service Assistants, Assistant Engineers, Cooks,
 and Security Officers.</p>
@@ -59,6 +60,4 @@ discover exciting opportunities in preschools across Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunflower_25_Oct.png">
 </div>
-<p></p>
-<p></p>
 <p></p>
