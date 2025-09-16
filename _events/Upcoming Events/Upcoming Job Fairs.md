@@ -39,8 +39,15 @@ jobseekers from diverse backgrounds</p>
 <p>Sign up now at <a href="https://e2i.sg/careerplaza0925" rel="noopener noreferrer nofollow" target="_blank">https://e2i.sg/careerplaza0925</a>
 </p>
 <p></p>
-<h2>SATS Job Fair @ Seng Kang</h2>
-<p></p>
+<h2>SATS Walk-In Interview</h2>
+<p><strong>Date:</strong> 2 October
+<br><strong>Location:</strong> Sengkang Community Club</p>
+<p>Come for a walk-in interview and connect with SATS recruiters face-to-face!
+Openings include Passenger Service Assistants, Assistant Engineers, Cooks,
+and Security Officers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_09_16_at_17_32_50.jpg">
+</div>
 <p></p>
 <h2>Sunflower Preschool Recruitment Fair</h2>
 <p><strong>Date:</strong> 25 October
@@ -52,5 +59,6 @@ discover exciting opportunities in preschools across Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunflower_25_Oct.png">
 </div>
+<p></p>
 <p></p>
 <p></p>
