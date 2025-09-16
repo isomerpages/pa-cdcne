@@ -16,21 +16,21 @@ sectors.</p>
 <h4><strong>What to Expect:</strong></h4>
 <ul>
 <li>
-<p><strong>Explore Job Opportunities - </strong>Hands-on, service-driven
+<p><strong>Explore Job Opportunities:  </strong>Hands-on, service-driven
 positions with strong growth potential in the F&amp;B, retail, hospitality,
 and wellness sector</p>
 </li>
 <li>
-<p><strong>Meet Leading Employers - </strong>Connect with hiring managers
+<p><strong>Meet Leading Employers: </strong>Connect with hiring managers
 from established companies like FairPrice Group and Koufu, and learn more
 about workplace culture and expectations</p>
 </li>
 <li>
-<p><strong>Attend Career Talks - </strong>Gain insights from industry professionals
+<p><strong>Attend Career Talks: </strong>Gain insights from industry professionals
 and explore practical tips to sharpen your job search</p>
 </li>
 <li>
-<p><strong>Inclusive Hiring Focus - </strong>Employers committed to hiring
+<p><strong>Inclusive Hiring Focus: </strong>Employers committed to hiring
 persons with disabilities, neurodivergent individuals, ex-offenders, and
 jobseekers from diverse backgrounds</p>
 </li>
