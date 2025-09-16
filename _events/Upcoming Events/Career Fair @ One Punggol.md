@@ -16,9 +16,9 @@ sectors.</p>
 <h4><strong>What to Expect:</strong></h4>
 <ul>
 <li>
-<p><strong>Explore Job Opportunities:  </strong>Hands-on, service-driven
-positions with strong growth potential in the F&amp;B, retail, hospitality,
-and wellness sector</p>
+<p><strong>Explore Job Opportunities: </strong>Hands-on, service-driven positions
+with strong growth potential in the F&amp;B, retail, hospitality, and wellness
+sector</p>
 </li>
 <li>
 <p><strong>Meet Leading Employers: </strong>Connect with hiring managers
