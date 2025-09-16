@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Upcoming Events/Career Fair @ One Punggol.md
+      - Upcoming Events/Upcoming Job Fairs.md
       - Upcoming Events/Heart Bakers Season 18.md
       - Upcoming Events/.keep
       - Past Events/North East Cancer Warrior Support Scheme (Colorectal
