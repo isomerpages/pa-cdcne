@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Upcoming Events
 ---
-<h2><strong>Career Fair @ One Punggol</strong></h2>
+<h2><strong>Career Plaza @ One Punggol</strong></h2>
 <p><strong>Date:</strong> 25 September
 <br><strong>Location:</strong> Career Plaza, One Punggol</p>
 <p>Discover vibrant, people-centric careers in Singapore’s growing lifestyle
-sectors.</p>
+sectors at <strong>Career Plaza</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Career_Plaza___Jobs_eDM.jpg">
 </div>
@@ -40,4 +40,17 @@ jobseekers from diverse backgrounds</p>
 </p>
 <p></p>
 <h2>SATS Job Fair @ Seng Kang</h2>
+<p></p>
+<p></p>
+<h2>Sunflower Preschool Recruitment Fair</h2>
+<p><strong>Date:</strong> 25 October
+<br><strong>Location:</strong> Tampines East Community Club</p>
+<p></p>
+<p>Are you passionate about building a meaningful career in early childhood
+education? Come down to our <strong>Preschool Recruitment Fair </strong>and
+discover exciting opportunities in preschools across Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sunflower_25_Oct.png">
+</div>
+<p></p>
 <p></p>
