@@ -39,5 +39,5 @@ jobseekers from diverse backgrounds</p>
 <p>Sign up now at <a href="https://e2i.sg/careerplaza0925" rel="noopener noreferrer nofollow" target="_blank">https://e2i.sg/careerplaza0925</a>
 </p>
 <p></p>
-<h2>Job Fair @ Seng Kang</h2>
+<h2>SATS Job Fair @ Seng Kang</h2>
 <p></p>
