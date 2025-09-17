@@ -114,7 +114,7 @@ more details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SkillsFuture Advice Workshops</p>
+<p>SkillsFuture Advice @ CDC Workshops</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As part of the SkillsFuture initiative, various workshops are conducted

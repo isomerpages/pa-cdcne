@@ -2,10 +2,11 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Upcoming Job Fairs.md
       - Upcoming Events/Heart Bakers Season 18.md
-      - Upcoming Events/North East Cancer Warrior Support Scheme (Colorectal
-        Cancer).md
       - Upcoming Events/.keep
+      - Past Events/North East Cancer Warrior Support Scheme (Colorectal
+        Cancer).md
       - Past Events/Project Refresh 26th Edition.md
       - Past Events/Career & Skills Level Up @ North East.md
       - Past Events/Career Success Job Fair @ Hougang.md
