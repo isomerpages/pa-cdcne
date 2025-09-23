@@ -55,7 +55,7 @@ in the past 10 years/abnormal FIT results in the past one year</p>
 <p><strong>Apply for the subsidised FIT Kit through the scheme</strong>:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Complete the <a href="go.gov.sg/cwsscolorectal" rel="noopener nofollow" target="_blank">Online Form</a> and
+<p>Complete the <a href="http://go.gov.sg/cwsscolorectal" rel="noopener nofollow" target="_blank">Online Form</a> and
 upload relevant supporting documents.</p>
 </li>
 <li>
