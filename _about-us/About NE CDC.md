@@ -4,8 +4,6 @@ permalink: /about-us/about-ne-cdc/
 description: ""
 variant: markdown
 ---
-![](/images/About%20Us/North%20East%20District.png)
-
-North East Community Development Council (NECDC) is driven by its mission to create a caring and inclusive community. It creates tailored programs and initiatives to address evolving resident needs, especially in the face of complex social challenges like the rising cost of living, a dynamic job market, an aging population, and the need to foster an inclusive society with a strong social compact. By collaborating with partners and implementing targeted programs, NECDC aims to enhance social capital and provide support to disadvantaged families, children, seniors, unemployed individuals, and people with disabilities, all with the goal of ensuring everyone can thrive and lead better lives in the North East.
+Led by Mayor Baey Yam Keng, the North East Community Development Council (NE CDC) aggregates partners and resources to build a district connected in care, where residents are empowered to live better, stay connected, and take collective action for a caring and inclusive society. Through initiatives in social support, family and youth development, digital wellbeing, jobs and learning, NE CDC uplifts lives and strengthens bonds. By bringing together residents, corporate partners, and community organisations, the CDC strives to build a stronger North East where no one is left behind and every generation can shine.
 
 Enter your postal code in our [District Locator](https://www.gowhere.gov.sg/cdc) to find out your District's information. Scroll to the bottom of the page to locate it.
