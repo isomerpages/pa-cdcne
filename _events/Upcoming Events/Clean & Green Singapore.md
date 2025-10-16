@@ -97,7 +97,7 @@ session. Sign up via the links below to reserve your spot!</p>
 <p>Our Tampines Hub, Level 3, Function Room, 1 Tampines Walk, Singapore 528523</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.gle/gfNQ9Sf362qdm8SN7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/gfNQ9Sf362qdm8SN7</a> 
+<p><a href="https://forms.gle/gfNQ9Sf362qdm8SN7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/gfNQ9Sf362qdm8SN7</a>
 </p>
 </td>
 </tr>
@@ -112,9 +112,8 @@ session. Sign up via the links below to reserve your spot!</p>
 <p>10am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
-</p>
+<p>Tampines Ville Residents’ Network, Blk 842 Tampines St 82, #01-141, Singapore
+520842</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/ncJPR3GxcvJkJdBKA" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ncJPR3GxcvJkJdBKA</a>
@@ -132,9 +131,8 @@ session. Sign up via the links below to reserve your spot!</p>
 <p>1pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
-</p>
+<p>Tampines Ville Residents’ Network, Blk 842 Tampines St 82, #01-141, Singapore
+520842</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/2x6hHxjhztP4VWaEA" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/2x6hHxjhztP4VWaEA</a>
@@ -152,9 +150,8 @@ session. Sign up via the links below to reserve your spot!</p>
 <p>4pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
-</p>
+<p>Tampines Ville Residents’ Network, Blk 842 Tampines St 82, #01-141, Singapore
+520842</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/R5eN7zTn4gcpGhSp8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/R5eN7zTn4gcpGhSp8</a>
