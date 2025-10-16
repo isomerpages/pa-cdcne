@@ -15,9 +15,9 @@ green practices, everyone can play a role in transforming our neighbourhoods
 into vibrant and green spaces.</p>
 <p>Join CGS's <strong>free</strong> upcycling workshops, where you'll gain
 hands-on skills to turn fabric waste into unique and eco-friendly creations.
-Contribute your clean, unwanted fabrics or clothing to be upcycled by the
-artist at the workshop, where they will be sorted, processed, and given
-a second life in the art installation that promotes the vision of a clean
+Bring along clean, unwanted fabrics or clothing to contribute to the artist
+for upcycling, where these materials will be sorted, processed, and given
+a second life in an art installation that promotes the vision of a clean
 and green Singapore.</p>
 <p></p>
 <p></p>
