@@ -19,9 +19,8 @@ Bring along clean, unwanted fabrics or clothing to contribute to the artist
 for upcycling, where these materials will be sorted, processed, and given
 a second life in an art installation that promotes the vision of a clean
 and green Singapore.</p>
-<p></p>
-<p></p>
-<p></p>
+<p>Workshops are <em>limited to </em><strong><em>20 participants </em></strong>per
+session. Sign up via the links below to reserve your spot!</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
