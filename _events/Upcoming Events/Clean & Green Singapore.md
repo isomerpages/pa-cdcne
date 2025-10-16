@@ -14,7 +14,7 @@ to adopt sustainable lifestyles and protect the environment. By embracing
 green practices, everyone can play a role in transforming our neighbourhoods
 into vibrant and green spaces.</p>
 <p>Join CGS's <strong>free</strong> upcycling workshops, where you'll gain
-hands-on skills to turn fabric waste into unique, eco-friendly creations.
+hands-on skills to turn fabric waste into unique and eco-friendly creations.
 Contribute your clean, unwanted fabrics or clothing to be upcycled by the
 artist at the workshop, where they will be sorted, processed, and given
 a second life in the art installation that promotes the vision of a clean
