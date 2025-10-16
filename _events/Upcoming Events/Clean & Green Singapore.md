@@ -9,6 +9,12 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS_SG60_2025_A1_workshop_poster_r20__combined_timings_.jpg">
 </div>
+<p>Clean &amp; Green Singapore (CGS) is dedicated to inspiring Singaporeans
+to adopt sustainable lifestyles and protect the environment. By embracing
+green practices, everyone can play a role in transforming our neighbourhoods
+into vibrant and green spaces.</p>
+<p>Join free upcycling workshops by CGS, where you'll learn hands-on skills
+to turn fabric waste into unique, eco-friendly creations</p>
 <p></p>
 <p></p>
 <p></p>
