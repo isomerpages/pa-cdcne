@@ -9,8 +9,9 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS_SG60_2025_A1_workshop_poster_r20__combined_timings_.jpg">
 </div>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -28,6 +29,9 @@ third_nav_title: Upcoming Events
 <p>Time</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Venue</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Sign Up Link</p>
 </th>
 </tr>
@@ -36,71 +40,119 @@ third_nav_title: Upcoming Events
 <p>Tampines Changkat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>10am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Our Tampines Hub, Level 3, Function Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tampines Central</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Our Tampines Hub, Level 3, Function Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tampines Boulevard</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>19 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Our Tampines Hub, Level 3, Function Room</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines East</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 October 2025, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10am - 12pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Ville Residents’ Network</p>
+<p><em>842 Tampines St 82, Singapore 520842</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.gle/ncJPR3GxcvJkJdBKA" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/ncJPR3GxcvJkJdBKA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines North</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 October 2025, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1pm - 3pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Ville Residents’ Network</p>
+<p><em>842 Tampines St 82, Singapore 520842</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.gle/2x6hHxjhztP4VWaEA" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/2x6hHxjhztP4VWaEA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tampines West</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 October 2025, Sunday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4pm - 6pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tampines Ville Residents’ Network</p>
+<p><em>842 Tampines St 82, Singapore 520842</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.gle/R5eN7zTn4gcpGhSp8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/R5eN7zTn4gcpGhSp8</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
