@@ -49,7 +49,7 @@ third_nav_title: Upcoming Events
 <p>10am - 12pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Tampines Hub, Level 3, Function Room</p>
+<p>Our Tampines Hub, Level 3, Function Room, 1 Tampines Walk, Singapore 528523</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
@@ -67,7 +67,7 @@ third_nav_title: Upcoming Events
 <p>1pm - 3pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Tampines Hub, Level 3, Function Room</p>
+<p>Our Tampines Hub, Level 3, Function Room, 1 Tampines Walk, Singapore 528523</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
@@ -85,7 +85,7 @@ third_nav_title: Upcoming Events
 <p>4pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Our Tampines Hub, Level 3, Function Room</p>
+<p>Our Tampines Hub, Level 3, Function Room, 1 Tampines Walk, Singapore 528523</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.gle/brU71DnucdpzoEcV8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/brU71DnucdpzoEcV8</a>
