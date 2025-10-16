@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Clean & Green Singapore.md
       - Upcoming Events/Upcoming Job Fairs.md
       - Upcoming Events/Heart Bakers Season 18.md
       - Upcoming Events/.keep
