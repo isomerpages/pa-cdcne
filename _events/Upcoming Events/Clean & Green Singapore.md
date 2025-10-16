@@ -9,6 +9,9 @@ third_nav_title: Upcoming Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CGS_SG60_2025_A1_workshop_poster_r20__combined_timings_.jpg">
 </div>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
