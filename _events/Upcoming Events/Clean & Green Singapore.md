@@ -101,7 +101,7 @@ third_nav_title: Upcoming Events
 </td>
 <td rowspan="1" colspan="1">
 <p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, Singapore 520842</em>
+<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ third_nav_title: Upcoming Events
 </td>
 <td rowspan="1" colspan="1">
 <p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, Singapore 520842</em>
+<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -141,7 +141,7 @@ third_nav_title: Upcoming Events
 </td>
 <td rowspan="1" colspan="1">
 <p>Tampines Ville Residents’ Network</p>
-<p><em>842 Tampines St 82, Singapore 520842</em>
+<p><em>842 Tampines St 82, #01-141, Singapore 520842</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
