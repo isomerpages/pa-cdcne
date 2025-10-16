@@ -15,15 +15,13 @@ green practices, everyone can play a role in transforming our neighbourhoods
 into vibrant and green spaces.</p>
 <p>Join CGS's <strong>free</strong> upcycling workshops, where you'll gain
 hands-on experience turning fabric waste into unique and eco-friendly creations.
-Bring along clean, unwanted fabrics or clothing to contribute to the artist
-for upcycling, where these materials will be sorted, processed, and given
-a second life in an art installation that promotes the vision of a clean
-and green Singapore.</p>
+Bring along clean, unwanted fabrics to the workshop, where they will be
+upcycled, sorted, processed, and given a second life in an art installation
+that promotes the vision of a clean and green Singapore.</p>
 <p>Workshops are <em>limited to </em><strong><em>20 participants </em></strong>per
 session. Sign up via the links below to reserve your spot!</p>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -31,9 +29,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Division</p>
-</th>
 <th rowspan="1" colspan="1">
 <p>Date</p>
 </th>
@@ -48,9 +43,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tampines Changkat</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>19 October 2025, Sunday</p>
 </td>
@@ -67,9 +59,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tampines Central</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>19 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,9 +74,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tampines Boulevard</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>19 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,9 +88,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tampines East</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>26 October 2025, Sunday</p>
 </td>
@@ -122,9 +105,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tampines North</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>26 October 2025, Sunday</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,9 +120,6 @@ session. Sign up via the links below to reserve your spot!</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Tampines West</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>26 October 2025, Sunday</p>
 </td>
