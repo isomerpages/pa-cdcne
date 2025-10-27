@@ -98,11 +98,9 @@ box in workshops led by sustainable artist Didier Ng.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time:</strong> 23 November, 1:30pm-2pm &amp; 3pm-3:30pm</p>
-<p>
+<p><strong>Date and Time:</strong> 23 November, 1:30pm-2pm &amp; 3pm-3:30pm
 <br>
 </p>
-<p></p>
 <p><strong>Venue:</strong> Punggol Digital District</p>
 </td>
 <td rowspan="1" colspan="1">
