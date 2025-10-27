@@ -78,8 +78,7 @@ paper planes through reimagined landmarks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time:</strong> 21 November,&nbsp;</p>
-<p>6:30pm-7pm &amp; 7:30pm-8pm</p>
+<p><strong>Date and Time:</strong> 21 November,&nbsp;6:30pm-7pm &amp; 7:30pm-8pm</p>
 <p></p>
 <p><strong>Venue:</strong> Our Tampines Hub, Festive Walk West</p>
 </td>
