@@ -58,8 +58,8 @@ using simple sounds and movements to tell amazing stories.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time:</strong> 16 November, 1:30pm - 2:00pm</p>
-<p>3:00pm - 3:30pm</p>
+<p><strong>Date and Time:</strong> 16 November, 1:30pm - 2:00pm &amp; 3:00pm
+- 3:30pm</p>
 <p></p>
 <p><strong>Venue: </strong>Punggol Digital District</p>
 </td>
@@ -79,7 +79,7 @@ paper planes through reimagined landmarks.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Date and Time:</strong> 21 November,&nbsp;</p>
-<p>Timing TBC, to confirm with Hui Xin</p>
+<p>6:30pm-7pm &amp; 7:30pm-8pm</p>
 <p></p>
 <p><strong>Venue:</strong> Our Tampines Hub, Festive Walk West</p>
 </td>
@@ -98,8 +98,10 @@ box in workshops led by sustainable artist Didier Ng.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Date and Time:</strong> 23 November,</p>
-<p>Timing TBC, to confirm with Hui Xin</p>
+<p><strong>Date and Time:</strong> 23 November, 1:30pm-2pm &amp; 3pm-3:30pm</p>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>Venue:</strong> Punggol Digital District</p>
 </td>
