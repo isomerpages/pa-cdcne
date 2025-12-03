@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Upcoming Events/Heart Bakers Season 20.md
       - Upcoming Events/.keep
       - Past Events/Heart Bakers Season 18.md
       - Past Events/Upcoming Job Fairs.md
