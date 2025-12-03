@@ -3,7 +3,7 @@ title: Arts Everywhere @ CDC in November
 permalink: /arts-everywhere-cdc-in-november/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <p><strong>This November, ArtsEverywhere @ CDC in the North East is where the magic happens!</strong>
 </p>

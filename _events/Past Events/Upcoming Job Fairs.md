@@ -3,7 +3,7 @@ title: Upcoming Job Fairs
 permalink: /career-fair-one-punggol/
 variant: tiptap
 description: ""
-third_nav_title: Upcoming Events
+third_nav_title: Past Events
 ---
 <h2><strong>Career Plaza @ One Punggol</strong></h2>
 <p><strong>Date:</strong> 25 September
