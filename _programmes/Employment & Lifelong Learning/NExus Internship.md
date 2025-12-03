@@ -5,9 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Employment & Lifelong Learning
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Employment &amp; Lifelong Learning/NExus_Internship_Recruitment.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NExus_Internship_Recruitment.png">
 </div>
 <p>Ready to make a real difference in your community while gaining valuable
 work experience? Join the Nexus Internship Programme to gain real-world
