@@ -16,7 +16,7 @@ third_nav_title: Heartbeat @ North East
 <p>Month</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Newsletter</p>
+<p>Link to NE Heartbeat</p>
 </th>
 </tr>
 <tr>
