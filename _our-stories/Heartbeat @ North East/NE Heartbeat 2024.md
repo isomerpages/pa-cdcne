@@ -42,7 +42,8 @@ third_nav_title: Heartbeat @ North East
 <p>March 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/66fe198b16120116698215" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +51,7 @@ third_nav_title: Heartbeat @ North East
 <p>April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Newsletter</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +59,8 @@ third_nav_title: Heartbeat @ North East
 <p>May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/66fe1bb621457593736648" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +68,8 @@ third_nav_title: Heartbeat @ North East
 <p>June 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/66615ed530788646500817" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +77,8 @@ third_nav_title: Heartbeat @ North East
 <p>July 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/668fa605083a0569023247" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +86,8 @@ third_nav_title: Heartbeat @ North East
 <p>August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/66bafb708d566006513986" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +95,8 @@ third_nav_title: Heartbeat @ North East
 <p>September 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/66e160e91d068035511082" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,7 +104,8 @@ third_nav_title: Heartbeat @ North East
 <p>October 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/670965cb6df0e536570796" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +113,8 @@ third_nav_title: Heartbeat @ North East
 <p>November 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/673e807968c0e764053039" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +122,7 @@ third_nav_title: Heartbeat @ North East
 <p>December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Newsletter</p>
 </td>
 </tr>
 </tbody>
@@ -130,3 +138,5 @@ third_nav_title: Heartbeat @ North East
 <p>[Newsletter Sep 2024](<a href="https://pa.imail-host.com/email/view/66e160e91d068035511082" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66e160e91d068035511082</a>)</p>
 <p>[Newsletter Oct 2024](<a href="https://pa.imail-host.com/email/view/670965cb6df0e536570796" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/670965cb6df0e536570796</a>)</p>
 <p>[Newsletter Nov 2024](<a href="https://pa.imail-host.com/email/view/673e807968c0e764053039" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/673e807968c0e764053039</a>)</p>
+<p></p>
+<p></p>
