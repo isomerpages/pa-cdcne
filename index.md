@@ -63,25 +63,6 @@ sections:
       image: /images/CWSS.png
       alt: Image alt text
   - infopic:
-      title: "Art Beyond Limits: Shaping Hearts 2025"
-      id: infopic
-      description: Experience art beyond limits with Shaping Hearts this year,
-        showcasing over 700 paintings around Singapore. More exhibitions are
-        coming your way.
-      button: Find out more
-      url: https://shapinghearts.cdc.gov.sg/art-exhibition/
-      image: /images/sh.png
-      alt: Image alt text
-  - infopic:
-      title: "Fundraising 2025: Step Up For Brighter Smiles!"
-      id: infopic
-      description: Donate to provide milk formula, diapers, and transportation relief
-        for families in need.
-      button: Find out more
-      url: https://go.gov.sg/northeastcare
-      image: /images/fundraising_website.jpg
-      alt: Image alt text
-  - infopic:
       title: Support @ North East
       description: Know more about our various financial, social, and employment
         assistance schemes.
