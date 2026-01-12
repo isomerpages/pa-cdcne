@@ -64,7 +64,8 @@ third_nav_title: Heartbeat @ North East
 <p>June 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/6861f74a36536105289494" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +73,8 @@ third_nav_title: Heartbeat @ North East
 <p>July 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/6882bbeb69bc2840883386" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +82,8 @@ third_nav_title: Heartbeat @ North East
 <p>August 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/68b10b8a0ca3e009905719" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +91,8 @@ third_nav_title: Heartbeat @ North East
 <p>September 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://pa.imail-host.com/email/view/68ca73e72b696613051538" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 <tr>
