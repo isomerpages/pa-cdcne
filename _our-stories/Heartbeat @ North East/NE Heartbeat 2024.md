@@ -128,15 +128,4 @@ third_nav_title: Heartbeat @ North East
 </tbody>
 </table>
 <p></p>
-<p>[Newsletter Jan 2024](<a href="https://pa.imail-host.com/email/view/65b2b55a72225574083153" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/65b2b55a72225574083153</a>)</p>
-<p>[Newsletter Feb 2024](<a href="https://pa.imail-host.com/email/view/65dfdfa0bba3c093108577" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/65dfdfa0bba3c093108577</a>)</p>
-<p>[Newsletter Mar 2024](<a href="https://pa.imail-host.com/email/view/66fe198b16120116698215" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66fe198b16120116698215</a>)</p>
-<p>[Newsletter May 2024](<a href="https://pa.imail-host.com/email/view/66fe1bb621457593736648" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66fe1bb621457593736648</a>)</p>
-<p>[Newsletter June 2024](<a href="https://pa.imail-host.com/email/view/66615ed530788646500817" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66615ed530788646500817</a>)</p>
-<p>[Newsletter Jul 2024](<a href="https://pa.imail-host.com/email/view/668fa605083a0569023247" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/668fa605083a0569023247</a>)</p>
-<p>[Newsletter Aug 2024](<a href="https://pa.imail-host.com/email/view/66bafb708d566006513986" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66bafb708d566006513986</a>)</p>
-<p>[Newsletter Sep 2024](<a href="https://pa.imail-host.com/email/view/66e160e91d068035511082" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/66e160e91d068035511082</a>)</p>
-<p>[Newsletter Oct 2024](<a href="https://pa.imail-host.com/email/view/670965cb6df0e536570796" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/670965cb6df0e536570796</a>)</p>
-<p>[Newsletter Nov 2024](<a href="https://pa.imail-host.com/email/view/673e807968c0e764053039" rel="noopener noreferrer nofollow" target="_blank">https://pa.imail-host.com/email/view/673e807968c0e764053039</a>)</p>
-<p></p>
 <p></p>
