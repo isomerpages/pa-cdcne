@@ -2,6 +2,7 @@ collections:
   our-stories:
     output: true
     order:
+      - NE Heartbeat 2022/.keep
       - People of North East/.keep
       - People of North East/Refurbishing Homes for Seniors.md
       - People of North East/Olympic Swimmer with Autism Finds Peace in
