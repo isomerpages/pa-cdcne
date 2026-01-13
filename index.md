@@ -35,12 +35,14 @@ sections:
       image: /images/KLSHA_EDM_2nd_post___1_.png
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Jobs Nearby @ CDC
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: The initiative helps residents find job opportunities near their
+        homes through personalised support and strong community partnerships.
+      button: find out more
       alt: Image alt text
+      url: https://jobsnearby.cdc.gov.sg/
+      image: /images/Jobs_Nearby.png
   - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
