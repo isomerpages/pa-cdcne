@@ -122,7 +122,8 @@ third_nav_title: Heartbeat @ North East
 <p>December 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Newsletter</p>
+<p><a href="https://pa.imail-host.com/email/view/676328d7cc6f8280027511" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 </tbody>
