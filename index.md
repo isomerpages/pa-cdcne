@@ -35,6 +35,13 @@ sections:
       image: /images/KLSHA_EDM_2nd_post___1_.png
       alt: Image alt text
   - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
       description: Provides up to $15,000 in financial assistance for eligible
