@@ -42,7 +42,7 @@ sections:
       button: find out more
       alt: Image alt text
       url: https://jobsnearby.cdc.gov.sg/
-      image: /images/Jobs_Nearby.png
+      image: /images/maxresdefault.jpg
   - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
