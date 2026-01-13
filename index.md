@@ -26,6 +26,15 @@ sections:
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
+      title: Kiat Lim-Shaping Hearts Awards
+      id: infopic
+      description: An arts bursary and scholarship to support persons with
+        disabilities (PWDs) to progress through the arts.
+      button: Apply here
+      url: https://shapinghearts.cdc.gov.sg/awards/
+      image: /images/KLSHA_EDM_2nd_post___1_.png
+      alt: Image alt text
+  - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
       description: Provides up to $15,000 in financial assistance for eligible
