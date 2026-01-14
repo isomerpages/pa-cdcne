@@ -30,8 +30,8 @@ sections:
       id: infopic
       description: An arts bursary and scholarship to support persons with
         disabilities (PWDs) to progress through the arts.
-      button: Apply here
-      url: https://shapinghearts.cdc.gov.sg/awards/
+      button: find out more
+      url: https://northeast.cdc.gov.sg/programmes/neheartsaward/
       image: /images/KLSHA_EDM_2nd_post___1_.png
       alt: Image alt text
   - infopic:

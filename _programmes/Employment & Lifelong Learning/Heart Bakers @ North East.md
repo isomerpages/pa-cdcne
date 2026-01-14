@@ -16,7 +16,7 @@ business.</p>
 <p>Upon completing the training, participants will bake the cookies for sale.
 Proceeds from sales goes to the participants to supplement their household
 income and support them in starting their own business.</p>
-<p>Join us in supporting this meaningful cause, place your orders <a href="https://go.gov.sg/hborder" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Join us in supporting this meaningful cause, place your orders <a href="go.gov.sg/hb20orders" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Heart Bakers/223.jpg">
 </div>
