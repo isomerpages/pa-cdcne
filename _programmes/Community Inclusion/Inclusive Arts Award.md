@@ -186,7 +186,7 @@ to have a permanent disability*. This includes any one of the following:</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Apply for the Kiat Lim-Shaping Hearts Awards </strong><a href="go.gov.sg/klsha2026" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
+<p><strong>Apply for the Kiat Lim-Shaping Hearts Awards </strong><a href="https://form.gov.sg/68d0ca6c26128e0ec34f17aa" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
 </p>
 <p></p>
 <h4><strong>Neo Kah Kiat Arts Award</strong></h4>
