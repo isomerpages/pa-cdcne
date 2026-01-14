@@ -28,7 +28,7 @@ creativity and develop essential skills for personal growth and development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_20_at_5_42_02_PM.png">
 </div>
-<p><strong>Register for the Kiat Lim-Shaping Hearts Awards </strong><a href="go.gov.sg/klsha2026" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
+<p><strong>Apply for the Kiat Lim-Shaping Hearts Awards </strong><a href="go.gov.sg/klsha2026" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
 </p>
 <p></p>
 <h4><strong>Neo Kah Kiat Arts Award</strong></h4>
