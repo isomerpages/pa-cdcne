@@ -6,12 +6,15 @@ description: ""
 third_nav_title: Community Inclusion
 ---
 <h3>SUPPORTING AND RECOGNISING ARTISTIC EXCELLENCE</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Photo_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/R5_05783__1___1_.jpg">
 </div>
 <p>At North East CDC, we are committed to celebrate and uplift artists with
 disabilities. We introduced two prestigious awards: one recognising overall
 artistic achievement, and another honouring excellence in painting.</p>
+<p><strong>Apply for the Kiat Lim-Shaping Hearts Awards </strong><a href="https://form.gov.sg/68d0ca6c26128e0ec34f17aa" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
+</p>
 <h4><strong>Kiat Lim-Shaping Hearts Awards</strong></h4>
 <p>The Kiat Lim-Shaping Hearts Awards is designed to nurture artists with
 disabilities throughout their artistic journey, from early education to
@@ -185,9 +188,6 @@ to have a permanent disability*. This includes any one of the following:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>Apply for the Kiat Lim-Shaping Hearts Awards </strong><a href="https://form.gov.sg/68d0ca6c26128e0ec34f17aa" rel="noopener nofollow" target="_blank">here</a><strong> by 28 February 2026.</strong>
-</p>
 <p></p>
 <h4><strong>Neo Kah Kiat Arts Award</strong></h4>
 <p>The Neo Kah Kiat Arts Awards recognise artistic excellence among artists
