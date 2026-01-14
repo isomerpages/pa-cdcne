@@ -26,6 +26,24 @@ sections:
           description: ""
           url: https://shapinghearts.cdc.gov.sg/
   - infopic:
+      title: Kiat Lim-Shaping Hearts Awards
+      id: infopic
+      description: An arts bursary and scholarship to support persons with
+        disabilities (PWDs) to progress through the arts.
+      button: Apply here
+      url: https://shapinghearts.cdc.gov.sg/awards/
+      image: /images/KLSHA_EDM_2nd_post___1_.png
+      alt: Image alt text
+  - infopic:
+      title: Jobs Nearby @ CDC
+      id: infopic
+      description: The initiative helps residents find job opportunities near their
+        homes through personalised support and strong community partnerships.
+      button: find out more
+      alt: Image alt text
+      url: https://jobsnearby.cdc.gov.sg/
+      image: /images/maxresdefault.jpg
+  - infopic:
       title: North East Cancer Warrior Support | Colorectal Cancer
       id: infopic
       description: Provides up to $15,000 in financial assistance for eligible
@@ -61,25 +79,6 @@ sections:
       button: FIND OUT MORE
       url: https://northeast.cdc.gov.sg/programmes/financial-and-social-assistance/cwss/
       image: /images/CWSS.png
-      alt: Image alt text
-  - infopic:
-      title: "Art Beyond Limits: Shaping Hearts 2025"
-      id: infopic
-      description: Experience art beyond limits with Shaping Hearts this year,
-        showcasing over 700 paintings around Singapore. More exhibitions are
-        coming your way.
-      button: Find out more
-      url: https://shapinghearts.cdc.gov.sg/art-exhibition/
-      image: /images/sh.png
-      alt: Image alt text
-  - infopic:
-      title: "Fundraising 2025: Step Up For Brighter Smiles!"
-      id: infopic
-      description: Donate to provide milk formula, diapers, and transportation relief
-        for families in need.
-      button: Find out more
-      url: https://go.gov.sg/northeastcare
-      image: /images/fundraising_website.jpg
       alt: Image alt text
   - infopic:
       title: Support @ North East
