@@ -2,9 +2,14 @@
 title: Volunteer
 permalink: /giving-back/volunteer/
 description: ""
+variant: tiptap
 ---
-Everyone plays an important role in the community. There are many volunteering opportunities available in the North East community and we welcome volunteers of all ages and interests.
-
-Click [here](https://form.gov.sg/#!/5ae14e9e02aca3001aa98c53) to discover the various volunteering opportunities in North East!
-
-![](/images/Giving%20Back/Volunteer/Volunteer.jpg)
+<p>Everyone plays an important role in the community. There are many volunteering
+opportunities available in the North East community and we welcome volunteers
+of all ages and interests.</p>
+<p>Click <a href="http://go.gov.sg/nevolunteer" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+discover the various volunteering opportunities in North East!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Giving%20Back/Volunteer/Volunteer.jpg">
+</div>
+<p></p>
