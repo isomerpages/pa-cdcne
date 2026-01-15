@@ -28,7 +28,10 @@ career — no appointment needed!</p>
 <p>📍 Buangkok Community Club
 <br>📅 22 January 2026 (Thursday)
 <br>⏰ 10am – 4pm</p>
-<p></p>
+<h4>29 January | SATS Walk-In Interview</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SATS_29_Jan_OTH_EDM.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
