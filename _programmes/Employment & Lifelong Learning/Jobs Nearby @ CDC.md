@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Employment & Lifelong Learning
 variant: markdown
 ---
-Job Placement Centres are set up in collaboration with the Grassroots Organisations to provide employment assistance for residents in the North East District. Coaches are on hand to provide job matching and career coaching. 
+Jobs Nearby @ CDC connects you with local employment opportunities in your neighbourhood. Our Job Ambassadors work closely with residents to provide personalised job-matching support and referrals to nearby employers who are hiring.
 
-Check out the list of Job Placement Centres in North East here:
+Check out the list of Community Job Clinics in North East here:
 
-##### Project S.U.C.C.E.S.S.
+##### Community Job Clinics
 
 | Centre Name | Address | Contact Details |
 | -------- | -------- | ------- |
