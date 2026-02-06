@@ -38,7 +38,8 @@ who are hiring.</p>
 <p>93 Pasir Ris Drive 3, #02-02, Singapore 519498</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays to Fridays – 10am to 1pm &amp; 2pm to 5pm(closed on Public Holidays)</p>
+<p>Mondays to Fridays – 10am to 1pm &amp; 2pm to 5pm
+<br>(closed on Public Holidays)</p>
 <p></p>
 </td>
 </tr>
@@ -52,8 +53,8 @@ who are hiring.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Mondays &amp; Fridays – 10am to 1pm &amp; 2pm to 5pm(closed on Public
-Holidays)</p>
+<p>Every Mondays &amp; Fridays – 10am to 1pm &amp; 2pm to 5pm
+<br>(closed on Public Holidays)</p>
 <p></p>
 </td>
 </tr>
@@ -67,7 +68,8 @@ Holidays)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Every Tuesday – 10am to 1pm &amp; 2pm to 5pm(closed on Public Holidays)</p>
+<p>Every Tuesday – 10am to 1pm &amp; 2pm to 5pm
+<br>(closed on Public Holidays)</p>
 <p></p>
 </td>
 </tr>
@@ -81,7 +83,8 @@ Holidays)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays to Fridays – 10am to 1pm &amp; 2pm to 5pm(closed on Public Holidays)</p>
+<p>Mondays to Fridays – 10am to 1pm &amp; 2pm to 5pm
+<br>(closed on Public Holidays)</p>
 <p></p>
 </td>
 </tr>
