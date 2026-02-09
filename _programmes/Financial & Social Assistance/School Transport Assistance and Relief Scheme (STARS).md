@@ -77,8 +77,9 @@ Council for Private Education (CPE) or currently hold valid licenses.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Programmes/Financial%20&amp;%20Social%20Assistance/school%20transport%20assistance%20and%20relief%20scheme%20(stars)%20(1).png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ext___School_Transport_Assistance_and_Relief_Scheme__STARS___1_.jpg">
 </div>
 <p>To apply, you can complete the&nbsp;<a href="https://form.gov.sg/67cea1ac25853d1983137b0e" rel="noopener noreferrer nofollow" target="_blank">Online Form</a>&nbsp;and
 upload relevant supporting documents. You may submit additional documents
