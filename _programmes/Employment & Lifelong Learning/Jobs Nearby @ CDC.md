@@ -90,10 +90,10 @@ who are hiring.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IG Room 1
-<br>NLB Level 2
+<p>IGA Room1
+<br>Tampines Library Level 2
 <br>Our Tampines Hub
-<br>1 Tampines Walk Singapore 528523</p>
+<br>1 Tampines Walk S528523</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="3">
