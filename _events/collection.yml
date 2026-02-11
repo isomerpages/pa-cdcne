@@ -1,0 +1,34 @@
+collections:
+  events:
+    output: true
+    order:
+      - Upcoming Events/Upcoming Job Fairs.md
+      - Upcoming Events/Heart Bakers Season 20.md
+      - Upcoming Events/.keep
+      - Past Events/Heart Bakers Season 18.md
+      - Past Events/Clean & Green Singapore.md
+      - Past Events/Arts Everywhere @ CDC in November.md
+      - Past Events/North East Cancer Warrior Support Scheme (Colorectal
+        Cancer).md
+      - Past Events/Project Refresh 26th Edition.md
+      - Past Events/Career & Skills Level Up @ North East.md
+      - Past Events/Kindness Warrior 2025.md
+      - Past Events/Walk In Interviews Happening This April.md
+      - Past Events/Project Refresh x Wellness On Wheels.md
+      - Past Events/Arts Everywhere @ OTH.md
+      - Past Events/North East Countdown 2024.md
+      - Past Events/Shaping Hearts 2024.md
+      - Past Events/Healthier Together @ Tampines.md
+      - Past Events/Career & Skills Level Up.md
+      - Past Events/Action for Women's Health.md
+      - Past Events/Shaping Hearts 2023.md
+      - Past Events/Tampines Green & Wellness Festival.md
+      - Past Events/SkillsFuture Festival @ North East.md
+      - "Past Events/She Matters: Action for Women's Health.md"
+      - Past Events/District Meeting 2023.md
+      - Past Events/Shaping Hearts 2022.md
+      - Past Events/Kindness Warrior Run.md
+      - Past Events/North East Community Give Back Golf & Appreciation Dinner.md
+      - Past Events/Careers Unmasked 2022.md
+      - Past Events/SkillsFuture Festival @ North East 2022.md
+      - Past Events/.keep

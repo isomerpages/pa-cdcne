@@ -1,0 +1,132 @@
+---
+title: NE Heartbeat 2025
+permalink: /ne-heartbeat-2025/
+variant: tiptap
+description: ""
+third_nav_title: Heartbeat @ North East
+---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Month</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Link to NE Heartbeat</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/6795288900d97883128027" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>February 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/67c3e7b58f0f1595293073" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/67e6048c5ca02480253382" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/680abdc914f2b450323786" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/682ecd5707333442357313" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/6861f74a36536105289494" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/6882bbeb69bc2840883386" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/68b10b8a0ca3e009905719" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/68ca73e72b696613051538" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/68fbabec0ac1b480075581" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/691e7088974b6290672204" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>December 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/6945c9097ec2b962513775" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
