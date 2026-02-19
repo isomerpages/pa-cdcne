@@ -9,7 +9,8 @@ variant: tiptap
 your neighbourhood. Our Job Ambassadors work closely with residents to
 provide personalised job-matching support and referrals to nearby employers
 who are hiring.</p>
-<p>Check out the list of Community Job Clinics in North East here:</p>
+<p>Register your interest <a href="https://form.gov.sg/68f835a68915ea0df898d538" rel="noopener nofollow" target="_blank">HERE</a> or
+you may walk in to our Community Job Clinics in North East here:</p>
 <h5>Community Job Clinics</h5>
 <table style="minWidth: 125px">
 <colgroup>
