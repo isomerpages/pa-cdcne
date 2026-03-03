@@ -110,7 +110,7 @@ you may visit our Community Job Clinics in North East listed below:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Tampines Ave 3
-<br>Glass Studio at level 1
+<br>Activity Room 3, Level 3
 <br>Singapore 529705
 <br>
 </p>
