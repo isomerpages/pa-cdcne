@@ -24,7 +24,17 @@ third_nav_title: Heartbeat @ North East
 <p>January 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Newsletter</p>
+<p><a href="https://pa.imail-host.com/email/view/6979e0f76df73816345012" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>February 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pa.imail-host.com/email/view/69a647cc9c1f1136452185" rel="noopener nofollow" target="_blank">Newsletter</a>
+</p>
 </td>
 </tr>
 </tbody>
