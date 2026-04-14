@@ -19,3 +19,6 @@ the wellbeing and good health of our little ones are not compromised.</p>
 upload relevant supporting documents. You may submit additional documents
 to <a href="mailto:Northeast_CDC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Northeast_CDC@pa.gov.sg</a>.</p>
 <p>If you have any further queries, you may email us at&nbsp;<a href="mailto:Northeast_CDC@pa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Northeast_CDC@pa.gov.sg</a>.</p>
+<p><strong>Note: From 1 April 2026, our North East Local Assistance Schemes have been decentralised to the respective North East Divisions for more localised support. If you have any further queries, please approach your nearest CC.</strong>
+</p>
+<p></p>
